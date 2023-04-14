@@ -8,7 +8,7 @@ object Field {
   val seperator = System.getProperty("line.separator")
 
   // Initialisiert das Spielbrett mit leeren Feldern
-  val board = Array.ofDim[String](size, size)
+  val board: Array[Array[String]] = Array.ofDim[String](size, size)
   for (row <- 0 until size) {
     for (col <- 0 until size) {
       board(row)(col) = "Merge"
