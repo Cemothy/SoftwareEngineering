@@ -11,7 +11,7 @@ object Field {
   val board: Array[Array[String]] = Array.ofDim[String](size, size)
   for (row <- 0 until size) {
     for (col <- 0 until size) {
-      board(row)(col) = "Merge"
+      board(row)(col) = "x"
     }
     board(row)(size-1) = "+\n"
   }
