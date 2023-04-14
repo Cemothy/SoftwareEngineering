@@ -5,7 +5,7 @@ object Field {
   val size = 8
 
   //Seperator
-  val seperator = System.getProperty("line.separator")
+  val seperator: String = System.getProperty("line.separator")
 
   // Initialisiert das Spielbrett mit leeren Feldern
   val board: Array[Array[String]] = Array.ofDim[String](size, size)
@@ -16,7 +16,7 @@ object Field {
     board(row)(size-1) = "+\n"
   }
 
-  def bar() = ("+" + "-" * 3) * 8 + "+" + seperator
+  def bar(): String = ("+" + "-" * 3) * 8 + "+" + seperator
 
   // Methode zum Anzeigen des Spielbretts auf der Konsole
   def displayBoard(): Unit = {
@@ -73,7 +73,7 @@ object Field {
     board(row)(col) = board(row)(col).replaceFirst("o", "x")
   }
 
-  def main(args: Array[String]) = {
+  def main(args: Array[String]): Unit = {
 
     startingBoard()
     displayBoard();
