@@ -6,7 +6,7 @@ class FieldSpec extends AnyWordSpec {
   "Field" should {
 
     "have a size of 8" in {
-      Field.size mustEqual 8
+      Field.size shouldBe 8
     }
 
 
@@ -18,30 +18,30 @@ class FieldSpec extends AnyWordSpec {
         }
         emptyBoard(row)(Field.size-1) = "+\n"
       }
-      Field.board mustEqual emptyBoard
+      Field.board shouldBe emptyBoard
     }
 
     "create a starting board" in {
       Field.startingBoard()
-      Field.board(0)(0) mustEqual "| o "
-      Field.board(0)(2) mustEqual "| o "
-      Field.board(1)(1) mustEqual "| o "
-      Field.board(1)(3) mustEqual "| o "
-      Field.board(2)(0) mustEqual "| o "
-      Field.board(2)(2) mustEqual "| o "
-      Field.board(5)(1) mustEqual "| o "
-      Field.board(6)(0) mustEqual "| o "
-      Field.board(7)(1) mustEqual "| o "
+      Field.board(0)(0) shouldBe "o"
+      Field.board(0)(2) shouldBe "o"
+      Field.board(1)(1) shouldBe "o"
+      Field.board(1)(3) shouldBe "o"
+      Field.board(2)(0) shouldBe "o"
+      Field.board(2)(2) shouldBe "o"
+      Field.board(5)(1) shouldBe "o"
+      Field.board(6)(0) shouldBe "o"
+      Field.board(7)(1) shouldBe "o"
     }
 
     "add a circle to a field" in {
       Field.addCircle(0, 0)
-      Field.board(0)(0) mustEqual "| o "
+      Field.board(0)(0) shouldBe "o"
     }
 
     "remove a circle from a field" in {
       Field.removeCircle(0, 0)
-      Field.board(0)(0) mustEqual "|   "
+      Field.board(0)(0) shouldBe "x"
     }
 
   }
