@@ -10,11 +10,19 @@ object Field {
   // Größe des Spielbretts
   val size = 8
 
+<<<<<<< HEAD
   // Seperator
   val seperator = System.getProperty("line.separator")
 
   // Initialisiert das Spielbrett mit leeren Feldern
   val board = Array.ofDim[String](size, size+1)
+=======
+  //Seperator
+  val seperator: String = System.getProperty("line.separator")
+
+  // Initialisiert das Spielbrett mit leeren Feldern
+  val board: Array[Array[String]] = Array.ofDim[String](size, size)
+>>>>>>> ee71c2a613613167eb90b83435dc51cf88d2337a
   for (row <- 0 until size) {
     for (col <- 0 until size) {
       board(row)(col) = "x"
@@ -22,8 +30,12 @@ object Field {
     board(row)(size) = "+\n"
   }
 
+<<<<<<< HEAD
   // Print bar
   def bar() = ("+" + "-" * 3) * 8 + "+" + seperator
+=======
+  def bar(): String = ("+" + "-" * 3) * 8 + "+" + seperator
+>>>>>>> ee71c2a613613167eb90b83435dc51cf88d2337a
 
   // Methode zum Anzeigen des Spielbretts auf der Konsole
   def displayBoard(): Unit = {
@@ -80,6 +92,7 @@ object Field {
     board(row)(col) = board(row)(col).replaceFirst("o", "x")
   }
 
+<<<<<<< HEAD
   //Basic Move, Capturing not included yet!
   def movePiece(row: Int, col: Int, rowDest: Int, colDest: Int): Unit = {
     if(board(rowDest)(colDest).contains("o")){
@@ -95,6 +108,9 @@ object Field {
   }
 
   def main(args: Array[String]) = {
+=======
+  def main(args: Array[String]): Unit = {
+>>>>>>> ee71c2a613613167eb90b83435dc51cf88d2337a
 
     startingBoard()
     displayBoard();
