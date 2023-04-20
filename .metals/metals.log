@@ -1,0 +1,1235 @@
+2023.04.19 14:58:09 INFO  Started: Metals version 0.11.11 in workspace 'C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game' for client Visual Studio Code 1.76.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Robin/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.19 14:58:09 INFO  time: initialize in 0.56s
+2023.04.19 14:58:11 WARN  Build server is not auto-connectable.
+2023.04.19 14:58:11 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\Dame.scala
+2023.04.19 14:58:11 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\Field.scala
+2023.04.19 14:58:11 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\Main.scala
+2023.04.19 14:58:30 INFO  no build target found for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.19 14:58:30 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\Mesh.scala
+2023.04.19 14:58:30 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\Main.scala
+Apr. 19, 2023 2:58:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 5
+2023.04.19 14:58:30 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\Player.scala
+2023.04.19 14:58:30 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\Mesh.scala
+Apr. 19, 2023 2:58:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 12
+Apr. 19, 2023 2:58:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 13
+2023.04.19 14:58:30 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\Player.scala
+Apr. 19, 2023 2:58:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 17
+Apr. 19, 2023 2:58:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 18
+2023.04.19 14:58:30 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals6955581772006716462\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.04.19 14:58:33 INFO  [info] welcome to sbt 1.8.2 (Eclipse Adoptium Java 17.0.5)
+2023.04.19 14:58:33 INFO  time: code lens generation in 3.2s
+2023.04.19 14:58:33 INFO  time: code lens generation in 3.17s
+2023.04.19 14:58:33 INFO  time: code lens generation in 2.43s
+2023.04.19 14:58:33 INFO  time: code lens generation in 3.38s
+2023.04.19 14:58:33 INFO  time: code lens generation in 3.4s
+2023.04.19 14:58:33 INFO  time: code lens generation in 3.4s
+2023.04.19 14:58:34 INFO  time: code lens generation in 3.49s
+2023.04.19 14:58:34 INFO  time: code lens generation in 3.52s
+2023.04.19 14:58:34 INFO  time: code lens generation in 3.94s
+2023.04.19 14:58:36 INFO  [info] loading settings for project game-build-build from metals.sbt ...
+2023.04.19 14:58:36 INFO  [info] loading project definition from C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project
+2023.04.19 14:58:39 INFO  [info] loading settings for project game-build from metals.sbt ...
+2023.04.19 14:58:39 INFO  [info] loading project definition from C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project
+2023.04.19 14:58:43 INFO  [success] Generated .bloop\game-build.json
+2023.04.19 14:58:43 INFO  [success] Total time: 4 s, completed 19.04.2023, 14:58:44
+2023.04.19 14:58:45 INFO  [info] loading settings for project root from build.sbt ...
+2023.04.19 14:58:45 INFO  [info] set current project to game (in build file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/)
+2023.04.19 14:58:45 INFO  [success] Generated .bloop\root.json
+2023.04.19 14:58:45 INFO  [success] Generated .bloop\root-test.json
+2023.04.19 14:58:45 INFO  [success] Total time: 0 s, completed 19.04.2023, 14:58:46
+2023.04.19 14:58:46 INFO  time: ran 'sbt bloopInstall' in 16s
+2023.04.19 14:58:46 INFO  Attempting to connect to the build server...
+2023.04.19 14:58:46 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 14:58:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 14:58:50 INFO  Attempting to connect to the build server...
+2023.04.19 14:58:50 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 14:58:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 14:58:50 INFO  time: Connected to build server in 4.68s
+2023.04.19 14:58:50 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.19 14:58:51 INFO  time: Imported build in 0.19s
+2023.04.19 14:58:56 INFO  time: indexed workspace in 5.34s
+2023.04.19 14:58:57 INFO  compiling root (6 scala sources)
+2023.04.19 14:59:03 INFO  compiling root-test (2 scala sources)
+2023.04.19 14:59:03 INFO  time: compiled root in 6.63s
+2023.04.19 14:59:08 INFO  time: compiled root-test in 4.79s
+2023.04.19 14:59:12 INFO  compiling root-test (2 scala sources)
+2023.04.19 14:59:14 INFO  time: compiled root-test in 2.46s
+2023.04.19 14:59:14 INFO  compiling root-test (2 scala sources)
+2023.04.19 14:59:16 INFO  time: compiled root-test in 1.28s
+2023.04.19 15:00:35 INFO  Shutting down server
+2023.04.19 15:00:35 INFO  shutting down Metals
+2023.04.19 15:00:35 INFO  Shut down connection with build server.
+2023.04.19 15:00:35 INFO  Shut down connection with build server.
+2023.04.19 15:00:35 INFO  Exiting server
+2023.04.19 15:00:47 INFO  Started: Metals version 0.11.11 in workspace 'C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Robin/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.19 15:00:48 INFO  time: initialize in 0.57s
+2023.04.19 15:00:50 INFO  Attempting to connect to the build server...
+2023.04.19 15:00:50 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:00:50 INFO  skipping build import with status 'Installed'
+2023.04.19 15:00:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:00:50 INFO  Attempting to connect to the build server...
+2023.04.19 15:00:50 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:00:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:00:50 INFO  time: Connected to build server in 0.24s
+2023.04.19 15:00:50 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.19 15:00:53 INFO  no build target found for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\test\scala\FieldSpec.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.19 15:00:53 INFO  time: code lens generation in 2.78s
+2023.04.19 15:00:53 INFO  time: Imported build in 0.13s
+2023.04.19 15:00:54 INFO  no build target found for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\test\scala\FieldSpec.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.19 15:00:56 INFO  time: code lens generation in 5.63s
+2023.04.19 15:00:59 INFO  time: indexed workspace in 5.72s
+2023.04.19 15:00:59 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:01:02 INFO  time: compiled root-test in 2.47s
+2023.04.19 15:01:02 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:01:04 INFO  time: compiled root-test in 2.32s
+2023.04.19 15:01:04 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:01:06 INFO  time: compiled root-test in 1.61s
+2023.04.19 15:03:33 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:03:34 INFO  time: compiled root-test in 1.06s
+2023.04.19 15:03:34 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:03:35 INFO  time: compiled root-test in 1.25s
+2023.04.19 15:03:37 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:03:38 INFO  time: compiled root-test in 1.13s
+Apr. 19, 2023 3:03:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace
+2023.04.19 15:04:09 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:04:11 INFO  time: compiled root-test in 1.21s
+2023.04.19 15:04:11 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:04:12 INFO  time: compiled root-test in 1.05s
+2023.04.19 15:04:15 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals10056519547643802282\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.04.19 15:04:17 INFO  [info] welcome to sbt 1.8.2 (Eclipse Adoptium Java 17.0.5)
+2023.04.19 15:04:17 INFO  [info] loading settings for project game-build-build from metals.sbt ...
+2023.04.19 15:04:18 INFO  [info] loading project definition from C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project
+2023.04.19 15:04:18 INFO  [info] loading settings for project game-build from metals.sbt ...
+2023.04.19 15:04:19 INFO  [info] loading project definition from C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project
+2023.04.19 15:04:22 INFO  [success] Generated .bloop\game-build.json
+2023.04.19 15:04:22 INFO  [success] Total time: 3 s, completed 19.04.2023, 15:04:22
+2023.04.19 15:04:22 INFO  [info] loading settings for project root from build.sbt ...
+2023.04.19 15:04:22 INFO  [info] set current project to game (in build file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/)
+2023.04.19 15:04:22 INFO  [success] Generated .bloop\root.json
+2023.04.19 15:04:23 INFO  [success] Generated .bloop\root-test.json
+2023.04.19 15:04:23 INFO  [success] Total time: 0 s, completed 19.04.2023, 15:04:23
+2023.04.19 15:04:23 INFO  time: ran 'sbt bloopInstall' in 8.23s
+2023.04.19 15:04:23 INFO  Disconnecting from Bloop session...
+2023.04.19 15:04:23 INFO  Shut down connection with build server.
+2023.04.19 15:04:23 INFO  Shut down connection with build server.
+2023.04.19 15:04:23 INFO  Attempting to connect to the build server...
+2023.04.19 15:04:23 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:04:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:04:24 INFO  Attempting to connect to the build server...
+2023.04.19 15:04:24 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:04:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:04:24 INFO  time: Connected to build server in 67ms
+2023.04.19 15:04:24 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.19 15:04:26 INFO  time: indexed workspace in 2.08s
+2023.04.19 15:04:26 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:04:27 INFO  time: compiled root-test in 1.51s
+2023.04.19 15:04:35 INFO  compilation cancelled
+2023.04.19 15:04:35 INFO  compilation cancelled
+2023.04.19 15:04:37 INFO  compiling root (6 scala sources)
+2023.04.19 15:04:37 INFO  Cancelling compilation on Bloop server
+2023.04.19 15:04:37 INFO  time: compiled root in 0.58s
+2023.04.19 15:04:37 INFO  compiling root (6 scala sources)
+2023.04.19 15:04:38 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:04:38 INFO  time: compiled root in 0.58s
+2023.04.19 15:04:39 INFO  time: compiled root-test in 1.08s
+2023.04.19 15:04:44 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:04:45 INFO  time: compiled root-test in 1.03s
+2023.04.19 15:07:01 INFO  time: code lens generation in 2.44s
+2023.04.19 15:07:19 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:07:20 INFO  time: compiled root-test in 1.02s
+2023.04.19 15:07:20 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:07:21 INFO  time: compiled root-test in 1.13s
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:9:7: stale bloop error: value mustEqual is not a member of Int
+      Field.size mustEqual 8
+      ^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:21:7: stale bloop error: value mustEqual is not a member of Array[Array[String]]
+      Field.board mustEqual emptyBoard
+      ^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:26:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:27:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(2) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:28:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(1)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:29:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(1)(3) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:30:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(2)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:31:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(2)(2) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:32:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(5)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:33:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(6)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:34:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(7)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:39:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:44:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "|   "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:9:7: stale bloop error: value mustEqual is not a member of Int
+      Field.size mustEqual 8
+      ^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:21:7: stale bloop error: value mustEqual is not a member of Array[Array[String]]
+      Field.board mustEqual emptyBoard
+      ^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:26:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:27:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(2) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:28:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(1)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:29:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(1)(3) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:30:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(2)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:31:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(2)(2) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:32:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(5)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:33:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(6)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:34:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(7)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:39:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:22 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:44:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "|   "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:9:7: stale bloop error: value mustEqual is not a member of Int
+      Field.size mustEqual 8
+      ^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:21:7: stale bloop error: value mustEqual is not a member of Array[Array[String]]
+      Field.board mustEqual emptyBoard
+      ^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:26:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:27:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(2) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:28:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(1)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:29:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(1)(3) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:30:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(2)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:31:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(2)(2) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:32:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(5)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:33:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(6)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:34:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(7)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:39:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:44:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "|   "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:9:7: stale bloop error: value mustEqual is not a member of Int
+      Field.size mustEqual 8
+      ^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:21:7: stale bloop error: value mustEqual is not a member of Array[Array[String]]
+      Field.board mustEqual emptyBoard
+      ^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:26:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:27:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(2) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:28:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(1)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:29:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(1)(3) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:30:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(2)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:31:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(2)(2) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:32:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(5)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:33:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(6)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:34:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(7)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:39:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:26 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:44:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "|   "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:9:7: stale bloop error: value mustEqual is not a member of Int
+      Field.size mustEqual 8
+      ^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:21:7: stale bloop error: value mustEqual is not a member of Array[Array[String]]
+      Field.board mustEqual emptyBoard
+      ^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:26:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:27:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(2) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:28:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(1)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:29:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(1)(3) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:30:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(2)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:31:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(2)(2) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:32:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(5)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:33:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(6)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:34:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(7)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:39:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:44:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "|   "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:9:7: stale bloop error: value mustEqual is not a member of Int
+      Field.size mustEqual 8
+      ^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:21:7: stale bloop error: value mustEqual is not a member of Array[Array[String]]
+      Field.board mustEqual emptyBoard
+      ^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:26:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:27:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(2) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:28:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(1)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:29:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(1)(3) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:30:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(2)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:31:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(2)(2) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:32:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(5)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:33:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(6)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:34:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(7)(1) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:39:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "| o "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:27 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/test/scala/FieldSpec.scala:44:7: stale bloop error: value mustEqual is not a member of String
+      Field.board(0)(0) mustEqual "|   "
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023.04.19 15:08:29 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:08:29 INFO  time: compiled root-test in 0.69s
+2023.04.19 15:08:52 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:08:52 INFO  time: compiled root-test in 0.62s
+2023.04.19 15:09:24 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:09:24 INFO  time: compiled root-test in 0.6s
+2023.04.19 15:09:35 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:09:35 INFO  time: compiled root-test in 0.65s
+2023.04.19 15:09:48 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:09:48 INFO  time: compiled root-test in 0.57s
+2023.04.19 15:10:26 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:10:26 INFO  time: compiled root-test in 0.55s
+2023.04.19 15:10:26 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:10:27 INFO  time: compiled root-test in 0.59s
+2023.04.19 15:10:31 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:10:31 INFO  time: compiled root-test in 0.56s
+2023.04.19 15:10:50 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:10:50 INFO  time: compiled root-test in 0.21s
+2023.04.19 15:11:00 INFO  compiling root-test (2 scala sources)
+2023.04.19 15:11:00 INFO  time: compiled root-test in 0.22s
+2023.04.19 15:11:21 INFO  compiling root-test (1 scala source)
+2023.04.19 15:11:22 INFO  time: compiled root-test in 1.04s
+2023.04.19 15:13:26 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\plugins.sbt
+2023.04.19 15:13:33 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\plugins.sbt
+2023.04.19 15:13:39 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals15803309772005849617\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.04.19 15:13:40 INFO  [info] welcome to sbt 1.8.2 (Eclipse Adoptium Java 17.0.5)
+2023.04.19 15:13:43 INFO  [info] loading settings for project game-build-build-build from metals.sbt ...
+2023.04.19 15:13:43 INFO  [info] loading project definition from C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\project
+2023.04.19 15:13:46 INFO  [info] loading settings for project game-build-build from metals.sbt ...
+2023.04.19 15:13:46 INFO  [info] loading project definition from C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project
+2023.04.19 15:13:49 INFO  [success] Generated .bloop\game-build-build.json
+2023.04.19 15:13:49 INFO  [success] Total time: 3 s, completed 19.04.2023, 15:13:49
+2023.04.19 15:13:49 INFO  [info] loading settings for project game-build from metals.sbt,plugins.sbt ...
+2023.04.19 15:13:49 INFO  [info] loading project definition from C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project
+2023.04.19 15:13:55 INFO  [warn] 
+2023.04.19 15:13:55 INFO  [warn] 	Note: Some unresolved dependencies have extra attributes.  Check that these dependencies exist with the requested attributes.
+2023.04.19 15:13:55 INFO  [warn] 		org.scoverage:sbt-scoverage:x.x.x (sbtVersion=1.0, scalaVersion=2.12)
+2023.04.19 15:13:55 INFO  [warn] 
+2023.04.19 15:13:55 INFO  [warn] 	Note: Unresolved dependencies path:
+2023.04.19 15:13:55 INFO  [error] Couldn't run bloopGenerate for game-build. Cause:
+2023.04.19 15:13:55 INFO  [error] Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((tags: Map(Tag(update) -> 1, Tag(network) -> 1), taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),updateClassifiers)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Select(updateClassifiers), Zero),classifiersModule)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((tags: Map(Tag(update) -> 1, Tag(network) -> 1), taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(), directCause=Some(sbt.librarymanagement.ResolveException: Error downloading org.scoverage:sbt-scoverage;sbtVersion=1.0;scalaVersion=2.12:x.x.x
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scoverage/sbt-scoverage_2.12_1.0/x.x.x/sbt-scoverage-x.x.x.pom
+2023.04.19 15:13:55 INFO  [error]   not found: C:\Users\Robin\.ivy2\localorg.scoverage\sbt-scoverage\scala_2.12\sbt_1.0\x.x.x\ivys\ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml))), directCause=None)), directCause=None)), directCause=None)), directCause=None)), directCause=None), Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((tags: Map(Tag(update) -> 1, Tag(network) -> 1), taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(), directCause=Some(sbt.librarymanagement.ResolveException: Error downloading org.scoverage:sbt-scoverage;sbtVersion=1.0;scalaVersion=2.12:x.x.x
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scoverage/sbt-scoverage_2.12_1.0/x.x.x/sbt-scoverage-x.x.x.pom
+2023.04.19 15:13:55 INFO  [error]   not found: C:\Users\Robin\.ivy2\localorg.scoverage\sbt-scoverage\scala_2.12\sbt_1.0\x.x.x\ivys\ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml))), directCause=None), Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),externalDependencyClasspath)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),managedClasspath)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((tags: Map(Tag(update) -> 1, Tag(network) -> 1), taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(), directCause=Some(sbt.librarymanagement.ResolveException: Error downloading org.scoverage:sbt-scoverage;sbtVersion=1.0;scalaVersion=2.12:x.x.x
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scoverage/sbt-scoverage_2.12_1.0/x.x.x/sbt-scoverage-x.x.x.pom
+2023.04.19 15:13:55 INFO  [error]   not found: C:\Users\Robin\.ivy2\localorg.scoverage\sbt-scoverage\scala_2.12\sbt_1.0\x.x.x\ivys\ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml))), directCause=None), Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),classpathConfiguration)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((tags: Map(Tag(update) -> 1, Tag(network) -> 1), taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(), directCause=Some(sbt.librarymanagement.ResolveException: Error downloading org.scoverage:sbt-scoverage;sbtVersion=1.0;scalaVersion=2.12:x.x.x
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scoverage/sbt-scoverage_2.12_1.0/x.x.x/sbt-scoverage-x.x.x.pom
+2023.04.19 15:13:55 INFO  [error]   not found: C:\Users\Robin\.ivy2\localorg.scoverage\sbt-scoverage\scala_2.12\sbt_1.0\x.x.x\ivys\ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml))), directCause=None)), directCause=None)), directCause=None)), directCause=None)), directCause=None)), directCause=None)), directCause=None)), directCause=None), Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),bloopInternalClasspath)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),classpathConfiguration)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((tags: Map(Tag(update) -> 1, Tag(network) -> 1), taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(), directCause=Some(sbt.librarymanagement.ResolveException: Error downloading org.scoverage:sbt-scoverage;sbtVersion=1.0;scalaVersion=2.12:x.x.x
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scoverage/sbt-scoverage_2.12_1.0/x.x.x/sbt-scoverage-x.x.x.pom
+2023.04.19 15:13:55 INFO  [error]   not found: C:\Users\Robin\.ivy2\localorg.scoverage\sbt-scoverage\scala_2.12\sbt_1.0\x.x.x\ivys\ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml))), directCause=None)), directCause=None)), directCause=None)), directCause=None), Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),scalacOptions)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),scalacOptions)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),scalacOptions)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),scalacOptions)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),scalacOptions)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((tags: Map(Tag(update) -> 1, Tag(network) -> 1), taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(), directCause=Some(sbt.librarymanagement.ResolveException: Error downloading org.scoverage:sbt-scoverage;sbtVersion=1.0;scalaVersion=2.12:x.x.x
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scoverage/sbt-scoverage_2.12_1.0/x.x.x/sbt-scoverage-x.x.x.pom
+2023.04.19 15:13:55 INFO  [error]   not found: C:\Users\Robin\.ivy2\localorg.scoverage\sbt-scoverage\scala_2.12\sbt_1.0\x.x.x\ivys\ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml))), directCause=None)), directCause=None)), directCause=None)), directCause=None)), directCause=None)), directCause=None), Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),externalDependencyClasspath)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),managedClasspath)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((tags: Map(Tag(update) -> 1, Tag(network) -> 1), taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(), directCause=Some(sbt.librarymanagement.ResolveException: Error downloading org.scoverage:sbt-scoverage;sbtVersion=1.0;scalaVersion=2.12:x.x.x
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scoverage/sbt-scoverage_2.12_1.0/x.x.x/sbt-scoverage-x.x.x.pom
+2023.04.19 15:13:55 INFO  [error]   not found: C:\Users\Robin\.ivy2\localorg.scoverage\sbt-scoverage\scala_2.12\sbt_1.0\x.x.x\ivys\ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml))), directCause=None), Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),classpathConfiguration)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((tags: Map(Tag(update) -> 1, Tag(network) -> 1), taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(), directCause=Some(sbt.librarymanagement.ResolveException: Error downloading org.scoverage:sbt-scoverage;sbtVersion=1.0;scalaVersion=2.12:x.x.x
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scoverage/sbt-scoverage_2.12_1.0/x.x.x/sbt-scoverage-x.x.x.pom
+2023.04.19 15:13:55 INFO  [error]   not found: C:\Users\Robin\.ivy2\localorg.scoverage\sbt-scoverage\scala_2.12\sbt_1.0\x.x.x\ivys\ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml))), directCause=None)), directCause=None)), directCause=None)), directCause=None)), directCause=None)), directCause=None), Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),bloopInternalClasspath)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task(_)), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Select(ConfigKey(compile)), Zero, Zero),classpathConfiguration)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(Incomplete(node=Some(Task((tags: Map(Tag(update) -> 1, Tag(network) -> 1), taskDefinitionKey: ScopedKey(Scope(Select(ProjectRef(file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/project/,game-build)), Zero, Zero, Zero),update)))), tpe=Error, msg=None, causes=List(), directCause=Some(sbt.librarymanagement.ResolveException: Error downloading org.scoverage:sbt-scoverage;sbtVersion=1.0;scalaVersion=2.12:x.x.x
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   Not found
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scoverage/sbt-scoverage_2.12_1.0/x.x.x/sbt-scoverage-x.x.x.pom
+2023.04.19 15:13:55 INFO  [error]   not found: C:\Users\Robin\.ivy2\localorg.scoverage\sbt-scoverage\scala_2.12\sbt_1.0\x.x.x\ivys\ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:55 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml))), directCause=None)), directCause=None)), directCause=None)), directCause=None)), directCause=None)), directCause=None)
+2023.04.19 15:13:55 INFO  [warn] Removed stale C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.bloop\game-build.json
+2023.04.19 15:13:55 INFO  [success] Total time: 6 s, completed 19.04.2023, 15:13:55
+2023.04.19 15:13:59 INFO  [warn] 
+2023.04.19 15:13:59 INFO  [warn] 	Note: Some unresolved dependencies have extra attributes.  Check that these dependencies exist with the requested attributes.
+2023.04.19 15:13:59 INFO  [warn] 		org.scoverage:sbt-scoverage:x.x.x (sbtVersion=1.0, scalaVersion=2.12)
+2023.04.19 15:13:59 INFO  [warn] 
+2023.04.19 15:13:59 INFO  [warn] 	Note: Unresolved dependencies path:
+2023.04.19 15:13:59 INFO  [error] sbt.librarymanagement.ResolveException: Error downloading org.scoverage:sbt-scoverage;sbtVersion=1.0;scalaVersion=2.12:x.x.x
+2023.04.19 15:13:59 INFO  [error]   Not found
+2023.04.19 15:13:59 INFO  [error]   Not found
+2023.04.19 15:13:59 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scoverage/sbt-scoverage_2.12_1.0/x.x.x/sbt-scoverage-x.x.x.pom
+2023.04.19 15:13:59 INFO  [error]   not found: C:\Users\Robin\.ivy2\localorg.scoverage\sbt-scoverage\scala_2.12\sbt_1.0\x.x.x\ivys\ivy.xml
+2023.04.19 15:13:59 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:59 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:59 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.unresolvedWarningOrThrow(CoursierDependencyResolution.scala:344)
+2023.04.19 15:13:59 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.$anonfun$update$38(CoursierDependencyResolution.scala:313)
+2023.04.19 15:13:59 INFO  [error] 	at scala.util.Either$LeftProjection.map(Either.scala:573)
+2023.04.19 15:13:59 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.update(CoursierDependencyResolution.scala:313)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.librarymanagement.DependencyResolution.update(DependencyResolution.scala:60)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.internal.LibraryManagement$.resolve$1(LibraryManagement.scala:59)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$12(LibraryManagement.scala:133)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.util.Tracked$.$anonfun$lastOutput$1(Tracked.scala:73)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$20(LibraryManagement.scala:146)
+2023.04.19 15:13:59 INFO  [error] 	at scala.util.control.Exception$Catch.apply(Exception.scala:228)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11(LibraryManagement.scala:146)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11$adapted(LibraryManagement.scala:127)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.util.Tracked$.$anonfun$inputChangedW$1(Tracked.scala:219)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.internal.LibraryManagement$.cachedUpdate(LibraryManagement.scala:160)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.Classpaths$.$anonfun$updateTask0$1(Defaults.scala:3687)
+2023.04.19 15:13:59 INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:62)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:68)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:282)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:23)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.Execute.work(Execute.scala:291)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:282)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+2023.04.19 15:13:59 INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:64)
+2023.04.19 15:13:59 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2023.04.19 15:13:59 INFO  [error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2023.04.19 15:13:59 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2023.04.19 15:13:59 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2023.04.19 15:13:59 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2023.04.19 15:13:59 INFO  [error] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.04.19 15:13:59 INFO  [error] (update) sbt.librarymanagement.ResolveException: Error downloading org.scoverage:sbt-scoverage;sbtVersion=1.0;scalaVersion=2.12:x.x.x
+2023.04.19 15:13:59 INFO  [error]   Not found
+2023.04.19 15:13:59 INFO  [error]   Not found
+2023.04.19 15:13:59 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scoverage/sbt-scoverage_2.12_1.0/x.x.x/sbt-scoverage-x.x.x.pom
+2023.04.19 15:13:59 INFO  [error]   not found: C:\Users\Robin\.ivy2\localorg.scoverage\sbt-scoverage\scala_2.12\sbt_1.0\x.x.x\ivys\ivy.xml
+2023.04.19 15:13:59 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:59 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scoverage/sbt-scoverage/scala_2.12/sbt_1.0/x.x.x/ivys/ivy.xml
+2023.04.19 15:13:59 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)
+2023.04.19 15:13:59 INFO  time: ran 'sbt bloopInstall' in 20s
+2023.04.19 15:13:59 ERROR sbt command failed: C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals15803309772005849617\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2023.04.19 15:13:59 INFO  Disconnecting from Bloop session...
+2023.04.19 15:13:59 INFO  Shut down connection with build server.
+2023.04.19 15:13:59 INFO  Shut down connection with build server.
+2023.04.19 15:13:59 INFO  Attempting to connect to the build server...
+2023.04.19 15:13:59 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:13:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:13:59 INFO  Attempting to connect to the build server...
+2023.04.19 15:13:59 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:13:59 INFO  Attempting to connect to the build server...
+2023.04.19 15:13:59 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:13:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:13:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:13:59 INFO  time: Connected to build server in 88ms
+2023.04.19 15:13:59 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.19 15:13:59 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 15:13:59 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 15:13:59 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 15:13:59 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 15:14:01 INFO  time: indexed workspace in 1.72s
+2023.04.19 15:14:01 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\build.sbt
+2023.04.19 15:16:30 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\build.sbt
+2023.04.19 15:19:31 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\build.sbt
+2023.04.19 15:20:02 INFO  skipping build import with status 'Failed'
+2023.04.19 15:20:13 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals17147250572035503700\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.04.19 15:20:14 INFO  sbt thinks that server is already booting because of this exception:
+2023.04.19 15:20:14 ERROR sbt.internal.ServerAlreadyBootingException: java.io.IOException: Could not create lock for \\.\pipe\sbt-load-5395074099727634488_lock, error 5
+2023.04.19 15:20:14 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:356)
+2023.04.19 15:20:14 ERROR 	at sbt.internal.BootServerSocket.<init>(BootServerSocket.java:295)
+2023.04.19 15:20:14 ERROR 	at sbt.xMain$.getSocketOrExit(Main.scala:150)
+2023.04.19 15:20:14 ERROR 	at sbt.xMain$.bootServerSocket$lzycompute$1(Main.scala:77)
+2023.04.19 15:20:14 ERROR 	at sbt.xMain$.bootServerSocket$1(Main.scala:77)
+2023.04.19 15:20:14 ERROR 	at sbt.xMain$.withStreams$1(Main.scala:85)
+2023.04.19 15:20:14 ERROR 	at sbt.xMain$.run(Main.scala:121)
+2023.04.19 15:20:14 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2023.04.19 15:20:14 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+2023.04.19 15:20:14 ERROR 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2023.04.19 15:20:14 ERROR 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+2023.04.19 15:20:14 ERROR 	at sbt.internal.XMainConfiguration.run(XMainConfiguration.java:57)
+2023.04.19 15:20:14 ERROR 	at sbt.xMain.run(Main.scala:46)
+2023.04.19 15:20:14 ERROR 	at xsbt.boot.Launch$.$anonfun$run$1(Launch.scala:149)
+2023.04.19 15:20:14 ERROR 	at xsbt.boot.Launch$.withContextLoader(Launch.scala:176)
+2023.04.19 15:20:14 ERROR 	at xsbt.boot.Launch$.run(Launch.scala:149)
+2023.04.19 15:20:14 ERROR 	at xsbt.boot.Launch$.$anonfun$apply$1(Launch.scala:44)
+2023.04.19 15:20:14 ERROR 	at xsbt.boot.Launch$.launch(Launch.scala:159)
+2023.04.19 15:20:14 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:44)
+2023.04.19 15:20:14 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:21)
+2023.04.19 15:20:14 ERROR 	at xsbt.boot.Boot$.runImpl(Boot.scala:78)
+2023.04.19 15:20:14 ERROR 	at xsbt.boot.Boot$.run(Boot.scala:73)
+2023.04.19 15:20:14 ERROR 	at xsbt.boot.Boot$.main(Boot.scala:21)
+2023.04.19 15:20:14 ERROR 	at xsbt.boot.Boot.main(Boot.scala)
+2023.04.19 15:20:14 ERROR Caused by: java.io.IOException: Could not create lock for \\.\pipe\sbt-load-5395074099727634488_lock, error 5
+2023.04.19 15:20:14 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:129)
+2023.04.19 15:20:14 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:48)
+2023.04.19 15:20:14 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:350)
+2023.04.19 15:20:14 ERROR 	... 23 more
+2023.04.19 15:20:14 INFO  time: ran 'sbt bloopInstall' in 1.07s
+2023.04.19 15:20:14 ERROR sbt command failed: C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals17147250572035503700\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2023.04.19 15:20:14 INFO  Disconnecting from Bloop session...
+2023.04.19 15:20:14 INFO  Shut down connection with build server.
+2023.04.19 15:20:14 INFO  Shut down connection with build server.
+2023.04.19 15:20:14 INFO  Shut down connection with build server.
+2023.04.19 15:20:14 INFO  Attempting to connect to the build server...
+2023.04.19 15:20:14 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:20:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:20:14 INFO  Attempting to connect to the build server...
+2023.04.19 15:20:14 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:20:14 INFO  Attempting to connect to the build server...
+2023.04.19 15:20:14 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:20:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:20:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:20:14 INFO  time: Connected to build server in 87ms
+2023.04.19 15:20:14 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.19 15:20:14 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 15:20:14 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 15:20:14 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 15:20:14 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 15:20:16 INFO  time: indexed workspace in 2.01s
+2023.04.19 15:20:16 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\build.sbt
+2023.04.19 15:20:17 INFO  time: code lens generation in 1.35s
+2023.04.19 15:23:10 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\build.sbt
+2023.04.19 15:23:24 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals13847116196358909271\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.04.19 15:23:25 INFO  sbt thinks that server is already booting because of this exception:
+2023.04.19 15:23:25 ERROR sbt.internal.ServerAlreadyBootingException: java.io.IOException: Could not create lock for \\.\pipe\sbt-load-5395074099727634488_lock, error 5
+2023.04.19 15:23:25 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:356)
+2023.04.19 15:23:25 ERROR 	at sbt.internal.BootServerSocket.<init>(BootServerSocket.java:295)
+2023.04.19 15:23:25 ERROR 	at sbt.xMain$.getSocketOrExit(Main.scala:150)
+2023.04.19 15:23:25 ERROR 	at sbt.xMain$.bootServerSocket$lzycompute$1(Main.scala:77)
+2023.04.19 15:23:25 ERROR 	at sbt.xMain$.bootServerSocket$1(Main.scala:77)
+2023.04.19 15:23:25 ERROR 	at sbt.xMain$.withStreams$1(Main.scala:85)
+2023.04.19 15:23:25 ERROR 	at sbt.xMain$.run(Main.scala:121)
+2023.04.19 15:23:25 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2023.04.19 15:23:25 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+2023.04.19 15:23:25 ERROR 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2023.04.19 15:23:25 ERROR 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+2023.04.19 15:23:25 ERROR 	at sbt.internal.XMainConfiguration.run(XMainConfiguration.java:57)
+2023.04.19 15:23:25 ERROR 	at sbt.xMain.run(Main.scala:46)
+2023.04.19 15:23:25 ERROR 	at xsbt.boot.Launch$.$anonfun$run$1(Launch.scala:149)
+2023.04.19 15:23:25 ERROR 	at xsbt.boot.Launch$.withContextLoader(Launch.scala:176)
+2023.04.19 15:23:25 ERROR 	at xsbt.boot.Launch$.run(Launch.scala:149)
+2023.04.19 15:23:25 ERROR 	at xsbt.boot.Launch$.$anonfun$apply$1(Launch.scala:44)
+2023.04.19 15:23:25 ERROR 	at xsbt.boot.Launch$.launch(Launch.scala:159)
+2023.04.19 15:23:25 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:44)
+2023.04.19 15:23:25 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:21)
+2023.04.19 15:23:25 ERROR 	at xsbt.boot.Boot$.runImpl(Boot.scala:78)
+2023.04.19 15:23:25 ERROR 	at xsbt.boot.Boot$.run(Boot.scala:73)
+2023.04.19 15:23:25 ERROR 	at xsbt.boot.Boot$.main(Boot.scala:21)
+2023.04.19 15:23:25 ERROR 	at xsbt.boot.Boot.main(Boot.scala)
+2023.04.19 15:23:25 ERROR Caused by: java.io.IOException: Could not create lock for \\.\pipe\sbt-load-5395074099727634488_lock, error 5
+2023.04.19 15:23:25 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:129)
+2023.04.19 15:23:25 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:48)
+2023.04.19 15:23:25 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:350)
+2023.04.19 15:23:25 ERROR 	... 23 more
+2023.04.19 15:23:25 INFO  time: ran 'sbt bloopInstall' in 0.92s
+2023.04.19 15:23:25 ERROR sbt command failed: C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals13847116196358909271\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2023.04.19 15:23:25 INFO  Disconnecting from Bloop session...
+2023.04.19 15:23:25 INFO  Shut down connection with build server.
+2023.04.19 15:23:25 INFO  Shut down connection with build server.
+2023.04.19 15:23:24 INFO  Shut down connection with build server.
+2023.04.19 15:23:25 INFO  Attempting to connect to the build server...
+2023.04.19 15:23:25 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:23:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:23:25 INFO  Attempting to connect to the build server...
+2023.04.19 15:23:25 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:23:25 INFO  Attempting to connect to the build server...
+2023.04.19 15:23:25 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 15:23:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:23:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 15:23:25 INFO  time: Connected to build server in 83ms
+2023.04.19 15:23:25 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.19 15:23:25 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 15:23:25 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 15:23:25 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 15:23:25 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 15:23:27 INFO  time: indexed workspace in 1.76s
+2023.04.19 15:23:27 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\build.sbt
+2023.04.19 15:23:28 INFO  time: code lens generation in 1.37s
+2023.04.19 20:11:52 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals4239931521855995655\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.04.19 20:11:53 INFO  sbt thinks that server is already booting because of this exception:
+2023.04.19 20:11:53 ERROR sbt.internal.ServerAlreadyBootingException: java.io.IOException: Could not create lock for \\.\pipe\sbt-load-5395074099727634488_lock, error 5
+2023.04.19 20:11:53 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:356)
+2023.04.19 20:11:53 ERROR 	at sbt.internal.BootServerSocket.<init>(BootServerSocket.java:295)
+2023.04.19 20:11:53 ERROR 	at sbt.xMain$.getSocketOrExit(Main.scala:150)
+2023.04.19 20:11:53 ERROR 	at sbt.xMain$.bootServerSocket$lzycompute$1(Main.scala:77)
+2023.04.19 20:11:53 ERROR 	at sbt.xMain$.bootServerSocket$1(Main.scala:77)
+2023.04.19 20:11:53 ERROR 	at sbt.xMain$.withStreams$1(Main.scala:85)
+2023.04.19 20:11:53 ERROR 	at sbt.xMain$.run(Main.scala:121)
+2023.04.19 20:11:53 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2023.04.19 20:11:53 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+2023.04.19 20:11:53 ERROR 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2023.04.19 20:11:53 ERROR 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+2023.04.19 20:11:53 ERROR 	at sbt.internal.XMainConfiguration.run(XMainConfiguration.java:57)
+2023.04.19 20:11:53 ERROR 	at sbt.xMain.run(Main.scala:46)
+2023.04.19 20:11:53 ERROR 	at xsbt.boot.Launch$.$anonfun$run$1(Launch.scala:149)
+2023.04.19 20:11:53 ERROR 	at xsbt.boot.Launch$.withContextLoader(Launch.scala:176)
+2023.04.19 20:11:53 ERROR 	at xsbt.boot.Launch$.run(Launch.scala:149)
+2023.04.19 20:11:53 ERROR 	at xsbt.boot.Launch$.$anonfun$apply$1(Launch.scala:44)
+2023.04.19 20:11:53 ERROR 	at xsbt.boot.Launch$.launch(Launch.scala:159)
+2023.04.19 20:11:53 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:44)
+2023.04.19 20:11:53 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:21)
+2023.04.19 20:11:53 ERROR 	at xsbt.boot.Boot$.runImpl(Boot.scala:78)
+2023.04.19 20:11:53 ERROR 	at xsbt.boot.Boot$.run(Boot.scala:73)
+2023.04.19 20:11:53 ERROR 	at xsbt.boot.Boot$.main(Boot.scala:21)
+2023.04.19 20:11:53 ERROR 	at xsbt.boot.Boot.main(Boot.scala)
+2023.04.19 20:11:53 ERROR Caused by: java.io.IOException: Could not create lock for \\.\pipe\sbt-load-5395074099727634488_lock, error 5
+2023.04.19 20:11:53 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:129)
+2023.04.19 20:11:53 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:48)
+2023.04.19 20:11:53 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:350)
+2023.04.19 20:11:53 ERROR 	... 23 more
+2023.04.19 20:11:53 INFO  time: ran 'sbt bloopInstall' in 0.91s
+2023.04.19 20:11:53 ERROR sbt command failed: C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals4239931521855995655\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2023.04.19 20:11:53 INFO  Disconnecting from Bloop session...
+2023.04.19 20:11:53 INFO  Shut down connection with build server.
+2023.04.19 20:11:53 INFO  Shut down connection with build server.
+2023.04.19 20:11:52 INFO  Shut down connection with build server.
+2023.04.19 20:11:52 INFO  Attempting to connect to the build server...
+2023.04.19 20:11:52 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 20:11:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 20:11:52 INFO  Attempting to connect to the build server...
+2023.04.19 20:11:52 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 20:11:52 INFO  Attempting to connect to the build server...
+2023.04.19 20:11:52 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 20:11:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 20:11:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 20:11:53 INFO  time: Connected to build server in 81ms
+2023.04.19 20:11:53 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.19 20:11:54 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:11:54 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:11:54 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:11:54 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:11:56 INFO  time: indexed workspace in 1.99s
+2023.04.19 20:11:56 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\build.sbt
+2023.04.19 20:11:57 INFO  time: code lens generation in 1.38s
+2023.04.19 20:12:50 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals8908820847137443849\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.04.19 20:12:51 INFO  sbt thinks that server is already booting because of this exception:
+2023.04.19 20:12:51 ERROR sbt.internal.ServerAlreadyBootingException: java.io.IOException: Could not create lock for \\.\pipe\sbt-load-5395074099727634488_lock, error 5
+2023.04.19 20:12:51 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:356)
+2023.04.19 20:12:51 ERROR 	at sbt.internal.BootServerSocket.<init>(BootServerSocket.java:295)
+2023.04.19 20:12:51 ERROR 	at sbt.xMain$.getSocketOrExit(Main.scala:150)
+2023.04.19 20:12:51 ERROR 	at sbt.xMain$.bootServerSocket$lzycompute$1(Main.scala:77)
+2023.04.19 20:12:51 ERROR 	at sbt.xMain$.bootServerSocket$1(Main.scala:77)
+2023.04.19 20:12:51 ERROR 	at sbt.xMain$.withStreams$1(Main.scala:85)
+2023.04.19 20:12:51 ERROR 	at sbt.xMain$.run(Main.scala:121)
+2023.04.19 20:12:51 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2023.04.19 20:12:51 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+2023.04.19 20:12:51 ERROR 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2023.04.19 20:12:51 ERROR 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+2023.04.19 20:12:51 ERROR 	at sbt.internal.XMainConfiguration.run(XMainConfiguration.java:57)
+2023.04.19 20:12:51 ERROR 	at sbt.xMain.run(Main.scala:46)
+2023.04.19 20:12:51 ERROR 	at xsbt.boot.Launch$.$anonfun$run$1(Launch.scala:149)
+2023.04.19 20:12:51 ERROR 	at xsbt.boot.Launch$.withContextLoader(Launch.scala:176)
+2023.04.19 20:12:51 ERROR 	at xsbt.boot.Launch$.run(Launch.scala:149)
+2023.04.19 20:12:51 ERROR 	at xsbt.boot.Launch$.$anonfun$apply$1(Launch.scala:44)
+2023.04.19 20:12:51 ERROR 	at xsbt.boot.Launch$.launch(Launch.scala:159)
+2023.04.19 20:12:51 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:44)
+2023.04.19 20:12:51 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:21)
+2023.04.19 20:12:51 ERROR 	at xsbt.boot.Boot$.runImpl(Boot.scala:78)
+2023.04.19 20:12:51 ERROR 	at xsbt.boot.Boot$.run(Boot.scala:73)
+2023.04.19 20:12:51 ERROR 	at xsbt.boot.Boot$.main(Boot.scala:21)
+2023.04.19 20:12:51 ERROR 	at xsbt.boot.Boot.main(Boot.scala)
+2023.04.19 20:12:51 ERROR Caused by: java.io.IOException: Could not create lock for \\.\pipe\sbt-load-5395074099727634488_lock, error 5
+2023.04.19 20:12:51 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:129)
+2023.04.19 20:12:51 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:48)
+2023.04.19 20:12:51 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:350)
+2023.04.19 20:12:51 ERROR 	... 23 more
+2023.04.19 20:12:50 INFO  time: ran 'sbt bloopInstall' in 0.94s
+2023.04.19 20:12:51 ERROR sbt command failed: C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals8908820847137443849\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2023.04.19 20:12:51 INFO  Disconnecting from Bloop session...
+2023.04.19 20:12:51 INFO  Shut down connection with build server.
+2023.04.19 20:12:51 INFO  Shut down connection with build server.
+2023.04.19 20:12:51 INFO  Shut down connection with build server.
+2023.04.19 20:12:51 INFO  Attempting to connect to the build server...
+2023.04.19 20:12:51 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 20:12:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 20:12:51 INFO  Attempting to connect to the build server...
+2023.04.19 20:12:51 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 20:12:51 INFO  Attempting to connect to the build server...
+2023.04.19 20:12:51 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 20:12:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 20:12:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 20:12:51 INFO  time: Connected to build server in 89ms
+2023.04.19 20:12:51 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.19 20:12:51 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:12:51 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:12:51 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:12:51 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:12:53 INFO  time: indexed workspace in 1.81s
+2023.04.19 20:12:53 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\build.sbt
+2023.04.19 20:14:27 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals16564150443532440240\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.04.19 20:14:28 INFO  sbt thinks that server is already booting because of this exception:
+2023.04.19 20:14:28 ERROR sbt.internal.ServerAlreadyBootingException: java.io.IOException: Could not create lock for \\.\pipe\sbt-load-5395074099727634488_lock, error 5
+2023.04.19 20:14:28 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:356)
+2023.04.19 20:14:28 ERROR 	at sbt.internal.BootServerSocket.<init>(BootServerSocket.java:295)
+2023.04.19 20:14:28 ERROR 	at sbt.xMain$.getSocketOrExit(Main.scala:150)
+2023.04.19 20:14:28 ERROR 	at sbt.xMain$.bootServerSocket$lzycompute$1(Main.scala:77)
+2023.04.19 20:14:28 ERROR 	at sbt.xMain$.bootServerSocket$1(Main.scala:77)
+2023.04.19 20:14:28 ERROR 	at sbt.xMain$.withStreams$1(Main.scala:85)
+2023.04.19 20:14:28 ERROR 	at sbt.xMain$.run(Main.scala:121)
+2023.04.19 20:14:28 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2023.04.19 20:14:28 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+2023.04.19 20:14:28 ERROR 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2023.04.19 20:14:28 ERROR 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+2023.04.19 20:14:28 ERROR 	at sbt.internal.XMainConfiguration.run(XMainConfiguration.java:57)
+2023.04.19 20:14:28 ERROR 	at sbt.xMain.run(Main.scala:46)
+2023.04.19 20:14:28 ERROR 	at xsbt.boot.Launch$.$anonfun$run$1(Launch.scala:149)
+2023.04.19 20:14:28 ERROR 	at xsbt.boot.Launch$.withContextLoader(Launch.scala:176)
+2023.04.19 20:14:28 ERROR 	at xsbt.boot.Launch$.run(Launch.scala:149)
+2023.04.19 20:14:28 ERROR 	at xsbt.boot.Launch$.$anonfun$apply$1(Launch.scala:44)
+2023.04.19 20:14:28 ERROR 	at xsbt.boot.Launch$.launch(Launch.scala:159)
+2023.04.19 20:14:28 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:44)
+2023.04.19 20:14:28 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:21)
+2023.04.19 20:14:28 ERROR 	at xsbt.boot.Boot$.runImpl(Boot.scala:78)
+2023.04.19 20:14:28 ERROR 	at xsbt.boot.Boot$.run(Boot.scala:73)
+2023.04.19 20:14:28 ERROR 	at xsbt.boot.Boot$.main(Boot.scala:21)
+2023.04.19 20:14:28 ERROR 	at xsbt.boot.Boot.main(Boot.scala)
+2023.04.19 20:14:28 ERROR Caused by: java.io.IOException: Could not create lock for \\.\pipe\sbt-load-5395074099727634488_lock, error 5
+2023.04.19 20:14:28 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:129)
+2023.04.19 20:14:28 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:48)
+2023.04.19 20:14:28 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:350)
+2023.04.19 20:14:28 ERROR 	... 23 more
+2023.04.19 20:14:28 INFO  time: ran 'sbt bloopInstall' in 0.99s
+2023.04.19 20:14:28 ERROR sbt command failed: C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals16564150443532440240\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2023.04.19 20:14:28 INFO  Disconnecting from Bloop session...
+2023.04.19 20:14:27 INFO  Shut down connection with build server.
+2023.04.19 20:14:28 INFO  Shut down connection with build server.
+2023.04.19 20:14:28 INFO  Shut down connection with build server.
+2023.04.19 20:14:28 INFO  Attempting to connect to the build server...
+2023.04.19 20:14:28 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 20:14:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 20:14:28 INFO  Attempting to connect to the build server...
+2023.04.19 20:14:28 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 20:14:28 INFO  Attempting to connect to the build server...
+2023.04.19 20:14:28 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 20:14:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 20:14:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 20:14:28 INFO  time: Connected to build server in 81ms
+2023.04.19 20:14:28 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.19 20:14:28 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:14:28 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:14:28 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:14:28 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:14:30 INFO  time: indexed workspace in 1.88s
+2023.04.19 20:14:30 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\build.sbt
+2023.04.19 20:14:31 INFO  time: code lens generation in 1.02s
+2023.04.19 20:14:31 INFO  skipping build import with status 'Failed'
+2023.04.19 20:15:12 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals13872292543284987428\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.04.19 20:15:13 INFO  sbt thinks that server is already booting because of this exception:
+2023.04.19 20:15:13 ERROR sbt.internal.ServerAlreadyBootingException: java.io.IOException: Could not create lock for \\.\pipe\sbt-load-5395074099727634488_lock, error 5
+2023.04.19 20:15:13 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:356)
+2023.04.19 20:15:13 ERROR 	at sbt.internal.BootServerSocket.<init>(BootServerSocket.java:295)
+2023.04.19 20:15:13 ERROR 	at sbt.xMain$.getSocketOrExit(Main.scala:150)
+2023.04.19 20:15:13 ERROR 	at sbt.xMain$.bootServerSocket$lzycompute$1(Main.scala:77)
+2023.04.19 20:15:13 ERROR 	at sbt.xMain$.bootServerSocket$1(Main.scala:77)
+2023.04.19 20:15:13 ERROR 	at sbt.xMain$.withStreams$1(Main.scala:85)
+2023.04.19 20:15:13 ERROR 	at sbt.xMain$.run(Main.scala:121)
+2023.04.19 20:15:13 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2023.04.19 20:15:13 ERROR 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+2023.04.19 20:15:13 ERROR 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2023.04.19 20:15:13 ERROR 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+2023.04.19 20:15:13 ERROR 	at sbt.internal.XMainConfiguration.run(XMainConfiguration.java:57)
+2023.04.19 20:15:13 ERROR 	at sbt.xMain.run(Main.scala:46)
+2023.04.19 20:15:13 ERROR 	at xsbt.boot.Launch$.$anonfun$run$1(Launch.scala:149)
+2023.04.19 20:15:13 ERROR 	at xsbt.boot.Launch$.withContextLoader(Launch.scala:176)
+2023.04.19 20:15:13 ERROR 	at xsbt.boot.Launch$.run(Launch.scala:149)
+2023.04.19 20:15:13 ERROR 	at xsbt.boot.Launch$.$anonfun$apply$1(Launch.scala:44)
+2023.04.19 20:15:13 ERROR 	at xsbt.boot.Launch$.launch(Launch.scala:159)
+2023.04.19 20:15:13 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:44)
+2023.04.19 20:15:13 ERROR 	at xsbt.boot.Launch$.apply(Launch.scala:21)
+2023.04.19 20:15:13 ERROR 	at xsbt.boot.Boot$.runImpl(Boot.scala:78)
+2023.04.19 20:15:13 ERROR 	at xsbt.boot.Boot$.run(Boot.scala:73)
+2023.04.19 20:15:13 ERROR 	at xsbt.boot.Boot$.main(Boot.scala:21)
+2023.04.19 20:15:13 ERROR 	at xsbt.boot.Boot.main(Boot.scala)
+2023.04.19 20:15:13 ERROR Caused by: java.io.IOException: Could not create lock for \\.\pipe\sbt-load-5395074099727634488_lock, error 5
+2023.04.19 20:15:13 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:129)
+2023.04.19 20:15:13 ERROR 	at org.scalasbt.ipcsocket.Win32NamedPipeServerSocket.<init>(Win32NamedPipeServerSocket.java:48)
+2023.04.19 20:15:13 ERROR 	at sbt.internal.BootServerSocket.newSocket(BootServerSocket.java:350)
+2023.04.19 20:15:13 ERROR 	... 23 more
+2023.04.19 20:15:13 INFO  time: ran 'sbt bloopInstall' in 0.9s
+2023.04.19 20:15:13 ERROR sbt command failed: C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals13872292543284987428\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2023.04.19 20:15:13 INFO  Disconnecting from Bloop session...
+2023.04.19 20:15:13 INFO  Shut down connection with build server.
+2023.04.19 20:15:13 INFO  Shut down connection with build server.
+2023.04.19 20:15:12 INFO  Shut down connection with build server.
+2023.04.19 20:15:13 INFO  Attempting to connect to the build server...
+2023.04.19 20:15:13 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 20:15:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 20:15:13 INFO  Attempting to connect to the build server...
+2023.04.19 20:15:13 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 20:15:13 INFO  Attempting to connect to the build server...
+2023.04.19 20:15:13 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.19 20:15:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 20:15:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.19 20:15:13 INFO  time: Connected to build server in 69ms
+2023.04.19 20:15:13 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.19 20:15:13 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:15:13 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:15:13 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:15:13 ERROR Empty build targets. Expected at least one build target identifier.
+2023.04.19 20:15:14 INFO  time: indexed workspace in 1.71s
+2023.04.19 20:15:14 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\build.sbt
+2023.04.19 20:15:52 INFO  skipping build import with status 'Failed'
+Apr. 19, 2023 8:15:54 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNUNG: offset 751, count -1, length 759
+2023.04.19 20:16:01 INFO  skipping build import with status 'Failed'
+Apr. 19, 2023 8:17:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1471
+Apr. 19, 2023 8:18:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1498
+Apr. 19, 2023 8:18:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1506
+Apr. 19, 2023 8:18:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1516
+2023.04.19 20:18:40 INFO  compiling root-test (1 scala source)
+2023.04.19 20:18:40 INFO  time: compiled root-test in 0.94s
+2023.04.19 20:18:47 INFO  C:\Users\Robin\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\ch\epfl\scala\scala-debug-step-filter_3\3.0.5\scala-debug-step-filter_3-3.0.5.jar
+2023.04.19 20:18:47 INFO  C:\Users\Robin\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\tasty-core_3\3.2.2\tasty-core_3-3.2.2.jar
+2023.04.19 20:18:47 INFO  C:\Users\Robin\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.2.2\scala3-library_3-3.2.2.jar
+2023.04.19 20:18:47 INFO  C:\Users\Robin\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\ch\epfl\scala\tasty-query_3\0.3.1\tasty-query_3-0.3.1.jar
+2023.04.19 20:18:47 INFO  C:\Users\Robin\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.10\scala-library-2.13.10.jar
+2023.04.19 20:18:50 INFO  Configured debugger context in 3 seconds
+2023.04.19 20:18:50 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-server.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2023.04.19 20:18:50 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-client.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2023.04.19 20:18:50 INFO  Starting debug proxy for [FieldSpec(Field should create a starting board)]
+2023.04.19 20:18:50 INFO  Trying to attach to remote debuggee VM 127.0.0.1:50835 .
+2023.04.19 20:18:50 INFO  Attaching to debuggee VM succeeded.
+2023.04.19 20:18:52 INFO  Canceling debug proxy for [FieldSpec(Field should create a starting board)]
+2023.04.19 20:18:52 INFO  Closing debug server tcp://0.0.0.0:50815
+2023.04.19 20:20:26 INFO  compiling root-test (1 scala source)
+2023.04.19 20:20:26 INFO  time: compiled root-test in 0.61s
+2023.04.19 20:20:41 INFO  Configured debugger context in 1 second
+2023.04.19 20:20:41 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-server.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2023.04.19 20:20:41 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-client.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2023.04.19 20:20:41 INFO  Starting debug proxy for [FieldSpec()]
+2023.04.19 20:20:41 INFO  Trying to attach to remote debuggee VM 127.0.0.1:50960 .
+2023.04.19 20:20:41 INFO  Attaching to debuggee VM succeeded.
+2023.04.19 20:20:42 INFO  Canceling debug proxy for [FieldSpec()]
+2023.04.19 20:20:42 INFO  Closing debug server tcp://0.0.0.0:50955
+2023.04.19 20:20:58 INFO  Configured debugger context in 1 second
+2023.04.19 20:20:58 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-server.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2023.04.19 20:20:58 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-client.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2023.04.19 20:20:58 INFO  Starting debug proxy for [FieldSpec()]
+2023.04.19 20:20:58 INFO  Trying to attach to remote debuggee VM 127.0.0.1:51014 .
+2023.04.19 20:20:58 INFO  Attaching to debuggee VM succeeded.
+2023.04.19 20:20:59 INFO  Canceling debug proxy for [FieldSpec()]
+2023.04.19 20:20:59 INFO  Closing debug server tcp://0.0.0.0:51009
+2023.04.19 20:21:08 INFO  compiling root-test (1 scala source)
+2023.04.19 20:21:08 INFO  time: compiled root-test in 0.52s
+2023.04.19 20:21:08 INFO  Deduplicating compilation of root from bsp client 'Metals 0.11.11' (since 5m 55.497s)
+2023.04.19 20:21:08 INFO  Deduplicating compilation of root-test from bsp client 'Metals 0.11.11' (since 5m 55.523s)
+2023.04.19 20:21:10 INFO  Configured debugger context in 1 second
+2023.04.19 20:21:10 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-server.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2023.04.19 20:21:10 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-client.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2023.04.19 20:21:10 INFO  Starting debug proxy for [FieldSpec()]
+2023.04.19 20:21:10 INFO  Trying to attach to remote debuggee VM 127.0.0.1:51049 .
+2023.04.19 20:21:10 INFO  Attaching to debuggee VM succeeded.
+2023.04.19 20:21:11 INFO  Canceling debug proxy for [FieldSpec()]
+2023.04.19 20:21:11 INFO  Closing debug server tcp://0.0.0.0:51039
+2023.04.19 20:21:19 INFO  compiling root-test (1 scala source)
+2023.04.19 20:21:19 INFO  time: compiled root-test in 0.5s
+2023.04.19 20:21:23 INFO  Configured debugger context in 1 second
+2023.04.19 20:21:23 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-server.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2023.04.19 20:21:23 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-client.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2023.04.19 20:21:23 INFO  Starting debug proxy for [FieldSpec()]
+2023.04.19 20:21:23 INFO  Trying to attach to remote debuggee VM 127.0.0.1:51084 .
+2023.04.19 20:21:23 INFO  Attaching to debuggee VM succeeded.
+2023.04.19 20:21:24 INFO  Canceling debug proxy for [FieldSpec()]
+2023.04.19 20:21:24 INFO  Closing debug server tcp://0.0.0.0:51077
+2023.04.19 20:23:32 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\build.sbt
+Apr. 19, 2023 8:24:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1815
+Apr. 19, 2023 8:24:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1820
+Apr. 19, 2023 8:24:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1854
+2023.04.19 20:28:44 INFO  compiling root (1 scala source)
+2023.04.19 20:28:44 INFO  time: compiled root in 0.21s
+2023.04.19 20:30:11 INFO  compiling root (1 scala source)
+2023.04.19 20:30:11 INFO  time: compiled root in 0.18s
+2023.04.19 20:31:09 INFO  compiling root (1 scala source)
+2023.04.19 20:31:09 INFO  time: compiled root in 0.21s
+2023.04.19 20:31:14 INFO  compiling root (1 scala source)
+2023.04.19 20:31:14 INFO  time: compiled root in 0.23s
+2023.04.19 20:32:55 INFO  compiling root (1 scala source)
+2023.04.19 20:32:55 INFO  time: compiled root in 0.18s
+2023.04.19 20:33:04 INFO  compiling root (1 scala source)
+2023.04.19 20:33:04 INFO  time: compiled root in 0.22s
+Apr. 19, 2023 8:33:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 2134
+2023.04.19 20:33:43 INFO  compiling root (1 scala source)
+2023.04.19 20:33:43 INFO  time: compiled root in 0.17s
+2023.04.19 20:34:15 INFO  compiling root (1 scala source)
+2023.04.19 20:34:15 INFO  time: compiled root in 93ms
+Apr. 19, 2023 8:34:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 2426
+2023.04.19 20:34:36 INFO  compiling root (1 scala source)
+2023.04.19 20:34:36 INFO  time: compiled root in 0.2s
+2023.04.19 20:37:22 INFO  compiling root (1 scala source)
+2023.04.19 20:37:22 INFO  time: compiled root in 0.18s
+Apr. 19, 2023 8:38:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 2728
+2023.04.19 20:38:41 INFO  compiling root (1 scala source)
+2023.04.19 20:38:41 INFO  time: compiled root in 0.18s
+Apr. 19, 2023 8:40:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 2848
+Exception in thread "pool-31-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Apr. 19, 2023 8:41:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 2958
+2023.04.19 20:41:23 INFO  compiling root (1 scala source)
+2023.04.19 20:41:23 INFO  time: compiled root in 0.18s
+2023.04.19 20:41:31 INFO  compiling root (1 scala source)
+2023.04.19 20:41:31 INFO  time: compiled root in 0.2s
+2023.04.19 20:42:26 INFO  compiling root (1 scala source)
+2023.04.19 20:42:26 INFO  time: compiled root in 0.18s
+2023.04.19 20:43:04 INFO  compiling root (1 scala source)
+2023.04.19 20:43:04 INFO  time: compiled root in 0.19s
+2023.04.19 20:43:07 INFO  compiling root (1 scala source)
+2023.04.19 20:43:07 INFO  time: compiled root in 0.17s
+2023.04.19 20:43:43 INFO  compiling root (1 scala source)
+2023.04.19 20:43:43 INFO  time: compiled root in 0.22s
+2023.04.19 20:44:07 INFO  compiling root (1 scala source)
+2023.04.19 20:44:07 INFO  time: compiled root in 0.21s
+2023.04.19 20:44:58 INFO  Configured debugger context in 2 seconds
+2023.04.19 20:44:58 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-server.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2023.04.19 20:44:58 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-client.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2023.04.19 20:44:58 INFO  Starting debug proxy for [FieldSpec()]
+2023.04.19 20:44:58 INFO  Trying to attach to remote debuggee VM 127.0.0.1:59876 .
+2023.04.19 20:44:58 INFO  Attaching to debuggee VM succeeded.
+2023.04.19 20:45:00 INFO  Closing debug server tcp://0.0.0.0:59858
+2023.04.19 20:45:00 INFO  Canceling debug proxy for [FieldSpec()]
+2023.04.19 20:45:34 INFO  compiling root-test (1 scala source)
+2023.04.19 20:45:34 INFO  time: compiled root-test in 0.48s
+2023.04.19 20:45:41 INFO  Configured debugger context in 1 second
+2023.04.19 20:45:41 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-server.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2023.04.19 20:45:41 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-client.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2023.04.19 20:45:41 INFO  Starting debug proxy for [FieldSpec(Field should initialize the board with empty fields)]
+2023.04.19 20:45:41 INFO  Trying to attach to remote debuggee VM 127.0.0.1:59958 .
+2023.04.19 20:45:41 INFO  Attaching to debuggee VM succeeded.
+2023.04.19 20:45:42 INFO  Canceling debug proxy for [FieldSpec(Field should initialize the board with empty fields)]
+2023.04.19 20:45:42 INFO  Closing debug server tcp://0.0.0.0:59953
+2023.04.19 20:46:07 INFO  compiling root-test (1 scala source)
+2023.04.19 20:46:07 INFO  time: compiled root-test in 0.44s
+2023.04.19 20:46:14 INFO  Configured debugger context in 1 second
+2023.04.19 20:46:14 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-server.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2023.04.19 20:46:14 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\dap-client.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2023.04.19 20:46:15 INFO  Starting debug proxy for [FieldSpec(Field should initialize the board with empty fields)]
+2023.04.19 20:46:14 INFO  Trying to attach to remote debuggee VM 127.0.0.1:60038 .
+2023.04.19 20:46:14 INFO  Attaching to debuggee VM succeeded.
+2023.04.19 20:46:16 INFO  Canceling debug proxy for [FieldSpec(Field should initialize the board with empty fields)]
+2023.04.19 20:46:16 INFO  Closing debug server tcp://0.0.0.0:60028
+[31merror[39m: src\main\scala\worksheet.worksheet.sc:5:1: 
+Not found: cell2
+cell2.x
+^^^^^
+2023.04.19 20:47:27 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 4.62s
+[31merror[39m: src\main\scala\worksheet.worksheet.sc:5:1: 
+Not found: cell2
+cell2.x
+^^^^^
+2023.04.19 20:47:28 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.69s
+[31merror[39m: src\main\scala\worksheet.worksheet.sc:5:1: 
+Not found: cell2
+cell2.x
+^^^^^
+2023.04.19 20:48:54 INFO  time: evaluated worksheet 'worksheet.worksheet.sc' in 0.42s
+2023.04.19 20:49:10 INFO  compiling root (1 scala source)
+2023.04.19 20:49:10 INFO  time: compiled root in 0.24s
+2023.04.19 20:50:12 INFO  compiling root (1 scala source)
+2023.04.19 20:50:12 INFO  time: compiled root in 72ms
+Apr. 19, 2023 9:42:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 3519
+Apr. 19, 2023 9:43:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 3767
+Apr. 19, 2023 9:46:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 4307
+Apr. 19, 2023 9:47:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 4399
+Apr. 19, 2023 9:49:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 4884
+Exception in thread "pool-31-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.04.19 21:49:49 INFO  compiling root (1 scala source)
+2023.04.19 21:49:49 INFO  time: compiled root in 0.13s
+2023.04.19 21:49:55 INFO  compiling root (1 scala source)
+2023.04.19 21:49:55 INFO  time: compiled root in 89ms
+2023.04.19 21:50:43 INFO  compiling root (1 scala source)
+2023.04.19 21:50:43 INFO  time: compiled root in 0.13s
+2023.04.19 21:50:44 INFO  compiling root (1 scala source)
+2023.04.19 21:50:44 INFO  time: compiled root in 0.14s
+2023.04.19 21:50:52 INFO  compiling root (1 scala source)
+2023.04.19 21:50:52 INFO  time: compiled root in 0.17s
+2023.04.19 21:51:01 INFO  compiling root (1 scala source)
+2023.04.19 21:51:01 INFO  time: compiled root in 0.47s
+2023.04.19 21:51:48 INFO  compiling root (1 scala source)
+2023.04.19 21:51:48 INFO  time: compiled root in 0.25s
+2023.04.19 21:52:41 INFO  compiling root (1 scala source)
+2023.04.19 21:52:41 INFO  time: compiled root in 0.25s
+2023.04.19 21:52:45 INFO  compiling root (1 scala source)
+2023.04.19 21:52:45 INFO  time: compiled root in 0.29s
+2023.04.19 21:52:48 INFO  compiling root (1 scala source)
+2023.04.19 21:52:48 INFO  time: compiled root in 0.3s
+2023.04.19 21:54:01 INFO  compiling root (1 scala source)
+2023.04.19 21:54:01 INFO  time: compiled root in 0.28s
+2023.04.19 21:54:04 INFO  compiling root (1 scala source)
+2023.04.19 21:54:04 INFO  time: compiled root in 0.26s
+2023.04.19 23:14:45 INFO  compiling root (1 scala source)
+2023.04.19 23:14:45 INFO  time: compiled root in 0.25s
+2023.04.19 23:14:46 INFO  Shutting down server
+2023.04.19 23:14:46 INFO  shutting down Metals
+2023.04.19 23:14:46 INFO  Shut down connection with build server.
+2023.04.19 23:14:46 INFO  Shut down connection with build server.
+2023.04.19 23:14:46 INFO  Shut down connection with build server.
+2023.04.19 23:14:46 INFO  Exiting server
+2023.04.20 16:42:45 INFO  Started: Metals version 0.11.11 in workspace 'C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game' for client Visual Studio Code 1.77.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Robin/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.20 16:42:45 INFO  time: initialize in 0.73s
+2023.04.20 16:42:48 INFO  Attempting to connect to the build server...
+2023.04.20 16:42:48 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.20 16:42:49 INFO  skipping build import with status 'Failed'
+2023.04.20 16:42:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.20 16:42:54 INFO  Attempting to connect to the build server...
+2023.04.20 16:42:54 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.20 16:42:54 INFO  Attempting to connect to the build server...
+2023.04.20 16:42:54 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.20 16:42:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.20 16:42:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.20 16:42:54 INFO  time: Connected to build server in 5.96s
+2023.04.20 16:42:54 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.20 16:43:17 INFO  no build target found for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\Field.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.20 16:43:17 INFO  time: code lens generation in 29s
+2023.04.20 16:43:18 INFO  time: Imported build in 0.25s
+2023.04.20 16:43:23 INFO  time: indexed workspace in 4.62s
+Apr. 20, 2023 4:43:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNUNG: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/taskFinish",
+  "params": {
+    "taskId": {
+      "id": "1"
+    },
+    "eventTime": 1682001803701,
+    "message": "Compiled \u0027root\u0027",
+    "status": 1,
+    "dataKind": "compile-report",
+    "data": {
+      "target": {
+        "uri": "file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/?id\u003droot"
+      },
+      "errors": 0,
+      "warnings": 0,
+      "isNoOp": true,
+      "isLastCycle": true,
+      "clientDir": "file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/.bloop/root/bloop-bsp-clients-classes/classes-Metals-KukWMkL2RrqiQckyQW2HKQ\u003d\u003d/",
+      "analysisOut": "file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/.bloop/root/root-analysis.bin"
+    }
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.NullPointerException: Cannot invoke "scala.meta.pc.PresentationCompiler.restart()" because "compiler" is null
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$3(Compilers.scala:254)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$3$adapted(Compilers.scala:252)
+	at scala.Option.foreach(Option.scala:437)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$2(Compilers.scala:252)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$2$adapted(Compilers.scala:251)
+	at scala.collection.mutable.HashSet$Node.foreach(HashSet.scala:435)
+	at scala.collection.mutable.HashSet.foreach(HashSet.scala:361)
+	at scala.meta.internal.metals.Compilers.didCompile(Compilers.scala:251)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$buildClient$1(MetalsLspService.scala:407)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$buildClient$1$adapted(MetalsLspService.scala:405)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$2(ForwardingMetalsBuildClient.scala:165)
+	at scala.Option.foreach(Option.scala:437)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$1(ForwardingMetalsBuildClient.scala:162)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$1$adapted(ForwardingMetalsBuildClient.scala:161)
+	at scala.Option.foreach(Option.scala:437)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.buildTaskFinish(ForwardingMetalsBuildClient.scala:161)
+	... 16 more
+
+2023.04.20 16:52:14 INFO  compiling root (1 scala source)
+2023.04.20 16:52:17 INFO  time: compiled root in 3.59s
+2023.04.20 16:53:15 INFO  compiling root (1 scala source)
+2023.04.20 16:53:15 INFO  time: compiled root in 0.93s
+2023.04.20 16:53:32 INFO  compiling root (1 scala source)
+2023.04.20 16:53:32 INFO  time: compiled root in 1s
+Apr. 20, 2023 4:54:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 407
+2023.04.20 16:55:04 INFO  compiling root (1 scala source)
+Exception in thread "pool-4-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.04.20 16:55:04 INFO  time: compiled root in 0.78s
+2023.04.20 16:55:04 INFO  compiling root (1 scala source)
+2023.04.20 16:55:06 INFO  time: compiled root in 0.68s
+2023.04.20 16:55:16 INFO  compiling root (1 scala source)
+2023.04.20 16:55:16 INFO  time: compiled root in 0.48s
+Apr. 20, 2023 4:55:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace

@@ -1,31 +1,38 @@
 
 
 object Field {
+
+  enum Stone {
+    case x, o, empty
+  }
+  
+
   // Größe des Spielbretts
   val size = 8
 
-  //Seperator
+  // Seperator
   val seperator = System.getProperty("line.separator")
 
   // Initialisiert das Spielbrett mit leeren Feldern
-  val board = Array.ofDim[String](size, size)
+  val board = Array.ofDim[String](size, size+1)
   for (row <- 0 until size) {
     for (col <- 0 until size) {
       board(row)(col) = "x"
     }
-    board(row)(size-1) = "+\n"
+    board(row)(size) = "+\n"
   }
 
+  // Print bar
   def bar() = ("+" + "-" * 3) * 8 + "+" + seperator
 
   // Methode zum Anzeigen des Spielbretts auf der Konsole
   def displayBoard(): Unit = {
     for (row <- 0 until size) {
-      // Ausgabe der Zeilennummer
       print(bar())
       for (col <- 0 until size) {
-        // Überprüfen, ob sich ein Kreis in diesem Feld befindet
+        // Überprüfen, ob sich eine Figur in diesem Feld befindet
         if (board(row)(col).contains("o")) {
+          // Ausgabe des Rechtecks mit Spielstein
           print("| o ")
         } else {
           // Ausgabe des leeren Rechtecks
@@ -42,24 +49,24 @@ object Field {
     // oberer Spieler
     for (i <- 0 to 7 by 2)
     {
-      board(0)(i) = board(0)(i).replaceFirst("x", "o")
+      addCircle(0,i)
     }
     for (i <- 1 to 8 by 2) {
-      board(1)(i) = board(1)(i).replaceFirst("x", "o")
+      addCircle(1,i)
     }
     for (i <- 0 to 7 by 2) {
-      board(2)(i) = board(2)(i).replaceFirst("x", "o")
+      addCircle(2,i)
     }
 
     // unterer Spieler
     for (i <- 1 to 7 by 2) {
-      board(5)(i) = board(1)(i).replaceFirst("x", "o")
+      addCircle(5,i)
     }
     for (i <- 0 to 7 by 2) {
-      board(6)(i) = board(0)(i).replaceFirst("x", "o")
+      addCircle(6,i)
     }
     for (i <- 1 to 7 by 2) {
-      board(7)(i) = board(7)(i).replaceFirst("x", "o")
+      addCircle(7,i)
     }
   }
 
@@ -73,10 +80,28 @@ object Field {
     board(row)(col) = board(row)(col).replaceFirst("o", "x")
   }
 
+  //Basic Move, Capturing not included yet!
+  def movePiece(row: Int, col: Int, rowDest: Int, colDest: Int): Unit = {
+    if(board(rowDest)(colDest).contains("o")){
+      print("Illegal Move: Destination Field is occupied!")
+      return
+    }
+    if((row-rowDest).abs >1 || (col-colDest).abs > 1){
+      print("Illegal Move: Destination Field is out of reach!")
+      return
+    }
+    removeCircle(row,col)
+    addCircle(rowDest,colDest)
+  }
+
   def main(args: Array[String]) = {
 
     startingBoard()
     displayBoard();
+    movePiece(5,1,4,2)
+    displayBoard()
+    movePiece(5,1,4,3)
+    displayBoard()
     //println(mesh)
     //println(startingBoard())
 
