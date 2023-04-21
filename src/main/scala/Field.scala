@@ -164,7 +164,6 @@ class Field {
       if(currentPlayer.equals(Player.white)){
         print("Weiss ist am Zug: \n")
         print("Welchen Stein willst du bewegen: ")
-        print("junge")
         val Array(row,col) = readLine.split(" ").map(_.toInt)
         //val row = rowS.toInt
         //val col = colS.toInt
@@ -194,6 +193,7 @@ class Field {
   def main(args: Array[String]) = {
 
     val game = new Field
+    readLine()
     game.startingBoard()
     game.displayBoard();
     game.startGame()
