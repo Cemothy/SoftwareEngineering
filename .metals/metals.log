@@ -28273,3 +28273,126 @@ Exception in thread "pool-4-thread-6" java.lang.InterruptedException
 2023.04.21 04:49:49 INFO  Shut down connection with build server.
 2023.04.21 04:49:49 INFO  Shut down connection with build server.
 2023.04.21 04:49:49 INFO  Exiting server
+2023.04.28 00:42:00 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game' for client Visual Studio Code 1.77.3.
+Apr. 28, 2023 12:42:00 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMATION: Flyway Community Edition 9.16.3 by Redgate
+Apr. 28, 2023 12:42:00 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMATION: See release notes here: https://rd.gt/416ObMi
+Apr. 28, 2023 12:42:00 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMATION: 
+Apr. 28, 2023 12:42:03 AM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMATION: Database: jdbc:h2:file:C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\metals (H2 2.1)
+Apr. 28, 2023 12:42:03 AM org.flywaydb.core.internal.command.DbValidate validate
+INFORMATION: Successfully validated 4 migrations (execution time 00:00.017s)
+Apr. 28, 2023 12:42:03 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMATION: Current version of schema "PUBLIC": 4
+Apr. 28, 2023 12:42:03 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMATION: Schema "PUBLIC" is up to date. No migration necessary.
+2023.04.28 00:42:03 INFO  time: initialize in 3.91s
+Apr. 28, 2023 12:42:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1
+2023.04.28 00:42:06 INFO  Attempting to connect to the build server...
+2023.04.28 00:42:06 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.28 00:42:09 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Robin\AppData\Local\Temp\metals18418222643935574153\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.04.28 00:42:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.28 00:42:11 INFO  Attempting to connect to the build server...
+2023.04.28 00:42:11 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.28 00:42:11 INFO  Attempting to connect to the build server...
+2023.04.28 00:42:11 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.28 00:42:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.28 00:42:11 ERROR Starting the bsp launcher for bloop...
+2023.04.28 00:42:11 ERROR Opening a bsp server connection with 'bsp --protocol tcp --port 32682'...
+2023.04.28 00:42:11 ERROR Waiting for the bsp connection to come up...
+2023.04.28 00:42:11 ERROR error: The command bsp --protocol tcp --port 32682 returned with an error
+2023.04.28 00:42:11 ERROR > [0m[32m[D][0m Loading workspace settings from bloop.settings.json
+2023.04.28 00:42:11 ERROR > [0m[32m[D][0m Elapsed: 3.8743 ms
+2023.04.28 00:42:11 ERROR > [0m[31m[E][0m Address already in use: bind
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m java.net.BindException: Address already in use: bind
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	java.base/sun.nio.ch.Net.bind0(Native Method)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	java.base/sun.nio.ch.Net.bind(Net.java:555)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	java.base/sun.nio.ch.Net.bind(Net.java:544)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	bloop.io.ServerHandle$Tcp.<init>(ServerHandle.scala:30)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	bloop.io.ServerHandle$Tcp$.apply(ServerHandle.scala:39)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	bloop.bsp.BspServer$.run(BspServer.scala:162)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	bloop.engine.Interpreter$.runBsp(Interpreter.scala:113)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	bloop.engine.Interpreter$.$anonfun$execute$1(Interpreter.scala:58)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	bloop.task.Task.$anonfun$runAsync$8(Task.scala:268)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.startFull(TaskRunLoop.scala:170)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.eval.internal.TaskRestartCallback.syncOnSuccess(TaskRestartCallback.scala:101)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.eval.internal.TaskRestartCallback.onSuccess(TaskRestartCallback.scala:74)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.eval.internal.TaskCreate$CallbackForCreate.run(TaskCreate.scala:252)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.execution.internal.Trampoline.monix$execution$internal$Trampoline$$immediateLoop(Trampoline.scala:66)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.execution.internal.Trampoline.startLoop(Trampoline.scala:32)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext$JVMOptimalTrampoline.startLoop(TrampolineExecutionContext.scala:132)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.execution.internal.Trampoline.execute(Trampoline.scala:40)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:57)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:31)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	monix.execution.schedulers.StartAsyncBatchRunnable.run(StartAsyncBatchRunnable.scala:42)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+2023.04.28 00:42:11 ERROR > [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2023.04.28 00:42:11 ERROR error: The launcher failed to establish a bsp connection, aborting...
+2023.04.28 00:42:11 ERROR Failed to connect with build server, no functionality will work.
+java.lang.RuntimeException: The server did not start, got FailedToOpenBspConnection
+	at bloop.launcher.LauncherMain.failPromise$1(Launcher.scala:92)
+	at bloop.launcher.LauncherMain.runLauncher(Launcher.scala:119)
+	at scala.meta.internal.metals.BloopServers$$anon$2.run(BloopServers.scala:496)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.04.28 00:42:11 WARN  no build target for: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\Field.scala
+2023.04.28 00:42:12 INFO  [info] welcome to sbt 1.8.2 (Eclipse Adoptium Java 17.0.5)
+2023.04.28 00:42:14 ERROR No `release` file found in C:\Program Files\Java\jdk-17 - using Bloop's JVM version 17.0.5
+2023.04.28 00:42:16 INFO  [info] loading settings for project game-build-build-build from metals.sbt ...
+2023.04.28 00:42:16 INFO  no build target found for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\Field.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.28 00:42:16 INFO  [info] loading project definition from C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\project
+2023.04.28 00:42:19 INFO  [info] loading settings for project game-build-build from metals.sbt ...
+2023.04.28 00:42:19 INFO  [info] loading project definition from C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project
+2023.04.28 00:42:21 INFO  time: code lens generation in 9.26s
+2023.04.28 00:42:23 INFO  [success] Generated .bloop\game-build-build.json
+2023.04.28 00:42:23 INFO  [success] Total time: 3 s, completed 28.04.2023, 00:42:23
+2023.04.28 00:42:23 INFO  [info] loading settings for project game-build from metals.sbt,plugins.sbt ...
+2023.04.28 00:42:23 INFO  [info] loading project definition from C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project
+2023.04.28 00:42:26 INFO  [success] Generated .bloop\game-build.json
+2023.04.28 00:42:26 INFO  [success] Total time: 2 s, completed 28.04.2023, 00:42:26
+2023.04.28 00:42:29 ERROR C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\build.sbt:12: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash
+2023.04.28 00:42:29 ERROR connectInput in run := true
+2023.04.28 00:42:29 ERROR              ^
+2023.04.28 00:42:29 INFO  [info] loading settings for project root from build.sbt ...
+2023.04.28 00:42:29 INFO  [info] set current project to game (in build file:/C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/)
+2023.04.28 00:42:29 INFO  [success] Generated .bloop\root.json
+2023.04.28 00:42:29 INFO  [success] Generated .bloop\root-test.json
+2023.04.28 00:42:29 INFO  [success] Total time: 1 s, completed 28.04.2023, 00:42:30
+2023.04.28 00:42:30 INFO  time: ran 'sbt bloopInstall' in 20s
+2023.04.28 00:42:30 INFO  Attempting to connect to the build server...
+2023.04.28 00:42:30 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.28 00:42:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.28 00:42:30 INFO  Attempting to connect to the build server...
+2023.04.28 00:42:30 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.28 00:42:30 INFO  Attempting to connect to the build server...
+2023.04.28 00:42:30 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.28 00:42:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.28 00:42:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.28 00:42:30 INFO  time: Connected to build server in 0.12s
+2023.04.28 00:42:30 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.28 00:42:30 INFO  time: Imported build in 0.14s
+2023.04.28 00:42:36 INFO  time: indexed workspace in 5.35s
+2023.04.28 00:42:40 INFO  compiling root (1 scala source)
+2023.04.28 00:42:46 INFO  compiling root-test (1 scala source)
+2023.04.28 00:42:46 INFO  time: compiled root in 6s
+2023.04.28 00:42:50 INFO  time: compiled root-test in 3.33s
+2023.04.28 00:43:29 INFO  compiling root (1 scala source)
+2023.04.28 00:43:30 INFO  time: compiled root in 1.56s
+Apr. 28, 2023 12:52:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace
