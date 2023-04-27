@@ -114,12 +114,26 @@ class FieldSpec extends AnyWordSpec {
       field.board(0)(0) should be (field.Stone.empty)
     }
 
-    "possible Move should return false (not yet finished)" in {
+    "possible Move should return false if the Stone has no legal Move" in {
+      field.initBoard()
+      field.board(7)(7) = field.Stone.x
+      field.possibleMove(7,7) should be (false)
+      field.board(6)(7) = field.Stone.x 
+      field.board(7)(6) = field.Stone.x
+      field.possibleMove(6,7) should be (false)
+      field.board(4)(0) = field.Stone.x
+      field.board(5)(1) = field.Stone.x
+      field.possibleMove(4,0) should be (false)
+      field.initBoard()
+      field.board(0)(0) = field.Stone.o
+      field.possibleMove(0,0) should be(false)
       field.possibleMove(0,0) should be (false)
+      //continue with corner cases
     }
 
     "always return true for finshed() (not yet finished)" in {
       field.finished() should be(false)
+      //should work now
     }
 
     "return false and an error Massage for an illegal Move" in {

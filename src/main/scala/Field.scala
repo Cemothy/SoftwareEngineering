@@ -104,7 +104,7 @@ class Field {
     board(row)(col) = Stone.empty
   }
 
-  //Basic Move, Capturing not included yet!
+  //Basic Move, Capturing not included yet! Es sind noch illegale moves möglich
   def movePiece(row: Int, col: Int, rowDest: Int, colDest: Int): Boolean = {
     if(!board(rowDest)(colDest).equals(Stone.empty)){
       print("Illegal Move: Destination Field is occupied!\n")
@@ -126,15 +126,22 @@ class Field {
   //Checked ob es für den gegebenen Stein noch einen möglichen Zug gibt
   def possibleMove(row: Int, col: Int): Boolean = {
     return false
+    if(board(row)(col).equals(Stone.empty)) return false
     if(board(row)(col).equals(Stone.x)){
+      if(row == size-1) return false
+      if(col == size -1) return board(row-1)(col-1).equals(Stone.empty)
+      if(col == 0) return board(row-1)(col+1).equals(Stone.empty)
       if(board(row-1)(col+1).equals(Stone.empty) || board(row-1)(col-1).equals(Stone.empty)){ //Corner Case führt zu NullPointer!!!
       return true
     } else {
+      if(row == 0) return false
+      if(col == size -1) return board(row+1)(col-1).equals(Stone.empty)
+      if(col == 0) return board(row+1)(col+1).equals(Stone.empty)
       if(board(row+1)(col+1).equals(Stone.empty) || board(row+1)(col-1).equals(Stone.empty)){
       return true
       }
     }
-    } 
+    }
     return false
   }
 
