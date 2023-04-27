@@ -28396,3 +28396,9 @@ java.lang.RuntimeException: The server did not start, got FailedToOpenBspConnect
 2023.04.28 00:43:30 INFO  time: compiled root in 1.56s
 Apr. 28, 2023 12:52:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFORMATION: Unsupported notification method: $/setTrace
+2023.04.28 00:53:14 INFO  Shutting down server
+2023.04.28 00:53:14 INFO  shutting down Metals
+2023.04.28 00:53:14 INFO  Shut down connection with build server.
+2023.04.28 00:53:14 INFO  Shut down connection with build server.
+2023.04.28 00:53:14 INFO  Shut down connection with build server.
+2023.04.28 00:53:14 INFO  Exiting server
