@@ -1,22 +1,27 @@
 package aview
 
-
-import controller.Controller
-import model.{Field,Player,Stone}
+import controller._
+import model._
 import java.util.Observer
+import java.{util => ju}
 
 class Tui(controller: Controller) extends Observer{
 
-    controller.add(this)
+    //controller.add(this)
+
+    override def update(o: ju.Observable, arg: Object): Unit = ???
+
     val size = 8
-    val randomCells:Int = size*size/4
     
     def processInput(input: String):Unit = {
         input match {
             case "q" =>
-            case "s" =>
+            case "s" => controller.initStartingBoard(size)
+                        controller.displayBoard()
+            case "m" => controller.startGame()
+                     
 
         }
     } 
-
+}
 

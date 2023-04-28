@@ -1,6 +1,7 @@
 package model
 import model.Stone
 import model.Matrix._
+import scala.io.StdIn._
 
 
 case class Grid(field: Matrix[Stone]) {
@@ -87,6 +88,35 @@ case class Grid(field: Matrix[Stone]) {
         result
     }
 
+     def start(): Unit = {
+    while (!this.finished()){
+      if(this.currentPlayer.equals(Player.white)){
+        print("Weiss ist am Zug: \n")
+        print("Welchen Stein willst du bewegen: ")
+        val Array(row,col) = readLine.split(" ").map(_.toInt)
+        //val row = rowS.toInt
+        //val col = colS.toInt
+        //val Array(row,col) = readLine.split(" ").map(_.toInt)
+        print("Wohin: ")
+        val Array(rowDest, colDest) = readLine.split(" ").map(_.toInt)
+        if(!field.equals(this.movePiece(field.size-row, col-1, field.size-rowDest, colDest-1))) {
+          print(this.toString)
+          this.currentPlayer = Player.black
+      }
+    } else if(this.currentPlayer.equals(Player.black)){
+        print("Schwarz ist am Zug: \n")
+        print("Welchen Stein willst du bewegen: ")
+        val Array(row,col) = readLine.split(" ").map(_.toInt)
+        print("Wohin: ")
+        val Array(rowDest, colDest) = readLine.split(" ").map(_.toInt)
+        if(!field.equals(this.movePiece(field.size-row, col-1, field.size-rowDest, colDest-1))) {
+          print(this.toString)
+          this.currentPlayer = Player.white
+        }
+      }
+  }
+}
+
    
 
 
@@ -110,7 +140,9 @@ case class Grid(field: Matrix[Stone]) {
                 box = box + ("|   ")
                 }
             }
+            box = box + ("|\n")
         }
+        box = box + bar()
         box
     }   
 

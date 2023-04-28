@@ -17,6 +17,17 @@ class Controller(var grid:Grid) extends Observable{
         notifyObservers()
     }
 
+    def startGame() : Unit = {
+        grid.start()
+        print((grid.toString()))
+        notifyObservers
+    }
+    
+    def displayBoard() : Unit = {
+        print(grid.toString)
+        notifyObservers()
+    }
+
     def movePiece(row: Int, col: Int, rowDest: Int, colDest: Int): Unit = {
         grid = grid.movePiece(row,col,rowDest,colDest)
         notifyObservers()
