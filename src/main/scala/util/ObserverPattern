@@ -1,4 +1,4 @@
-package de.htwg.se.sudoku.util
+package model
 
 class TestObject extends Observer {
   def update:Unit = println("Ping")

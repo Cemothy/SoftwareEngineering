@@ -28432,3 +28432,2103 @@ INFORMATION: Schema "PUBLIC" is up to date. No migration necessary.
 2023.04.28 00:53:30 INFO  Connected to Build server: Bloop v1.5.6
 2023.04.28 00:53:30 INFO  time: Imported build in 0.13s
 2023.04.28 00:53:36 INFO  time: indexed workspace in 5.26s
+2023.04.28 00:56:22 INFO  compiling root (1 scala source)
+2023.04.28 00:56:22 INFO  time: compiled root in 0.19s
+2023.04.28 00:57:18 INFO  compiling root (1 scala source)
+2023.04.28 00:57:18 INFO  time: compiled root in 0.19s
+2023.04.28 00:57:39 INFO  compiling root (1 scala source)
+2023.04.28 00:57:39 INFO  time: compiled root in 0.26s
+2023.04.28 00:58:05 INFO  compiling root (1 scala source)
+2023.04.28 00:58:05 INFO  time: compiled root in 73ms
+2023.04.28 00:58:13 INFO  compiling root (1 scala source)
+2023.04.28 00:58:13 INFO  time: compiled root in 0.26s
+Apr. 28, 2023 12:58:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 155
+2023.04.28 00:58:39 INFO  compiling root (1 scala source)
+2023.04.28 00:58:39 INFO  time: compiled root in 0.61s
+2023.04.28 00:58:46 INFO  compiling root (1 scala source)
+2023.04.28 00:58:46 INFO  time: compiled root in 0.5s
+2023.04.28 00:59:30 INFO  compiling root (1 scala source)
+2023.04.28 00:59:30 INFO  time: compiled root in 0.47s
+2023.04.28 01:17:57 INFO  compiling root (1 scala source)
+2023.04.28 01:17:57 INFO  time: compiled root in 67ms
+2023.04.28 01:18:18 INFO  compiling root (1 scala source)
+2023.04.28 01:18:18 INFO  time: compiled root in 54ms
+Apr. 28, 2023 1:18:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 367
+2023.04.28 01:18:35 INFO  compiling root (1 scala source)
+2023.04.28 01:18:35 INFO  time: compiled root in 41ms
+Apr. 28, 2023 1:18:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 415
+2023.04.28 01:19:18 INFO  compiling root (1 scala source)
+2023.04.28 01:19:18 INFO  time: compiled root in 82ms
+2023.04.28 01:19:19 WARN  Using indexes to guess the definition of Observable
+2023.04.28 01:19:18 INFO  compiling root (1 scala source)
+2023.04.28 01:19:19 INFO  time: compiled root in 66ms
+2023.04.28 01:19:34 INFO  compiling root (1 scala source)
+2023.04.28 01:19:34 INFO  time: compiled root in 72ms
+2023.04.28 01:19:53 INFO  compiling root (1 scala source)
+2023.04.28 01:19:53 INFO  time: compiled root in 66ms
+2023.04.28 01:19:53 INFO  compiling root (1 scala source)
+2023.04.28 01:19:53 INFO  time: compiled root in 99ms
+2023.04.28 01:19:53 WARN  Using indexes to guess the definition of Observable
+2023.04.28 01:19:53 INFO  compiling root (1 scala source)
+2023.04.28 01:19:53 INFO  time: compiled root in 90ms
+2023.04.28 01:19:53 INFO  compiling root (1 scala source)
+2023.04.28 01:19:53 INFO  time: compiled root in 71ms
+2023.04.28 01:19:54 INFO  compiling root (1 scala source)
+2023.04.28 01:19:54 INFO  time: compiled root in 69ms
+2023.04.28 01:19:54 INFO  compiling root (1 scala source)
+2023.04.28 01:19:54 INFO  time: compiled root in 69ms
+2023.04.28 01:19:54 INFO  compiling root (1 scala source)
+2023.04.28 01:19:54 INFO  time: compiled root in 62ms
+2023.04.28 01:19:54 INFO  compiling root (1 scala source)
+2023.04.28 01:19:54 INFO  time: compiled root in 61ms
+2023.04.28 01:19:54 INFO  compiling root (1 scala source)
+2023.04.28 01:19:54 INFO  time: compiled root in 70ms
+2023.04.28 01:19:54 INFO  compiling root (1 scala source)
+2023.04.28 01:19:54 INFO  time: compiled root in 60ms
+2023.04.28 01:19:55 INFO  compiling root (1 scala source)
+2023.04.28 01:19:55 INFO  time: compiled root in 58ms
+2023.04.28 01:19:55 INFO  compiling root (1 scala source)
+2023.04.28 01:19:55 INFO  time: compiled root in 64ms
+2023.04.28 01:19:55 INFO  compiling root (1 scala source)
+2023.04.28 01:19:55 INFO  time: compiled root in 70ms
+2023.04.28 01:19:55 INFO  compiling root (1 scala source)
+2023.04.28 01:19:55 INFO  time: compiled root in 59ms
+2023.04.28 01:19:55 INFO  compiling root (1 scala source)
+2023.04.28 01:19:55 INFO  time: compiled root in 59ms
+2023.04.28 01:19:56 INFO  compiling root (1 scala source)
+2023.04.28 01:19:56 INFO  time: compiled root in 0.12s
+2023.04.28 01:19:56 INFO  compiling root (1 scala source)
+2023.04.28 01:19:56 INFO  time: compiled root in 62ms
+2023.04.28 01:19:56 INFO  compiling root (1 scala source)
+2023.04.28 01:19:56 INFO  time: compiled root in 58ms
+2023.04.28 01:19:56 INFO  compiling root (1 scala source)
+2023.04.28 01:19:56 INFO  time: compiled root in 60ms
+2023.04.28 01:19:56 INFO  compiling root (1 scala source)
+2023.04.28 01:19:56 INFO  time: compiled root in 62ms
+2023.04.28 01:19:57 INFO  compiling root (1 scala source)
+2023.04.28 01:19:57 INFO  time: compiled root in 74ms
+2023.04.28 01:20:21 INFO  compiling root (1 scala source)
+2023.04.28 01:20:21 INFO  time: compiled root in 62ms
+Apr. 28, 2023 1:29:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1347
+2023.04.28 01:30:11 INFO  compiling root (1 scala source)
+2023.04.28 01:30:11 INFO  time: compiled root in 82ms
+2023.04.28 01:30:11 INFO  compiling root (1 scala source)
+2023.04.28 01:30:11 INFO  time: compiled root in 72ms
+2023.04.28 01:36:44 INFO  compiling root (1 scala source)
+2023.04.28 01:36:44 INFO  time: compiled root in 66ms
+2023.04.28 01:36:49 INFO  compiling root (1 scala source)
+2023.04.28 01:36:49 INFO  time: compiled root in 57ms
+Apr. 28, 2023 1:37:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 2177
+Apr. 28, 2023 1:37:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 2195
+2023.04.28 01:39:08 INFO  compiling root (1 scala source)
+2023.04.28 01:39:08 INFO  time: compiled root in 64ms
+2023.04.28 01:39:12 INFO  compiling root (1 scala source)
+2023.04.28 01:39:12 INFO  time: compiled root in 51ms
+2023.04.28 01:39:14 WARN  Using indexes to guess the definition of field
+2023.04.28 01:39:14 INFO  compiling root (1 scala source)
+2023.04.28 01:39:14 INFO  time: compiled root in 0.35s
+2023.04.28 01:39:38 INFO  compiling root (1 scala source)
+2023.04.28 01:39:38 INFO  time: compiled root in 61ms
+2023.04.28 01:39:44 INFO  compiling root (1 scala source)
+2023.04.28 01:39:44 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2023.04.28 01:39:44 INFO  time: compiled root in 0.13s
+2023.04.28 01:42:08 INFO  compiling root (1 scala source)
+2023.04.28 01:42:08 INFO  time: compiled root in 56ms
+Apr. 28, 2023 1:42:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 3037
+Apr. 28, 2023 1:42:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 3056
+2023.04.28 01:43:42 INFO  compiling root (1 scala source)
+2023.04.28 01:43:42 INFO  time: compiled root in 59ms
+2023.04.28 01:47:44 INFO  compiling root (2 scala sources)
+2023.04.28 01:47:44 INFO  time: compiled root in 0.18s
+Apr. 28, 2023 1:50:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 3421
+2023.04.28 01:50:35 INFO  compiling root (2 scala sources)
+2023.04.28 01:50:35 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2023.04.28 01:50:35 INFO  time: compiled root in 0.37s
+2023.04.28 01:51:20 INFO  compiling root (1 scala source)
+2023.04.28 01:51:20 INFO  time: compiled root in 58ms
+Apr. 28, 2023 1:51:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 3553
+2023.04.28 01:51:43 INFO  compiling root (1 scala source)
+2023.04.28 01:51:43 INFO  time: compiled root in 47ms
+2023.04.28 01:51:44 INFO  compiling root (1 scala source)
+2023.04.28 01:51:44 INFO  time: compiled root in 52ms
+2023.04.28 01:51:49 INFO  compiling root (1 scala source)
+2023.04.28 01:51:49 INFO  time: compiled root in 44ms
+2023.04.28 01:52:18 INFO  compiling root (1 scala source)
+2023.04.28 01:52:18 INFO  time: compiled root in 51ms
+2023.04.28 01:52:25 INFO  compiling root (1 scala source)
+2023.04.28 01:52:25 INFO  time: compiled root in 44ms
+2023.04.28 01:52:30 INFO  compiling root (1 scala source)
+2023.04.28 01:52:30 INFO  time: compiled root in 80ms
+Apr. 28, 2023 1:53:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 4089
+Apr. 28, 2023 1:55:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:98)
+
+Apr. 28, 2023 1:55:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:98)
+
+2023.04.28 01:55:54 INFO  compiling root (1 scala source)
+2023.04.28 01:55:54 INFO  time: compiled root in 0.41s
+Apr. 28, 2023 1:56:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 4565
+2023.04.28 02:06:35 INFO  compiling root (2 scala sources)
+2023.04.28 02:06:35 INFO  time: compiled root in 0.39s
+2023.04.28 02:06:35 INFO  compiling root (2 scala sources)
+2023.04.28 02:06:35 INFO  time: compiled root in 0.35s
+2023.04.28 02:08:42 INFO  compiling root (3 scala sources)
+2023.04.28 02:08:42 INFO  time: compiled root in 0.33s
+2023.04.28 02:08:42 INFO  compiling root (3 scala sources)
+2023.04.28 02:08:42 INFO  time: compiled root in 0.3s
+Apr. 28, 2023 2:09:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 4899
+2023.04.28 02:09:14 INFO  compiling root (3 scala sources)
+2023.04.28 02:09:14 INFO  time: compiled root in 0.65s
+2023.04.28 02:09:45 INFO  compiling root (3 scala sources)
+2023.04.28 02:09:45 INFO  time: compiled root in 0.29s
+Apr. 28, 2023 2:10:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 5258
+2023.04.28 02:10:34 INFO  compiling root (3 scala sources)
+2023.04.28 02:10:34 INFO  time: compiled root in 0.4s
+2023.04.28 02:11:03 INFO  compiling root (3 scala sources)
+2023.04.28 02:11:03 INFO  time: compiled root in 0.39s
+2023.04.28 02:11:06 INFO  compiling root (3 scala sources)
+2023.04.28 02:11:06 INFO  time: compiled root in 0.4s
+2023.04.28 02:11:11 INFO  compiling root (3 scala sources)
+2023.04.28 02:11:11 INFO  time: compiled root in 0.32s
+Apr. 28, 2023 2:11:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 5550
+2023.04.28 02:11:21 INFO  compiling root (3 scala sources)
+2023.04.28 02:11:21 INFO  time: compiled root in 0.33s
+Apr. 28, 2023 2:11:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 5582
+2023.04.28 02:11:53 INFO  compiling root (3 scala sources)
+2023.04.28 02:11:53 INFO  time: compiled root in 0.27s
+2023.04.28 02:11:54 INFO  compiling root (3 scala sources)
+2023.04.28 02:11:54 INFO  time: compiled root in 0.29s
+2023.04.28 02:12:30 INFO  compiling root (3 scala sources)
+2023.04.28 02:12:30 INFO  time: compiled root in 0.24s
+2023.04.28 02:12:56 INFO  compiling root (3 scala sources)
+2023.04.28 02:12:56 INFO  time: compiled root in 0.24s
+2023.04.28 02:12:57 INFO  compiling root (3 scala sources)
+2023.04.28 02:12:57 INFO  time: compiled root in 0.27s
+2023.04.28 02:13:00 INFO  compiling root (3 scala sources)
+2023.04.28 02:13:00 INFO  time: compiled root in 0.25s
+Apr. 28, 2023 2:13:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 5997
+2023.04.28 02:13:07 INFO  compiling root (3 scala sources)
+2023.04.28 02:13:07 INFO  time: compiled root in 0.24s
+2023.04.28 02:13:17 INFO  compiling root (3 scala sources)
+2023.04.28 02:13:17 INFO  time: compiled root in 0.25s
+Apr. 28, 2023 2:13:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 6292
+2023.04.28 02:13:54 INFO  compiling root (3 scala sources)
+2023.04.28 02:13:54 INFO  time: compiled root in 0.25s
+2023.04.28 02:14:02 INFO  compiling root (3 scala sources)
+2023.04.28 02:14:02 INFO  time: compiled root in 0.24s
+Apr. 28, 2023 2:14:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 6352
+2023.04.28 02:14:12 INFO  compiling root (3 scala sources)
+2023.04.28 02:14:12 INFO  time: compiled root in 0.25s
+Apr. 28, 2023 2:14:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 6496
+2023.04.28 02:14:28 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Matrix.scala:10:38: stale bloop error: Not found: type T
+    def fill(filling: Stone): Matrix[T] = copy(Vector.tabulate(size,size) {(row, col) => filling})
+                                     ^
+2023.04.28 02:14:28 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Matrix.scala:10:38: stale bloop error: Not found: type T
+    def fill(filling: Stone): Matrix[T] = copy(Vector.tabulate(size,size) {(row, col) => filling})
+                                     ^
+2023.04.28 02:14:28 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Matrix.scala:10:38: stale bloop error: Not found: type T
+    def fill(filling: Stone): Matrix[T] = copy(Vector.tabulate(size,size) {(row, col) => filling})
+                                     ^
+2023.04.28 02:14:28 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Matrix.scala:10:38: stale bloop error: Not found: type T
+    def fill(filling: Stone): Matrix[T] = copy(Vector.tabulate(size,size) {(row, col) => filling})
+                                     ^
+2023.04.28 02:14:28 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Matrix.scala:10:38: stale bloop error: Not found: type T
+    def fill(filling: Stone): Matrix[T] = copy(Vector.tabulate(size,size) {(row, col) => filling})
+                                     ^
+2023.04.28 02:14:28 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Matrix.scala:10:38: stale bloop error: Not found: type T
+    def fill(filling: Stone): Matrix[T] = copy(Vector.tabulate(size,size) {(row, col) => filling})
+                                     ^
+2023.04.28 02:14:44 INFO  compiling root (3 scala sources)
+2023.04.28 02:14:44 INFO  time: compiled root in 0.36s
+2023.04.28 02:14:48 INFO  compiling root (3 scala sources)
+2023.04.28 02:14:48 INFO  time: compiled root in 0.25s
+2023.04.28 02:15:18 INFO  compiling root (3 scala sources)
+2023.04.28 02:15:18 INFO  time: compiled root in 0.23s
+Apr. 28, 2023 2:15:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 6914
+2023.04.28 02:15:49 INFO  compiling root (3 scala sources)
+2023.04.28 02:15:49 INFO  time: compiled root in 0.24s
+2023.04.28 02:16:01 INFO  compiling root (3 scala sources)
+2023.04.28 02:16:01 INFO  time: compiled root in 0.27s
+2023.04.28 02:19:59 INFO  compiling root (3 scala sources)
+2023.04.28 02:19:59 INFO  time: compiled root in 0.35s
+Apr. 28, 2023 2:20:39 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:96)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+2023.04.28 02:20:45 INFO  compiling root (3 scala sources)
+2023.04.28 02:20:45 INFO  time: compiled root in 0.33s
+2023.04.28 02:21:06 INFO  compiling root (3 scala sources)
+2023.04.28 02:21:06 INFO  time: compiled root in 0.24s
+2023.04.28 02:21:23 INFO  compiling root (3 scala sources)
+2023.04.28 02:21:23 INFO  time: compiled root in 0.23s
+2023.04.28 02:21:25 INFO  compiling root (3 scala sources)
+2023.04.28 02:21:25 INFO  time: compiled root in 0.25s
+2023.04.28 02:21:27 INFO  compiling root (3 scala sources)
+2023.04.28 02:21:27 INFO  time: compiled root in 0.23s
+2023.04.28 02:21:30 INFO  compiling root (3 scala sources)
+2023.04.28 02:21:30 INFO  time: compiled root in 0.27s
+2023.04.28 02:21:43 INFO  compiling root (3 scala sources)
+2023.04.28 02:21:43 INFO  time: compiled root in 0.39s
+2023.04.28 02:21:47 INFO  compiling root (3 scala sources)
+2023.04.28 02:21:47 INFO  time: compiled root in 0.28s
+2023.04.28 02:21:50 INFO  compiling root (3 scala sources)
+2023.04.28 02:21:50 INFO  time: compiled root in 0.31s
+2023.04.28 02:21:52 INFO  compiling root (3 scala sources)
+2023.04.28 02:21:52 INFO  time: compiled root in 0.32s
+2023.04.28 02:21:55 INFO  compiling root (3 scala sources)
+2023.04.28 02:21:55 INFO  time: compiled root in 0.3s
+2023.04.28 02:22:36 INFO  compiling root (3 scala sources)
+2023.04.28 02:22:36 INFO  time: compiled root in 0.28s
+2023.04.28 02:22:59 INFO  compiling root (3 scala sources)
+2023.04.28 02:22:59 INFO  time: compiled root in 0.3s
+2023.04.28 02:23:21 INFO  compiling root (3 scala sources)
+2023.04.28 02:23:21 INFO  time: compiled root in 0.34s
+2023.04.28 02:23:36 INFO  compiling root (3 scala sources)
+2023.04.28 02:23:36 INFO  time: compiled root in 0.29s
+2023.04.28 02:23:47 INFO  compiling root (3 scala sources)
+2023.04.28 02:23:47 INFO  time: compiled root in 0.23s
+2023.04.28 02:23:49 INFO  compiling root (3 scala sources)
+2023.04.28 02:23:49 INFO  time: compiled root in 0.23s
+2023.04.28 02:24:20 INFO  compiling root (3 scala sources)
+2023.04.28 02:24:20 INFO  time: compiled root in 0.24s
+2023.04.28 02:25:45 INFO  compiling root (3 scala sources)
+2023.04.28 02:25:45 INFO  time: compiled root in 0.22s
+2023.04.28 02:25:48 INFO  compiling root (3 scala sources)
+2023.04.28 02:25:48 INFO  time: compiled root in 0.24s
+2023.04.28 02:25:53 INFO  compiling root (3 scala sources)
+2023.04.28 02:25:53 INFO  time: compiled root in 0.24s
+2023.04.28 02:26:03 WARN  Using indexes to guess the definition of addBlackPiece
+2023.04.28 02:26:03 INFO  compiling root (3 scala sources)
+2023.04.28 02:26:03 INFO  time: compiled root in 0.22s
+2023.04.28 02:26:05 INFO  compiling root (3 scala sources)
+2023.04.28 02:26:05 INFO  time: compiled root in 0.24s
+2023.04.28 02:26:12 INFO  compiling root (3 scala sources)
+2023.04.28 02:26:12 INFO  time: compiled root in 0.26s
+Apr. 28, 2023 2:26:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:94)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+2023.04.28 02:26:47 INFO  compiling root (3 scala sources)
+2023.04.28 02:26:47 INFO  time: compiled root in 0.27s
+2023.04.28 02:26:51 INFO  compiling root (3 scala sources)
+2023.04.28 02:26:51 INFO  time: compiled root in 0.25s
+2023.04.28 02:27:19 INFO  compiling root (3 scala sources)
+2023.04.28 02:27:19 INFO  time: compiled root in 0.28s
+2023.04.28 02:27:29 INFO  compiling root (3 scala sources)
+2023.04.28 02:27:29 INFO  time: compiled root in 0.26s
+2023.04.28 02:27:30 INFO  compiling root (3 scala sources)
+2023.04.28 02:27:30 INFO  time: compiled root in 0.34s
+2023.04.28 02:27:32 INFO  compiling root (3 scala sources)
+2023.04.28 02:27:32 INFO  time: compiled root in 0.27s
+Apr. 28, 2023 2:27:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8820
+2023.04.28 02:28:02 INFO  compiling root (3 scala sources)
+2023.04.28 02:28:02 INFO  time: compiled root in 0.35s
+2023.04.28 02:28:31 INFO  compiling root (3 scala sources)
+2023.04.28 02:28:31 INFO  time: compiled root in 0.35s
+2023.04.28 02:28:40 INFO  compiling root (3 scala sources)
+2023.04.28 02:28:40 INFO  time: compiled root in 0.37s
+2023.04.28 02:28:41 INFO  compiling root (3 scala sources)
+2023.04.28 02:28:41 INFO  time: compiled root in 0.41s
+2023.04.28 02:28:56 INFO  compiling root (3 scala sources)
+2023.04.28 02:28:56 INFO  time: compiled root in 0.36s
+2023.04.28 02:30:37 INFO  compiling root (3 scala sources)
+2023.04.28 02:30:37 INFO  time: compiled root in 0.5s
+2023.04.28 02:30:48 INFO  compiling root (3 scala sources)
+2023.04.28 02:30:48 INFO  time: compiled root in 0.41s
+2023.04.28 02:31:03 INFO  compiling root (3 scala sources)
+2023.04.28 02:31:03 INFO  time: compiled root in 0.38s
+2023.04.28 02:31:46 INFO  compiling root (3 scala sources)
+2023.04.28 02:31:46 INFO  time: compiled root in 0.32s
+2023.04.28 02:31:47 INFO  compiling root (3 scala sources)
+2023.04.28 02:31:47 INFO  time: compiled root in 0.34s
+2023.04.28 02:32:07 INFO  compiling root (3 scala sources)
+2023.04.28 02:32:07 INFO  time: compiled root in 0.34s
+2023.04.28 02:32:22 INFO  compiling root (3 scala sources)
+2023.04.28 02:32:22 INFO  time: compiled root in 0.31s
+2023.04.28 02:32:23 INFO  compiling root (3 scala sources)
+2023.04.28 02:32:23 INFO  time: compiled root in 0.39s
+2023.04.28 02:32:31 INFO  compiling root (3 scala sources)
+2023.04.28 02:32:31 INFO  time: compiled root in 0.24s
+2023.04.28 02:32:52 INFO  compiling root (3 scala sources)
+2023.04.28 02:32:52 INFO  time: compiled root in 0.23s
+2023.04.28 02:33:00 INFO  compiling root (3 scala sources)
+2023.04.28 02:33:00 INFO  time: compiled root in 0.28s
+2023.04.28 02:33:03 INFO  compiling root (3 scala sources)
+2023.04.28 02:33:03 WARN  Using indexes to guess the definition of Stone
+2023.04.28 02:33:03 INFO  time: compiled root in 0.27s
+2023.04.28 02:33:28 INFO  compiling root (3 scala sources)
+2023.04.28 02:33:28 INFO  time: compiled root in 0.25s
+Apr. 28, 2023 2:33:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:94)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+2023.04.28 02:33:44 INFO  compiling root (3 scala sources)
+2023.04.28 02:33:44 INFO  time: compiled root in 0.23s
+2023.04.28 02:33:47 INFO  compiling root (3 scala sources)
+2023.04.28 02:33:47 INFO  time: compiled root in 0.23s
+2023.04.28 02:34:01 INFO  compiling root (3 scala sources)
+2023.04.28 02:34:01 INFO  time: compiled root in 0.24s
+2023.04.28 02:34:03 INFO  compiling root (3 scala sources)
+2023.04.28 02:34:03 INFO  time: compiled root in 0.26s
+2023.04.28 02:34:04 INFO  compiling root (3 scala sources)
+2023.04.28 02:34:04 INFO  time: compiled root in 0.25s
+2023.04.28 02:34:38 INFO  compiling root (3 scala sources)
+2023.04.28 02:34:38 INFO  time: compiled root in 0.24s
+Apr. 28, 2023 2:35:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 10301
+2023.04.28 02:35:31 INFO  compiling root (3 scala sources)
+2023.04.28 02:35:31 INFO  time: compiled root in 0.23s
+2023.04.28 02:35:32 INFO  compiling root (3 scala sources)
+2023.04.28 02:35:32 WARN  Using indexes to guess the definition of Stone
+2023.04.28 02:35:32 INFO  time: compiled root in 0.26s
+2023.04.28 02:35:36 INFO  compiling root (3 scala sources)
+2023.04.28 02:35:36 INFO  time: compiled root in 0.28s
+2023.04.28 02:35:36 INFO  compiling root (3 scala sources)
+2023.04.28 02:35:37 INFO  time: compiled root in 0.32s
+Apr. 28, 2023 2:35:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 10387
+Apr. 28, 2023 2:35:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 10392
+2023.04.28 02:35:54 INFO  compiling root (3 scala sources)
+2023.04.28 02:35:54 INFO  time: compiled root in 0.28s
+2023.04.28 02:36:29 INFO  compiling root (3 scala sources)
+2023.04.28 02:36:29 INFO  time: compiled root in 0.28s
+2023.04.28 02:36:29 INFO  compiling root (3 scala sources)
+2023.04.28 02:36:30 INFO  time: compiled root in 0.32s
+2023.04.28 02:36:47 INFO  compiling root (3 scala sources)
+2023.04.28 02:36:47 INFO  time: compiled root in 0.29s
+2023.04.28 02:37:20 INFO  compiling root (3 scala sources)
+2023.04.28 02:37:20 INFO  time: compiled root in 0.28s
+2023.04.28 02:37:27 INFO  compiling root (3 scala sources)
+2023.04.28 02:37:27 INFO  time: compiled root in 0.27s
+2023.04.28 02:37:28 INFO  compiling root (3 scala sources)
+2023.04.28 02:37:28 INFO  time: compiled root in 0.29s
+2023.04.28 02:37:55 INFO  compiling root (3 scala sources)
+2023.04.28 02:37:55 INFO  time: compiled root in 0.28s
+2023.04.28 02:37:58 INFO  compiling root (3 scala sources)
+2023.04.28 02:37:58 INFO  time: compiled root in 0.27s
+2023.04.28 02:38:18 INFO  compiling root (3 scala sources)
+2023.04.28 02:38:18 INFO  time: compiled root in 0.27s
+2023.04.28 02:38:19 INFO  compiling root (3 scala sources)
+2023.04.28 02:38:19 INFO  time: compiled root in 0.27s
+Apr. 28, 2023 2:38:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 10866
+2023.04.28 02:38:30 INFO  compiling root (3 scala sources)
+2023.04.28 02:38:30 INFO  time: compiled root in 0.27s
+2023.04.28 02:38:41 INFO  compiling root (3 scala sources)
+2023.04.28 02:38:41 INFO  time: compiled root in 0.36s
+Apr. 28, 2023 2:38:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 10963
+2023.04.28 02:39:01 WARN  Using indexes to guess the definition of board
+2023.04.28 02:39:02 WARN  Using indexes to guess the definition of Matrix
+2023.04.28 02:39:01 WARN  Using indexes to guess the definition of Matrix
+2023.04.28 02:39:02 WARN  Using indexes to guess the definition of Matrix
+2023.04.28 02:39:04 INFO  compiling root (3 scala sources)
+2023.04.28 02:39:04 INFO  time: compiled root in 0.26s
+Apr. 28, 2023 2:39:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 11042
+2023.04.28 02:39:16 WARN  Using indexes to guess the definition of Stone
+2023.04.28 02:39:16 WARN  Using indexes to guess the definition of empty
+Apr. 28, 2023 2:39:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: jar%3Afile%3A%2F%2F%2FC%3A%2FUsers%2FRobin%2FAppData%2FLocal%2FCoursier%2Fcache%2Fv1%2Fhttps%2Frepo1.maven.org%2Fmaven2%2Forg%2Fscala-sbt%2Fzinc_2.12%2F1.8.0%2Fzinc_2.12-1.8.0-sources.jar%21%2Fsbt%2Finternal%2Finc%2Fjavac%2FClassFinder.scala:19: error: ; expected but package found
+package internal
+^
+jar%3Afile%3A%2F%2F%2FC%3A%2FUsers%2FRobin%2FAppData%2FLocal%2FCoursier%2Fcache%2Fv1%2Fhttps%2Frepo1.maven.org%2Fmaven2%2Forg%2Fscala-sbt%2Fzinc_2.12%2F1.8.0%2Fzinc_2.12-1.8.0-sources.jar%21%2Fsbt%2Finternal%2Finc%2Fjavac%2FClassFinder.scala:19: error: ; expected but package found
+package internal
+^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:387)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:391)
+	at scala.meta.internal.parsers.ScalametaParser.acceptStatSep(ScalametaParser.scala:407)
+	at scala.meta.internal.parsers.ScalametaParser.acceptStatSepOpt(ScalametaParser.scala:411)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4299)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$13(ScalametaParser.scala:4524)
+	at scala.Option.getOrElse(Option.scala:189)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4524)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4479)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4472)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4472)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4477)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:127)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:124)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:51)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:46)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:124)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:206)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:54)
+
+2023.04.28 02:39:17 INFO  compiling root (3 scala sources)
+2023.04.28 02:39:17 INFO  time: compiled root in 0.26s
+2023.04.28 02:39:19 WARN  Using indexes to guess the definition of field
+2023.04.28 02:39:20 INFO  compiling root (3 scala sources)
+2023.04.28 02:39:20 INFO  time: compiled root in 0.27s
+2023.04.28 02:39:23 INFO  compiling root (3 scala sources)
+2023.04.28 02:39:23 INFO  time: compiled root in 0.23s
+2023.04.28 02:39:25 INFO  compiling root (3 scala sources)
+2023.04.28 02:39:25 INFO  time: compiled root in 0.25s
+Apr. 28, 2023 2:39:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 11153
+2023.04.28 02:39:43 INFO  compiling root (3 scala sources)
+2023.04.28 02:39:43 INFO  time: compiled root in 0.23s
+2023.04.28 02:39:51 INFO  compiling root (3 scala sources)
+2023.04.28 02:39:51 INFO  time: compiled root in 0.22s
+2023.04.28 02:39:53 INFO  compiling root (3 scala sources)
+2023.04.28 02:39:53 INFO  time: compiled root in 0.25s
+2023.04.28 02:40:01 INFO  compiling root (3 scala sources)
+2023.04.28 02:40:01 INFO  time: compiled root in 0.24s
+2023.04.28 02:40:05 INFO  compiling root (3 scala sources)
+2023.04.28 02:40:05 INFO  time: compiled root in 0.24s
+2023.04.28 02:40:14 INFO  compiling root (3 scala sources)
+2023.04.28 02:40:14 INFO  time: compiled root in 0.23s
+2023.04.28 02:40:16 INFO  compiling root (3 scala sources)
+2023.04.28 02:40:16 INFO  time: compiled root in 0.22s
+2023.04.28 02:40:42 INFO  compiling root (4 scala sources)
+2023.04.28 02:40:43 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:40:43 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:40:42 INFO  time: compiled root in 0.42s
+2023.04.28 02:40:43 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:42:31 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:42:44 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:42:56 INFO  compiling root (4 scala sources)
+2023.04.28 02:42:56 INFO  time: compiled root in 0.53s
+2023.04.28 02:42:57 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:42:59 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:42:59 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:00 INFO  compiling root (4 scala sources)
+2023.04.28 02:43:00 INFO  time: compiled root in 0.48s
+2023.04.28 02:43:00 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:00 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:00 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:04 INFO  compiling root (8 scala sources)
+2023.04.28 02:43:04 INFO  time: compiled root in 0.64s
+2023.04.28 02:43:04 INFO  compiling root (8 scala sources)
+2023.04.28 02:43:05 INFO  time: compiled root in 0.48s
+2023.04.28 02:43:12 INFO  compiling root (9 scala sources)
+2023.04.28 02:43:13 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:12 INFO  time: compiled root in 0.63s
+2023.04.28 02:43:12 INFO  compiling root (9 scala sources)
+2023.04.28 02:43:13 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:14 INFO  time: compiled root in 0.49s
+2023.04.28 02:43:14 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:17 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:18 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:18 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:19 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:20 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:20 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:23 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:23 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:25 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:26 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:28 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:28 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:29 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+Apr. 28, 2023 2:43:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:94)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+2023.04.28 02:43:30 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:31 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:32 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:32 INFO  compiling root (9 scala sources)
+2023.04.28 02:43:32 INFO  time: compiled root in 0.37s
+2023.04.28 02:43:33 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:50 INFO  compiling root (9 scala sources)
+2023.04.28 02:43:50 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:50 INFO  time: compiled root in 0.41s
+2023.04.28 02:43:50 WARN  Could not load snapshot text for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+2023.04.28 02:43:51 INFO  compiling root (9 scala sources)
+2023.04.28 02:43:51 INFO  time: compiled root in 0.54s
+2023.04.28 02:43:51 INFO  compiling root (9 scala sources)
+2023.04.28 02:43:52 INFO  time: compiled root in 0.42s
+2023.04.28 02:43:54 INFO  compiling root (9 scala sources)
+2023.04.28 02:43:54 INFO  time: compiled root in 0.49s
+2023.04.28 02:43:55 INFO  compiling root (9 scala sources)
+2023.04.28 02:43:55 INFO  time: compiled root in 0.44s
+2023.04.28 02:44:00 INFO  compiling root (9 scala sources)
+2023.04.28 02:44:00 INFO  time: compiled root in 0.4s
+2023.04.28 02:44:01 INFO  compiling root (9 scala sources)
+2023.04.28 02:44:01 INFO  time: compiled root in 0.43s
+Apr. 28, 2023 2:44:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 11751
+Apr. 28, 2023 2:44:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 11765
+Apr. 28, 2023 2:44:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 11839
+Apr. 28, 2023 2:44:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 11855
+Apr. 28, 2023 2:44:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 11880
+Apr. 28, 2023 2:44:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:94)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+2023.04.28 02:44:44 INFO  compiling root (9 scala sources)
+2023.04.28 02:44:44 INFO  time: compiled root in 0.41s
+Apr. 28, 2023 2:44:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 11971
+2023.04.28 02:44:55 INFO  compiling root (9 scala sources)
+2023.04.28 02:44:55 INFO  time: compiled root in 0.43s
+2023.04.28 02:44:56 INFO  compiling root (9 scala sources)
+2023.04.28 02:44:56 INFO  time: compiled root in 0.44s
+2023.04.28 02:44:59 INFO  compiling root (9 scala sources)
+2023.04.28 02:44:59 INFO  time: compiled root in 0.43s
+2023.04.28 02:45:00 INFO  compiling root (9 scala sources)
+2023.04.28 02:45:00 INFO  time: compiled root in 0.4s
+2023.04.28 02:45:28 ERROR searching for `model/Field#currentPlayer().` failed
+java.nio.file.NoSuchFileException: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:380)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:248)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:184)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:184)
+	at scala.collection.immutable.Set$Set3.foreach(Set.scala:252)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:184)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:158)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:139)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:139)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:46)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:104)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:42)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:189)
+	at scala.meta.internal.pc.HoverProvider$.$anonfun$1(HoverProvider.scala:126)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:126)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:311)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.04.28 02:45:37 INFO  compiling root (8 scala sources)
+2023.04.28 02:45:37 INFO  time: compiled root in 0.5s
+2023.04.28 02:45:37 INFO  compiling root (8 scala sources)
+2023.04.28 02:45:37 INFO  time: compiled root in 0.42s
+2023.04.28 02:45:38 INFO  compiling root (8 scala sources)
+2023.04.28 02:45:38 INFO  time: compiled root in 0.39s
+2023.04.28 02:45:41 INFO  compiling root (8 scala sources)
+2023.04.28 02:45:41 INFO  time: compiled root in 0.4s
+2023.04.28 02:46:28 INFO  compiling root (8 scala sources)
+2023.04.28 02:46:28 INFO  time: compiled root in 0.37s
+2023.04.28 02:46:53 INFO  compiling root (8 scala sources)
+2023.04.28 02:46:53 INFO  time: compiled root in 0.33s
+2023.04.28 02:47:36 INFO  compiling root (8 scala sources)
+2023.04.28 02:47:36 INFO  time: compiled root in 0.34s
+2023.04.28 02:47:38 INFO  compiling root (8 scala sources)
+2023.04.28 02:47:38 INFO  time: compiled root in 0.33s
+Apr. 28, 2023 2:48:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 12411
+2023.04.28 02:48:45 INFO  compiling root (8 scala sources)
+2023.04.28 02:48:45 INFO  time: compiled root in 0.32s
+2023.04.28 02:48:57 INFO  compiling root (8 scala sources)
+2023.04.28 02:48:57 INFO  time: compiled root in 0.33s
+2023.04.28 02:49:00 INFO  compiling root (8 scala sources)
+2023.04.28 02:49:00 INFO  time: compiled root in 0.34s
+2023.04.28 02:49:02 INFO  compiling root (8 scala sources)
+2023.04.28 02:49:02 WARN  Using indexes to guess the definition of Int
+2023.04.28 02:49:02 INFO  time: compiled root in 0.35s
+2023.04.28 02:49:06 INFO  compiling root (8 scala sources)
+2023.04.28 02:49:06 INFO  time: compiled root in 0.35s
+2023.04.28 02:49:11 INFO  compiling root (8 scala sources)
+2023.04.28 02:49:11 INFO  time: compiled root in 0.31s
+2023.04.28 02:50:40 INFO  compiling root (8 scala sources)
+2023.04.28 02:50:40 INFO  time: compiled root in 0.31s
+2023.04.28 02:51:18 INFO  compiling root (8 scala sources)
+2023.04.28 02:51:18 INFO  time: compiled root in 0.41s
+2023.04.28 02:51:43 INFO  compiling root (8 scala sources)
+2023.04.28 02:51:43 INFO  time: compiled root in 0.49s
+2023.04.28 02:51:47 INFO  compiling root (8 scala sources)
+2023.04.28 02:51:47 INFO  time: compiled root in 0.38s
+2023.04.28 02:51:56 INFO  compiling root (8 scala sources)
+2023.04.28 02:51:56 INFO  time: compiled root in 0.39s
+Apr. 28, 2023 2:52:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 13031
+2023.04.28 02:52:43 INFO  compiling root (8 scala sources)
+2023.04.28 02:52:43 INFO  time: compiled root in 0.35s
+2023.04.28 02:52:50 INFO  compiling root (8 scala sources)
+2023.04.28 02:52:50 INFO  time: compiled root in 0.39s
+2023.04.28 02:52:53 INFO  compiling root (8 scala sources)
+2023.04.28 02:52:53 INFO  time: compiled root in 0.37s
+2023.04.28 02:53:04 INFO  compiling root (8 scala sources)
+2023.04.28 02:53:04 INFO  time: compiled root in 0.35s
+2023.04.28 02:53:55 INFO  compiling root (8 scala sources)
+2023.04.28 02:53:55 INFO  time: compiled root in 0.35s
+2023.04.28 02:53:58 INFO  compiling root (8 scala sources)
+2023.04.28 02:53:58 INFO  time: compiled root in 0.46s
+2023.04.28 02:54:04 INFO  compiling root (8 scala sources)
+2023.04.28 02:54:04 INFO  time: compiled root in 0.37s
+2023.04.28 02:54:15 WARN  Using indexes to guess the definition of board
+2023.04.28 02:54:16 INFO  compiling root (8 scala sources)
+2023.04.28 02:54:16 INFO  time: compiled root in 0.39s
+Apr. 28, 2023 2:54:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 13514
+2023.04.28 02:54:26 INFO  compiling root (8 scala sources)
+2023.04.28 02:54:26 INFO  time: compiled root in 0.37s
+2023.04.28 02:54:41 INFO  compiling root (8 scala sources)
+2023.04.28 02:54:41 INFO  time: compiled root in 0.39s
+2023.04.28 02:55:12 INFO  compiling root (8 scala sources)
+2023.04.28 02:55:12 INFO  time: compiled root in 0.48s
+Apr. 28, 2023 2:55:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 13681
+Apr. 28, 2023 2:55:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 13685
+2023.04.28 02:55:15 INFO  compiling root (8 scala sources)
+2023.04.28 02:55:15 INFO  time: compiled root in 0.49s
+2023.04.28 02:55:18 INFO  compiling root (8 scala sources)
+2023.04.28 02:55:18 INFO  time: compiled root in 0.58s
+Apr. 28, 2023 2:55:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 13775
+Apr. 28, 2023 2:55:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 13791
+2023.04.28 02:55:35 INFO  compiling root (8 scala sources)
+2023.04.28 02:55:35 INFO  time: compiled root in 0.6s
+2023.04.28 02:55:38 INFO  compiling root (8 scala sources)
+2023.04.28 02:55:38 INFO  time: compiled root in 0.44s
+2023.04.28 02:55:47 INFO  compiling root (8 scala sources)
+2023.04.28 02:55:47 INFO  time: compiled root in 0.54s
+2023.04.28 02:55:53 INFO  compiling root (8 scala sources)
+2023.04.28 02:55:53 INFO  time: compiled root in 0.41s
+2023.04.28 02:55:56 INFO  compiling root (8 scala sources)
+2023.04.28 02:55:56 INFO  time: compiled root in 0.4s
+2023.04.28 02:56:03 INFO  compiling root (8 scala sources)
+2023.04.28 02:56:03 INFO  time: compiled root in 0.37s
+2023.04.28 02:56:16 ERROR searching for `model/Field$package.main().` failed
+java.nio.file.NoSuchFileException: C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\Field.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:380)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:248)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:184)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:184)
+	at scala.collection.immutable.Set$Set1.foreach(Set.scala:168)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:184)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:158)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:139)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:139)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:46)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:104)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:42)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:189)
+	at scala.meta.internal.pc.CompletionItemResolver$.resolve(CompletionItemResolver.scala:27)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.completionItemResolve$$anonfun$1(ScalaPresentationCompiler.scala:185)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.04.28 02:56:26 INFO  compiling root (8 scala sources)
+2023.04.28 02:56:26 INFO  time: compiled root in 0.36s
+2023.04.28 02:56:29 INFO  compiling root (8 scala sources)
+2023.04.28 02:56:29 INFO  time: compiled root in 0.38s
+2023.04.28 02:56:40 INFO  compiling root (8 scala sources)
+2023.04.28 02:56:40 INFO  time: compiled root in 0.43s
+2023.04.28 02:56:45 INFO  compiling root (8 scala sources)
+2023.04.28 02:56:45 INFO  time: compiled root in 0.4s
+Apr. 28, 2023 2:56:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 14274
+2023.04.28 02:56:54 INFO  compiling root (8 scala sources)
+2023.04.28 02:56:54 INFO  time: compiled root in 0.4s
+2023.04.28 02:56:58 INFO  compiling root (8 scala sources)
+2023.04.28 02:56:58 INFO  time: compiled root in 0.36s
+2023.04.28 02:57:00 INFO  compiling root (8 scala sources)
+Apr. 28, 2023 2:57:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 14361
+2023.04.28 02:57:00 INFO  time: compiled root in 0.42s
+2023.04.28 02:57:09 INFO  compiling root (8 scala sources)
+2023.04.28 02:57:09 INFO  time: compiled root in 0.45s
+2023.04.28 02:57:29 INFO  compiling root (8 scala sources)
+2023.04.28 02:57:29 INFO  time: compiled root in 0.37s
+2023.04.28 02:57:32 INFO  compiling root (8 scala sources)
+2023.04.28 02:57:32 INFO  time: compiled root in 0.39s
+2023.04.28 02:57:43 WARN  Using indexes to guess the definition of size
+2023.04.28 02:57:45 INFO  compiling root (8 scala sources)
+2023.04.28 02:57:45 INFO  time: compiled root in 0.36s
+2023.04.28 02:57:51 INFO  compiling root (8 scala sources)
+2023.04.28 02:57:51 INFO  time: compiled root in 0.36s
+2023.04.28 02:57:51 INFO  compiling root (8 scala sources)
+2023.04.28 02:57:52 INFO  time: compiled root in 0.47s
+2023.04.28 02:57:54 INFO  compiling root (8 scala sources)
+2023.04.28 02:57:54 INFO  time: compiled root in 0.39s
+2023.04.28 02:58:02 INFO  compiling root (8 scala sources)
+2023.04.28 02:58:02 INFO  time: compiled root in 0.42s
+2023.04.28 02:58:14 INFO  compiling root (8 scala sources)
+2023.04.28 02:58:14 INFO  time: compiled root in 0.41s
+Apr. 28, 2023 2:58:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 14761
+2023.04.28 02:58:31 INFO  compiling root (8 scala sources)
+2023.04.28 02:58:31 INFO  time: compiled root in 0.39s
+2023.04.28 02:58:44 INFO  compiling root (8 scala sources)
+2023.04.28 02:58:44 INFO  time: compiled root in 0.35s
+2023.04.28 02:59:00 INFO  compiling root (8 scala sources)
+2023.04.28 02:59:00 INFO  time: compiled root in 0.38s
+Apr. 28, 2023 2:59:03 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:98)
+
+Apr. 28, 2023 2:59:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:98)
+
+2023.04.28 02:59:05 INFO  compiling root (8 scala sources)
+2023.04.28 02:59:05 INFO  time: compiled root in 0.4s
+2023.04.28 02:59:05 INFO  compiling root (8 scala sources)
+2023.04.28 02:59:06 INFO  time: compiled root in 0.36s
+2023.04.28 02:59:12 INFO  compiling root (8 scala sources)
+2023.04.28 02:59:12 INFO  time: compiled root in 0.42s
+2023.04.28 03:01:04 INFO  compiling root (8 scala sources)
+2023.04.28 03:01:04 INFO  time: compiled root in 0.37s
+2023.04.28 03:01:11 INFO  compiling root (8 scala sources)
+2023.04.28 03:01:11 INFO  time: compiled root in 0.38s
+2023.04.28 03:01:21 INFO  compiling root (8 scala sources)
+2023.04.28 03:01:21 INFO  time: compiled root in 0.34s
+2023.04.28 03:01:37 INFO  compiling root (8 scala sources)
+2023.04.28 03:01:37 INFO  time: compiled root in 0.4s
+Apr. 28, 2023 3:01:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 15334
+2023.04.28 03:01:57 INFO  compiling root (8 scala sources)
+2023.04.28 03:01:57 INFO  time: compiled root in 0.35s
+2023.04.28 03:01:59 INFO  compiling root (8 scala sources)
+2023.04.28 03:01:59 INFO  time: compiled root in 0.36s
+2023.04.28 03:02:02 INFO  compiling root (8 scala sources)
+2023.04.28 03:02:02 INFO  time: compiled root in 0.4s
+2023.04.28 03:02:09 INFO  compiling root (8 scala sources)
+2023.04.28 03:02:09 INFO  time: compiled root in 0.37s
+2023.04.28 03:02:19 INFO  compiling root (8 scala sources)
+2023.04.28 03:02:19 INFO  time: compiled root in 0.36s
+2023.04.28 03:02:20 INFO  compiling root (8 scala sources)
+2023.04.28 03:02:20 INFO  time: compiled root in 0.42s
+2023.04.28 03:02:34 INFO  compiling root (8 scala sources)
+2023.04.28 03:02:34 INFO  time: compiled root in 0.34s
+2023.04.28 03:02:36 INFO  compiling root (8 scala sources)
+2023.04.28 03:02:36 INFO  time: compiled root in 0.41s
+2023.04.28 03:02:42 INFO  compiling root (8 scala sources)
+2023.04.28 03:02:42 INFO  time: compiled root in 0.37s
+2023.04.28 03:03:20 INFO  compiling root (8 scala sources)
+2023.04.28 03:03:20 INFO  time: compiled root in 0.39s
+2023.04.28 03:03:28 INFO  compiling root (8 scala sources)
+2023.04.28 03:03:28 INFO  time: compiled root in 0.34s
+2023.04.28 03:03:31 INFO  compiling root (8 scala sources)
+2023.04.28 03:03:31 INFO  time: compiled root in 0.39s
+2023.04.28 03:03:46 INFO  compiling root (8 scala sources)
+2023.04.28 03:03:46 INFO  time: compiled root in 0.36s
+2023.04.28 03:03:51 INFO  compiling root (8 scala sources)
+2023.04.28 03:03:51 INFO  time: compiled root in 0.31s
+2023.04.28 03:03:55 INFO  compiling root (8 scala sources)
+2023.04.28 03:03:55 INFO  time: compiled root in 0.31s
+2023.04.28 03:04:03 INFO  compiling root (8 scala sources)
+2023.04.28 03:04:03 INFO  time: compiled root in 0.31s
+2023.04.28 03:04:35 INFO  compiling root (9 scala sources)
+2023.04.28 03:04:35 INFO  time: compiled root in 0.39s
+2023.04.28 03:04:35 INFO  compiling root (9 scala sources)
+2023.04.28 03:04:35 INFO  time: compiled root in 0.36s
+2023.04.28 03:04:36 INFO  compiling root (9 scala sources)
+2023.04.28 03:04:36 INFO  time: compiled root in 0.33s
+2023.04.28 03:04:57 INFO  compiling root (9 scala sources)
+2023.04.28 03:04:57 INFO  time: compiled root in 0.37s
+2023.04.28 03:05:10 INFO  compiling root (9 scala sources)
+2023.04.28 03:05:10 INFO  time: compiled root in 0.33s
+2023.04.28 03:05:13 INFO  compiling root (9 scala sources)
+2023.04.28 03:05:13 INFO  time: compiled root in 0.34s
+2023.04.28 03:05:13 INFO  compiling root (9 scala sources)
+2023.04.28 03:05:14 INFO  time: compiled root in 0.38s
+2023.04.28 03:05:51 INFO  compiling root (9 scala sources)
+2023.04.28 03:05:51 INFO  time: compiled root in 0.36s
+2023.04.28 03:05:59 INFO  compiling root (9 scala sources)
+2023.04.28 03:05:59 INFO  time: compiled root in 0.42s
+2023.04.28 03:06:05 INFO  compiling root (10 scala sources)
+2023.04.28 03:06:05 INFO  time: compiled root in 0.5s
+2023.04.28 03:06:05 INFO  compiling root (10 scala sources)
+2023.04.28 03:06:06 INFO  time: compiled root in 0.48s
+2023.04.28 03:06:08 INFO  compiling root (10 scala sources)
+2023.04.28 03:06:08 INFO  time: compiled root in 0.44s
+2023.04.28 03:06:19 INFO  compiling root (10 scala sources)
+2023.04.28 03:06:19 INFO  time: compiled root in 0.51s
+2023.04.28 03:10:24 INFO  compiling root (10 scala sources)
+2023.04.28 03:10:24 INFO  time: compiled root in 0.49s
+2023.04.28 03:10:38 WARN  Using indexes to guess the definition of replaceCell
+2023.04.28 03:10:38 INFO  compiling root (10 scala sources)
+2023.04.28 03:10:38 WARN  Using indexes to guess the definition of replaceCell
+2023.04.28 03:10:38 INFO  time: compiled root in 0.46s
+2023.04.28 03:11:08 INFO  compiling root (10 scala sources)
+2023.04.28 03:11:08 INFO  time: compiled root in 0.51s
+2023.04.28 03:11:20 INFO  compiling root (10 scala sources)
+Apr. 28, 2023 3:11:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 16725
+2023.04.28 03:11:20 INFO  time: compiled root in 0.49s
+2023.04.28 03:12:00 INFO  compiling root (10 scala sources)
+2023.04.28 03:12:00 INFO  time: compiled root in 0.66s
+2023.04.28 03:12:00 INFO  compiling root (10 scala sources)
+2023.04.28 03:12:01 INFO  time: compiled root in 0.49s
+2023.04.28 03:12:01 INFO  compiling root (10 scala sources)
+2023.04.28 03:12:01 INFO  time: compiled root in 0.42s
+2023.04.28 03:12:39 INFO  compiling root (10 scala sources)
+2023.04.28 03:12:39 INFO  time: compiled root in 0.47s
+2023.04.28 03:13:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Grid.scala:13:46: stale bloop error: Missing return type
+    def set(row: Int, col: Int, value: Stone)
+                                             ^
+2023.04.28 03:13:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Grid.scala:13:46: stale bloop error: Missing return type
+    def set(row: Int, col: Int, value: Stone)
+                                             ^
+2023.04.28 03:13:17 INFO  compiling root (10 scala sources)
+2023.04.28 03:13:17 INFO  time: compiled root in 0.48s
+2023.04.28 03:13:20 INFO  compiling root (10 scala sources)
+2023.04.28 03:13:20 INFO  time: compiled root in 0.54s
+2023.04.28 03:13:27 INFO  compiling root (10 scala sources)
+2023.04.28 03:13:27 INFO  time: compiled root in 0.47s
+2023.04.28 03:13:30 INFO  compiling root (10 scala sources)
+2023.04.28 03:13:30 INFO  time: compiled root in 0.47s
+2023.04.28 03:13:46 INFO  compiling root (10 scala sources)
+2023.04.28 03:13:46 INFO  time: compiled root in 0.48s
+2023.04.28 03:13:49 INFO  compiling root (10 scala sources)
+2023.04.28 03:13:49 INFO  time: compiled root in 0.49s
+2023.04.28 03:13:58 INFO  compiling root (10 scala sources)
+2023.04.28 03:13:58 INFO  time: compiled root in 0.45s
+2023.04.28 03:14:01 INFO  compiling root (10 scala sources)
+2023.04.28 03:14:01 INFO  time: compiled root in 0.51s
+2023.04.28 03:14:16 INFO  compiling root (10 scala sources)
+2023.04.28 03:14:16 INFO  time: compiled root in 0.45s
+2023.04.28 03:14:19 INFO  compiling root (10 scala sources)
+2023.04.28 03:14:19 INFO  time: compiled root in 0.48s
+2023.04.28 03:14:22 INFO  compiling root (10 scala sources)
+2023.04.28 03:14:22 INFO  time: compiled root in 0.48s
+2023.04.28 03:14:27 INFO  compiling root (10 scala sources)
+2023.04.28 03:14:27 INFO  time: compiled root in 0.47s
+2023.04.28 03:14:35 INFO  compiling root (10 scala sources)
+2023.04.28 03:14:35 INFO  time: compiled root in 0.49s
+2023.04.28 03:14:41 INFO  compiling root (10 scala sources)
+2023.04.28 03:14:41 INFO  time: compiled root in 0.53s
+2023.04.28 03:14:52 INFO  compiling root (10 scala sources)
+2023.04.28 03:14:52 INFO  time: compiled root in 0.55s
+2023.04.28 03:15:11 INFO  compiling root (10 scala sources)
+2023.04.28 03:15:11 INFO  time: compiled root in 0.47s
+2023.04.28 03:15:13 INFO  compiling root (10 scala sources)
+2023.04.28 03:15:13 INFO  time: compiled root in 0.45s
+2023.04.28 03:15:26 INFO  compiling root (10 scala sources)
+2023.04.28 03:15:26 INFO  time: compiled root in 0.45s
+2023.04.28 03:15:28 INFO  compiling root (10 scala sources)
+2023.04.28 03:15:28 INFO  time: compiled root in 0.44s
+2023.04.28 03:15:31 INFO  compiling root (10 scala sources)
+2023.04.28 03:15:31 INFO  time: compiled root in 0.41s
+2023.04.28 03:15:33 INFO  compiling root (10 scala sources)
+2023.04.28 03:15:33 INFO  time: compiled root in 0.43s
+2023.04.28 03:15:44 INFO  compiling root (10 scala sources)
+2023.04.28 03:15:44 INFO  time: compiled root in 0.47s
+2023.04.28 03:15:46 INFO  compiling root (10 scala sources)
+2023.04.28 03:15:46 INFO  time: compiled root in 0.47s
+2023.04.28 03:15:49 INFO  compiling root (10 scala sources)
+2023.04.28 03:15:49 INFO  time: compiled root in 0.45s
+2023.04.28 03:15:56 INFO  compiling root (10 scala sources)
+2023.04.28 03:15:56 INFO  time: compiled root in 0.5s
+2023.04.28 03:15:59 INFO  compiling root (10 scala sources)
+2023.04.28 03:15:59 INFO  time: compiled root in 0.57s
+2023.04.28 03:16:19 INFO  compiling root (10 scala sources)
+2023.04.28 03:16:19 INFO  time: compiled root in 0.46s
+2023.04.28 03:16:23 INFO  compiling root (10 scala sources)
+2023.04.28 03:16:23 INFO  time: compiled root in 0.45s
+2023.04.28 03:16:27 INFO  compiling root (10 scala sources)
+2023.04.28 03:16:27 WARN  Using indexes to guess the definition of Grid
+2023.04.28 03:16:27 INFO  time: compiled root in 0.5s
+Apr. 28, 2023 3:16:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 18104
+2023.04.28 03:16:32 INFO  compiling root (10 scala sources)
+2023.04.28 03:16:32 INFO  time: compiled root in 0.5s
+2023.04.28 03:16:35 INFO  compiling root (10 scala sources)
+2023.04.28 03:16:35 INFO  time: compiled root in 0.43s
+2023.04.28 03:16:37 INFO  compiling root (10 scala sources)
+2023.04.28 03:16:37 INFO  time: compiled root in 0.43s
+2023.04.28 03:16:38 INFO  compiling root (10 scala sources)
+2023.04.28 03:16:38 INFO  time: compiled root in 0.46s
+2023.04.28 03:17:10 INFO  compiling root (10 scala sources)
+2023.04.28 03:17:10 INFO  time: compiled root in 0.4s
+2023.04.28 03:17:44 INFO  compiling root (10 scala sources)
+2023.04.28 03:17:44 INFO  time: compiled root in 0.41s
+2023.04.28 03:17:46 INFO  compiling root (10 scala sources)
+2023.04.28 03:17:46 INFO  time: compiled root in 0.55s
+2023.04.28 03:19:08 INFO  compiling root (10 scala sources)
+2023.04.28 03:19:08 INFO  time: compiled root in 0.46s
+2023.04.28 03:19:18 INFO  compiling root (10 scala sources)
+2023.04.28 03:19:18 WARN  Using indexes to guess the definition of Boolean
+2023.04.28 03:19:18 INFO  time: compiled root in 0.46s
+2023.04.28 03:19:22 INFO  compiling root (10 scala sources)
+2023.04.28 03:19:22 INFO  time: compiled root in 0.43s
+2023.04.28 03:19:36 WARN  Using indexes to guess the definition of Stone
+2023.04.28 03:19:36 INFO  compiling root (10 scala sources)
+2023.04.28 03:19:36 INFO  time: compiled root in 0.45s
+Apr. 28, 2023 3:19:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 18540
+2023.04.28 03:19:48 INFO  compiling root (10 scala sources)
+2023.04.28 03:19:48 INFO  time: compiled root in 0.52s
+2023.04.28 03:20:03 INFO  compiling root (10 scala sources)
+2023.04.28 03:20:03 INFO  time: compiled root in 0.49s
+2023.04.28 03:20:05 INFO  compiling root (10 scala sources)
+2023.04.28 03:20:05 INFO  time: compiled root in 0.51s
+2023.04.28 03:20:10 INFO  compiling root (10 scala sources)
+2023.04.28 03:20:10 WARN  Using indexes to guess the definition of Stone
+2023.04.28 03:20:10 INFO  time: compiled root in 0.46s
+2023.04.28 03:20:14 INFO  compiling root (10 scala sources)
+2023.04.28 03:20:14 INFO  time: compiled root in 0.45s
+2023.04.28 03:20:19 INFO  compiling root (10 scala sources)
+2023.04.28 03:20:19 INFO  time: compiled root in 0.46s
+2023.04.28 03:20:30 INFO  compiling root (10 scala sources)
+2023.04.28 03:20:30 INFO  time: compiled root in 0.45s
+2023.04.28 03:21:21 INFO  compiling root (10 scala sources)
+2023.04.28 03:21:21 INFO  time: compiled root in 0.42s
+2023.04.28 03:21:30 INFO  compiling root (10 scala sources)
+2023.04.28 03:21:30 INFO  time: compiled root in 0.46s
+2023.04.28 03:21:35 INFO  compiling root (10 scala sources)
+2023.04.28 03:21:35 INFO  time: compiled root in 0.39s
+2023.04.28 03:22:05 INFO  compiling root (10 scala sources)
+2023.04.28 03:22:05 INFO  time: compiled root in 0.4s
+2023.04.28 03:22:20 INFO  compiling root (10 scala sources)
+2023.04.28 03:22:20 INFO  time: compiled root in 0.47s
+2023.04.28 03:22:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:5:26: stale bloop error: Not found: size
+    val field = new Grid(size)
+                         ^^^^
+2023.04.28 03:22:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:8:51: stale bloop error: value set is not a member of model.Matrix[model.Stone]
+    def addWhitePiece(row: Int, col: Int): Grid = field.set(row,col,Stone.o)
+                                                  ^^^^^^^^^
+2023.04.28 03:22:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:12:51: stale bloop error: value set is not a member of model.Matrix[model.Stone]
+    def addBlackPiece(row: Int, col: Int): Grid = field.set(row,col,Stone.x)
+                                                  ^^^^^^^^^
+2023.04.28 03:22:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:16:49: stale bloop error: value set is not a member of model.Matrix[model.Stone]
+    def removePiece(row: Int, col: Int): Grid = field.set(row,col,Stone.empty)
+                                                ^^^^^^^^^
+2023.04.28 03:22:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:5:26: stale bloop error: Not found: size
+    val field = new Grid(size)
+                         ^^^^
+2023.04.28 03:22:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:8:51: stale bloop error: value set is not a member of model.Matrix[model.Stone]
+    def addWhitePiece(row: Int, col: Int): Grid = field.set(row,col,Stone.o)
+                                                  ^^^^^^^^^
+2023.04.28 03:22:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:12:51: stale bloop error: value set is not a member of model.Matrix[model.Stone]
+    def addBlackPiece(row: Int, col: Int): Grid = field.set(row,col,Stone.x)
+                                                  ^^^^^^^^^
+2023.04.28 03:22:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:16:49: stale bloop error: value set is not a member of model.Matrix[model.Stone]
+    def removePiece(row: Int, col: Int): Grid = field.set(row,col,Stone.empty)
+                                                ^^^^^^^^^
+2023.04.28 03:22:25 INFO  compiling root (10 scala sources)
+2023.04.28 03:22:25 INFO  time: compiled root in 0.41s
+2023.04.28 03:22:28 INFO  compiling root (10 scala sources)
+2023.04.28 03:22:28 INFO  time: compiled root in 0.39s
+2023.04.28 03:22:29 INFO  compiling root (10 scala sources)
+2023.04.28 03:22:29 INFO  time: compiled root in 0.41s
+2023.04.28 03:22:33 INFO  compiling root (10 scala sources)
+2023.04.28 03:22:33 INFO  time: compiled root in 0.56s
+2023.04.28 03:22:36 INFO  compiling root (10 scala sources)
+2023.04.28 03:22:36 INFO  time: compiled root in 0.42s
+2023.04.28 03:22:45 INFO  compiling root (10 scala sources)
+2023.04.28 03:22:45 INFO  time: compiled root in 0.44s
+2023.04.28 03:22:49 INFO  compiling root (10 scala sources)
+2023.04.28 03:22:49 INFO  time: compiled root in 0.41s
+2023.04.28 03:22:58 INFO  compiling root (10 scala sources)
+2023.04.28 03:22:58 INFO  time: compiled root in 0.43s
+2023.04.28 03:23:24 INFO  compiling root (10 scala sources)
+2023.04.28 03:23:24 INFO  time: compiled root in 0.39s
+2023.04.28 03:23:27 INFO  compiling root (10 scala sources)
+2023.04.28 03:23:27 INFO  time: compiled root in 0.42s
+Apr. 28, 2023 3:23:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 19453
+2023.04.28 03:23:37 INFO  compiling root (10 scala sources)
+2023.04.28 03:23:37 INFO  time: compiled root in 0.42s
+2023.04.28 03:23:40 INFO  compiling root (10 scala sources)
+2023.04.28 03:23:40 INFO  time: compiled root in 0.46s
+2023.04.28 03:23:42 INFO  compiling root (10 scala sources)
+2023.04.28 03:23:42 INFO  time: compiled root in 0.51s
+2023.04.28 03:23:47 INFO  compiling root (10 scala sources)
+2023.04.28 03:23:47 INFO  time: compiled root in 0.49s
+2023.04.28 03:23:50 INFO  compiling root (10 scala sources)
+2023.04.28 03:23:50 INFO  time: compiled root in 0.4s
+2023.04.28 03:24:00 INFO  compiling root (10 scala sources)
+2023.04.28 03:24:00 INFO  time: compiled root in 0.38s
+2023.04.28 03:24:02 INFO  compiling root (10 scala sources)
+2023.04.28 03:24:02 INFO  time: compiled root in 0.39s
+2023.04.28 03:24:04 INFO  compiling root (10 scala sources)
+2023.04.28 03:24:04 INFO  time: compiled root in 0.43s
+2023.04.28 03:24:11 INFO  compiling root (10 scala sources)
+2023.04.28 03:24:11 INFO  time: compiled root in 0.42s
+2023.04.28 03:24:13 INFO  compiling root (10 scala sources)
+2023.04.28 03:24:13 INFO  time: compiled root in 0.45s
+2023.04.28 03:24:18 INFO  compiling root (10 scala sources)
+2023.04.28 03:24:18 INFO  time: compiled root in 0.44s
+2023.04.28 03:24:20 INFO  compiling root (10 scala sources)
+2023.04.28 03:24:20 INFO  time: compiled root in 0.57s
+2023.04.28 03:24:25 INFO  compiling root (10 scala sources)
+2023.04.28 03:24:25 INFO  time: compiled root in 0.42s
+2023.04.28 03:24:44 INFO  compiling root (10 scala sources)
+2023.04.28 03:24:44 INFO  time: compiled root in 0.44s
+Apr. 28, 2023 3:25:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 20001
+2023.04.28 03:25:11 INFO  compiling root (10 scala sources)
+2023.04.28 03:25:11 INFO  time: compiled root in 0.41s
+2023.04.28 03:25:20 INFO  compiling root (10 scala sources)
+2023.04.28 03:25:20 INFO  time: compiled root in 0.45s
+2023.04.28 03:25:22 INFO  compiling root (10 scala sources)
+2023.04.28 03:25:22 INFO  time: compiled root in 0.47s
+2023.04.28 03:25:28 INFO  compiling root (10 scala sources)
+2023.04.28 03:25:28 INFO  time: compiled root in 0.43s
+2023.04.28 03:25:32 WARN  Using indexes to guess the definition of StoneAt
+Apr. 28, 2023 3:25:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 20191
+2023.04.28 03:25:36 WARN  Using indexes to guess the definition of board
+2023.04.28 03:25:36 INFO  compiling root (10 scala sources)
+2023.04.28 03:25:36 INFO  time: compiled root in 0.42s
+2023.04.28 03:25:39 WARN  Using indexes to guess the definition of board
+2023.04.28 03:25:41 WARN  Using indexes to guess the definition of board
+2023.04.28 03:25:44 WARN  Using indexes to guess the definition of board
+2023.04.28 03:25:50 WARN  Using indexes to guess the definition of board
+2023.04.28 03:25:50 WARN  Using indexes to guess the definition of board
+2023.04.28 03:25:52 WARN  Using indexes to guess the definition of board
+2023.04.28 03:25:52 WARN  Using indexes to guess the definition of empty
+2023.04.28 03:25:54 WARN  Using indexes to guess the definition of board
+2023.04.28 03:25:54 WARN  Using indexes to guess the definition of empty
+Apr. 28, 2023 3:25:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 20319
+2023.04.28 03:25:55 WARN  Using indexes to guess the definition of board
+2023.04.28 03:25:57 WARN  Using indexes to guess the definition of board
+2023.04.28 03:25:58 INFO  compiling root (10 scala sources)
+2023.04.28 03:25:58 INFO  time: compiled root in 0.4s
+Apr. 28, 2023 3:26:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 20381
+2023.04.28 03:26:20 INFO  compiling root (10 scala sources)
+2023.04.28 03:26:20 INFO  time: compiled root in 0.41s
+Apr. 28, 2023 3:26:25 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row,col)(row-1)(col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:35: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == size -1) return field.StoneAt(row,col)(row-1)(col-1).equals(Stone.empty)
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:43:29: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == 0) return field.StoneAt(row,col)(row-1)(col+1).equals(Stone.empty)
+                            ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:44:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row-1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row-1)(col-1).equals(Stone.empty)){ //Corner Case führt zu NullPointer!!!
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:35: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == size -1) return field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:49:29: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == 0) return field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty)
+                            ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row,col)(row-1)(col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:35: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == size -1) return field.StoneAt(row,col)(row-1)(col-1).equals(Stone.empty)
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:43:29: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == 0) return field.StoneAt(row,col)(row-1)(col+1).equals(Stone.empty)
+                            ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:44:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row-1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row-1)(col-1).equals(Stone.empty)){ //Corner Case führt zu NullPointer!!!
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:35: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == size -1) return field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:49:29: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == 0) return field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty)
+                            ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:26:30 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+Apr. 28, 2023 3:26:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+2023.04.28 03:26:36 INFO  compiling root (10 scala sources)
+2023.04.28 03:26:36 INFO  time: compiled root in 0.51s
+2023.04.28 03:26:38 INFO  compiling root (10 scala sources)
+2023.04.28 03:26:38 INFO  time: compiled root in 0.79s
+2023.04.28 03:26:45 INFO  compiling root (10 scala sources)
+Apr. 28, 2023 3:26:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 20550
+2023.04.28 03:26:45 INFO  time: compiled root in 0.42s
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row-1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:44:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row-1)(col+1).equals(Stone.empty) || field.StoneAt(row-1,col-1).equals(Stone.empty)){ //Corner Case führt zu NullPointer!!!
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:35: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == size -1) return field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:49:29: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == 0) return field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty)
+                            ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row-1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:44:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row-1)(col+1).equals(Stone.empty) || field.StoneAt(row-1,col-1).equals(Stone.empty)){ //Corner Case führt zu NullPointer!!!
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:35: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == size -1) return field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:49:29: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == 0) return field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty)
+                            ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:26:48 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+Apr. 28, 2023 3:26:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+2023.04.28 03:26:48 INFO  compiling root (10 scala sources)
+2023.04.28 03:26:48 INFO  time: compiled root in 0.51s
+2023.04.28 03:26:52 ERROR Unexpected error when compiling root: 'C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.bloop\root\bloop-internal-classes\classes-Metals-ppMVJ7jgTLiJxorO9GYkpg==-7FRS_XNlS7SK2lOwhCevPA==\model\Stone.tasty -> C:\Users\Robin\AppData\Local\Temp\bloop11614949870244697195\bloop13194534660835348292.class: Der Prozess kann nicht auf die Datei zugreifen, da sie von einem anderen Prozess verwendet wird'
+2023.04.28 03:26:53 WARN  Using indexes to guess the definition of field
+2023.04.28 03:26:54 INFO  compiling root (10 scala sources)
+2023.04.28 03:26:54 WARN  Using indexes to guess the definition of field
+2023.04.28 03:26:54 INFO  time: compiled root in 0.43s
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row-1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:35: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == size -1) return field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:49:29: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == 0) return field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty)
+                            ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row-1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:35: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == size -1) return field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:49:29: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == 0) return field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty)
+                            ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:26:57 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+Apr. 28, 2023 3:26:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+2023.04.28 03:27:01 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:01 INFO  time: compiled root in 0.47s
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row-1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row+1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:49:29: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == 0) return field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty)
+                            ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row-1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row+1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:49:29: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == 0) return field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty)
+                            ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:27:04 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row-1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row+1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:49:29: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == 0) return field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty)
+                            ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row-1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row+1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:49:29: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(col == 0) return field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty)
+                            ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:27:07 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+Apr. 28, 2023 3:27:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+2023.04.28 03:27:08 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:08 INFO  time: compiled root in 0.41s
+2023.04.28 03:27:12 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:12 INFO  time: compiled root in 0.44s
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row-1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row+1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row-1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row+1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:12: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row,col)(row+1)(col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+           ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:27:15 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+Apr. 28, 2023 3:27:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SCHWERWIEGEND: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+2023.04.28 03:27:20 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:20 INFO  time: compiled root in 0.41s
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row-1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row+1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:62: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row+1,col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+                                                             ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:41:19: stale bloop error: Not found: size
+        if(row == size-1) return false
+                  ^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:42:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row-1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:48:19: stale bloop error: Not found: size
+        if(col == size -1) return field.StoneAt(row+1,col-1).equals(Stone.empty)
+                  ^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:50:62: stale bloop error: method StoneAt in class Grid does not take more parameters
+        if(field.StoneAt(row+1,col+1).equals(Stone.empty) || field.StoneAt(row,col)(row+1)(col-1).equals(Stone.empty)){
+                                                             ^^^^^^^^^^^^^^^^^^^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:61:28: stale bloop error: Not found: size
+        for(row <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:62:28: stale bloop error: Not found: size
+        for(col <- 0 until size){
+                           ^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:63:16: stale bloop error: Not found: board
+            if(board(row)(col).equals(Stone.o) && currentPlayer.equals(Player.white)){
+               ^^^^^
+2023.04.28 03:27:23 INFO  file:///C:/Users/Robin/OneDrive/Desktop/HTWG/Software%20Engineering/game/src/main/scala/model/Move.scala:67:23: stale bloop error: Not found: board
+            } else if(board(row)(col).equals(Stone.x) && currentPlayer.equals(Player.black)) {
+                      ^^^^^
+2023.04.28 03:27:27 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:27 INFO  time: compiled root in 0.41s
+Exception in thread "pool-4-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Apr. 28, 2023 3:27:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 20878
+2023.04.28 03:27:28 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:28 INFO  time: compiled root in 0.45s
+2023.04.28 03:27:36 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:36 INFO  time: compiled root in 0.39s
+2023.04.28 03:27:37 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:37 INFO  time: compiled root in 0.45s
+2023.04.28 03:27:40 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:40 INFO  time: compiled root in 0.41s
+2023.04.28 03:27:43 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:43 INFO  time: compiled root in 0.39s
+Apr. 28, 2023 3:27:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 21007
+2023.04.28 03:27:47 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:47 INFO  time: compiled root in 0.4s
+2023.04.28 03:27:53 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:53 INFO  time: compiled root in 0.5s
+2023.04.28 03:27:58 INFO  compiling root (10 scala sources)
+2023.04.28 03:27:58 INFO  time: compiled root in 0.4s
+2023.04.28 03:28:01 INFO  compiling root (10 scala sources)
+2023.04.28 03:28:01 INFO  time: compiled root in 0.41s
+2023.04.28 03:28:06 INFO  compiling root (10 scala sources)
+2023.04.28 03:28:06 INFO  time: compiled root in 0.41s
+2023.04.28 03:28:12 INFO  compiling root (10 scala sources)
+2023.04.28 03:28:13 WARN  Using indexes to guess the definition of size
+2023.04.28 03:28:12 INFO  time: compiled root in 0.43s
+2023.04.28 03:28:18 INFO  compiling root (10 scala sources)
+2023.04.28 03:28:18 INFO  time: compiled root in 0.39s
+2023.04.28 03:28:30 INFO  compiling root (10 scala sources)
+2023.04.28 03:28:30 INFO  time: compiled root in 0.4s
+2023.04.28 03:28:45 INFO  compiling root (10 scala sources)
+2023.04.28 03:28:45 INFO  time: compiled root in 0.47s
+2023.04.28 03:28:46 INFO  compiling root (10 scala sources)
+2023.04.28 03:28:46 INFO  time: compiled root in 0.4s
+2023.04.28 03:28:50 INFO  compiling root (10 scala sources)
+2023.04.28 03:28:50 INFO  time: compiled root in 0.39s
+2023.04.28 03:28:52 INFO  compiling root (10 scala sources)
+2023.04.28 03:28:52 WARN  Using indexes to guess the definition of Stone
+2023.04.28 03:28:52 INFO  time: compiled root in 0.39s
+2023.04.28 03:28:52 INFO  compiling root (10 scala sources)
+2023.04.28 03:28:53 INFO  time: compiled root in 0.39s
+2023.04.28 03:28:58 INFO  compiling root (10 scala sources)
+2023.04.28 03:28:58 INFO  time: compiled root in 0.36s
+2023.04.28 03:29:15 INFO  compiling root (10 scala sources)
+2023.04.28 03:29:15 INFO  time: compiled root in 0.36s
+2023.04.28 03:29:16 INFO  compiling root (10 scala sources)
+2023.04.28 03:29:16 INFO  time: compiled root in 0.44s
+2023.04.28 03:29:18 INFO  compiling root (10 scala sources)
+2023.04.28 03:29:18 INFO  time: compiled root in 0.4s
+Apr. 28, 2023 3:29:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 21608
+2023.04.28 03:29:25 INFO  compiling root (10 scala sources)
+2023.04.28 03:29:25 INFO  time: compiled root in 0.37s
+2023.04.28 03:29:28 INFO  compiling root (10 scala sources)
+2023.04.28 03:29:28 INFO  time: compiled root in 0.37s
+2023.04.28 03:29:31 INFO  compiling root (10 scala sources)
+2023.04.28 03:29:31 INFO  time: compiled root in 0.39s
+2023.04.28 03:29:36 INFO  compiling root (10 scala sources)
+2023.04.28 03:29:36 WARN  Using indexes to guess the definition of StoneAt
+2023.04.28 03:29:36 INFO  time: compiled root in 0.46s
+Apr. 28, 2023 3:29:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 21772
+Apr. 28, 2023 3:29:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 21775
+2023.04.28 03:30:36 WARN  Using indexes to guess the definition of StoneAt
+2023.04.28 03:30:37 INFO  compiling root (10 scala sources)
+2023.04.28 03:30:37 INFO  time: compiled root in 0.35s
+2023.04.28 03:30:40 INFO  compiling root (10 scala sources)
+2023.04.28 03:30:40 INFO  time: compiled root in 0.36s
+2023.04.28 03:30:43 INFO  compiling root (10 scala sources)
+2023.04.28 03:30:43 INFO  time: compiled root in 0.38s
+2023.04.28 03:31:34 INFO  compiling root (11 scala sources)
+2023.04.28 03:31:34 INFO  time: compiled root in 0.4s
+2023.04.28 03:31:34 INFO  compiling root (11 scala sources)
+2023.04.28 03:31:34 INFO  time: compiled root in 0.36s
+2023.04.28 03:31:34 INFO  compiling root (11 scala sources)
+2023.04.28 03:31:35 INFO  time: compiled root in 0.4s
+Apr. 28, 2023 3:31:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 22020
+2023.04.28 03:32:03 INFO  compiling root (12 scala sources)
+2023.04.28 03:32:03 INFO  time: compiled root in 0.38s
+2023.04.28 03:32:03 INFO  compiling root (12 scala sources)
+2023.04.28 03:32:03 INFO  time: compiled root in 0.39s
+2023.04.28 03:32:06 INFO  compiling root (12 scala sources)
+Apr. 28, 2023 3:32:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 22076
+2023.04.28 03:32:06 INFO  time: compiled root in 0.44s
+Exception in thread "pool-4-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.04.28 03:32:47 INFO  compiling root (12 scala sources)
+2023.04.28 03:32:47 INFO  time: compiled root in 0.41s
+2023.04.28 03:32:52 INFO  compiling root (12 scala sources)
+2023.04.28 03:32:52 INFO  time: compiled root in 0.42s
+2023.04.28 03:32:56 INFO  compiling root (12 scala sources)
+2023.04.28 03:32:56 INFO  time: compiled root in 0.42s
+2023.04.28 03:33:15 INFO  compiling root (12 scala sources)
+2023.04.28 03:33:15 INFO  time: compiled root in 0.41s
+2023.04.28 03:33:26 INFO  compiling root (12 scala sources)
+2023.04.28 03:33:26 INFO  time: compiled root in 0.41s
+2023.04.28 03:33:48 INFO  compiling root (12 scala sources)
+2023.04.28 03:33:48 INFO  time: compiled root in 0.4s
+2023.04.28 03:33:52 INFO  compiling root (12 scala sources)
+2023.04.28 03:33:52 INFO  time: compiled root in 0.41s
+Apr. 28, 2023 3:34:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 22645
+2023.04.28 03:34:13 INFO  compiling root (12 scala sources)
+2023.04.28 03:34:13 INFO  time: compiled root in 0.4s
+2023.04.28 03:34:21 INFO  compiling root (12 scala sources)
+2023.04.28 03:34:21 INFO  time: compiled root in 0.41s
+2023.04.28 03:34:32 INFO  compiling root (12 scala sources)
+2023.04.28 03:34:32 INFO  time: compiled root in 0.41s
+Apr. 28, 2023 3:34:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 22856
+2023.04.28 03:34:44 INFO  compiling root (12 scala sources)
+2023.04.28 03:34:44 INFO  time: compiled root in 0.39s
+2023.04.28 03:34:52 INFO  compiling root (12 scala sources)
+2023.04.28 03:34:52 INFO  time: compiled root in 0.42s
+2023.04.28 03:34:54 INFO  compiling root (13 scala sources)
+2023.04.28 03:34:54 INFO  time: compiled root in 0.46s
+2023.04.28 03:34:54 INFO  compiling root (13 scala sources)
+2023.04.28 03:34:54 INFO  time: compiled root in 0.48s
+2023.04.28 03:35:01 INFO  compiling root (13 scala sources)
+2023.04.28 03:35:01 INFO  time: compiled root in 0.43s
+2023.04.28 03:35:04 INFO  compiling root (13 scala sources)
+2023.04.28 03:35:04 INFO  time: compiled root in 0.43s
+2023.04.28 03:35:08 INFO  compiling root (12 scala sources)
+2023.04.28 03:35:08 INFO  time: compiled root in 0.59s
+2023.04.28 03:35:13 INFO  compiling root (12 scala sources)
+2023.04.28 03:35:13 INFO  time: compiled root in 0.45s
+2023.04.28 03:35:50 INFO  compiling root (12 scala sources)
+2023.04.28 03:35:50 INFO  time: compiled root in 0.4s
+2023.04.28 03:35:58 INFO  compiling root (12 scala sources)
+2023.04.28 03:35:58 INFO  time: compiled root in 0.42s
+2023.04.28 03:36:02 INFO  compiling root (12 scala sources)
+2023.04.28 03:36:02 INFO  time: compiled root in 0.45s
+2023.04.28 03:36:05 INFO  compiling root (12 scala sources)
+2023.04.28 03:36:05 INFO  time: compiled root in 0.43s
+Apr. 28, 2023 3:36:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 23252
+2023.04.28 03:36:13 INFO  compiling root (12 scala sources)
+2023.04.28 03:36:13 INFO  time: compiled root in 0.42s
+2023.04.28 03:36:21 INFO  compiling root (12 scala sources)
+2023.04.28 03:36:21 INFO  Deduplicating compilation of root from bsp client 'Metals 0.11.12' (since 2h 42m 50.709s)
+2023.04.28 03:36:21 INFO  compiling root (12 scala sources)
+2023.04.28 03:36:21 WARN  Using indexes to guess the definition of Grid
+2023.04.28 03:36:21 INFO  time: compiled root in 0.35s
+2023.04.28 03:36:28 INFO  compiling root (12 scala sources)
+2023.04.28 03:36:28 INFO  time: compiled root in 0.41s
+2023.04.28 03:36:33 INFO  compiling root (12 scala sources)
+2023.04.28 03:36:33 INFO  time: compiled root in 0.43s
+2023.04.28 03:37:35 INFO  compiling root (12 scala sources)
+2023.04.28 03:37:35 INFO  time: compiled root in 0.43s
+2023.04.28 03:37:36 WARN  Using indexes to guess the definition of set
+2023.04.28 03:37:36 INFO  compiling root (12 scala sources)
+2023.04.28 03:37:36 WARN  Using indexes to guess the definition of set
+2023.04.28 03:37:36 INFO  time: compiled root in 0.45s
+2023.04.28 03:37:44 INFO  compiling root (12 scala sources)
+2023.04.28 03:37:44 INFO  time: compiled root in 0.45s
+Apr. 28, 2023 3:37:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 23498
+Apr. 28, 2023 3:38:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 23513
+2023.04.28 03:38:12 INFO  compiling root (12 scala sources)
+2023.04.28 03:38:12 INFO  time: compiled root in 0.46s
+2023.04.28 03:39:09 INFO  compiling root (12 scala sources)
+2023.04.28 03:39:09 INFO  time: compiled root in 0.43s
+Apr. 28, 2023 3:39:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 23650
+2023.04.28 03:39:34 INFO  compiling root (12 scala sources)
+2023.04.28 03:39:34 INFO  time: compiled root in 0.41s
+2023.04.28 03:39:39 INFO  compiling root (12 scala sources)
+2023.04.28 03:39:39 INFO  time: compiled root in 0.42s
+2023.04.28 03:39:54 INFO  compiling root (12 scala sources)
+2023.04.28 03:39:54 INFO  time: compiled root in 0.46s
+2023.04.28 03:39:54 INFO  compiling root (12 scala sources)
+2023.04.28 03:39:56 INFO  time: compiled root in 0.61s
+2023.04.28 03:40:19 WARN  Using indexes to guess the definition of Grid
+2023.04.28 03:40:20 INFO  compiling root (12 scala sources)
+2023.04.28 03:40:20 INFO  time: compiled root in 0.45s
+2023.04.28 03:40:28 INFO  compiling root (12 scala sources)
+2023.04.28 03:40:28 INFO  time: compiled root in 0.45s
+2023.04.28 03:40:29 WARN  Using indexes to guess the definition of Grid
+2023.04.28 03:40:30 INFO  compiling root (12 scala sources)
+2023.04.28 03:40:30 INFO  time: compiled root in 0.43s
+2023.04.28 03:40:54 INFO  compiling root (12 scala sources)
+2023.04.28 03:40:54 INFO  time: compiled root in 0.49s
+2023.04.28 03:40:58 WARN  Using indexes to guess the definition of addBlackPiece
+2023.04.28 03:40:59 INFO  compiling root (12 scala sources)
+2023.04.28 03:40:59 INFO  time: compiled root in 0.46s
+2023.04.28 03:41:15 INFO  compiling root (12 scala sources)
+2023.04.28 03:41:15 INFO  time: compiled root in 0.53s
+2023.04.28 03:41:21 INFO  compiling root (12 scala sources)
+2023.04.28 03:41:21 WARN  Using indexes to guess the definition of set
+2023.04.28 03:41:21 INFO  time: compiled root in 0.55s
+2023.04.28 03:41:34 INFO  compiling root (12 scala sources)
+2023.04.28 03:41:34 INFO  time: compiled root in 0.49s
+2023.04.28 03:41:40 INFO  compiling root (12 scala sources)
+2023.04.28 03:41:40 INFO  time: compiled root in 0.49s
+2023.04.28 03:41:43 INFO  compiling root (12 scala sources)
+2023.04.28 03:41:43 INFO  time: compiled root in 0.75s
+2023.04.28 03:41:46 INFO  compiling root (12 scala sources)
+2023.04.28 03:41:46 INFO  time: compiled root in 0.47s
+2023.04.28 03:41:50 INFO  compiling root (12 scala sources)
+2023.04.28 03:41:50 WARN  Using indexes to guess the definition of addBlackPiece
+2023.04.28 03:41:50 INFO  time: compiled root in 0.55s
+2023.04.28 03:41:54 INFO  compiling root (12 scala sources)
+2023.04.28 03:41:54 WARN  Using indexes to guess the definition of addBlackPiece
+2023.04.28 03:41:54 INFO  time: compiled root in 0.5s
+2023.04.28 03:41:58 WARN  Using indexes to guess the definition of field
+2023.04.28 03:41:59 WARN  Using indexes to guess the definition of addBlackPiece
+2023.04.28 03:41:59 WARN  Using indexes to guess the definition of field
+2023.04.28 03:42:00 WARN  Using indexes to guess the definition of addBlackPiece
+2023.04.28 03:42:02 WARN  Using indexes to guess the definition of addWhitePiece
+2023.04.28 03:42:02 WARN  Using indexes to guess the definition of field
+2023.04.28 03:42:02 WARN  Using indexes to guess the definition of addWhitePiece
+2023.04.28 03:42:03 WARN  Using indexes to guess the definition of addWhitePiece
+2023.04.28 03:42:04 WARN  Using indexes to guess the definition of addWhitePiece
+2023.04.28 03:42:04 WARN  Using indexes to guess the definition of addWhitePiece
+2023.04.28 03:42:04 WARN  Using indexes to guess the definition of size
+2023.04.28 03:42:05 INFO  compiling root (12 scala sources)
+2023.04.28 03:42:05 INFO  time: compiled root in 0.44s
+2023.04.28 03:42:19 INFO  compiling root (12 scala sources)
+2023.04.28 03:42:19 INFO  time: compiled root in 0.46s
+2023.04.28 03:42:21 WARN  Using indexes to guess the definition of addWhitePiece
+2023.04.28 03:42:22 WARN  Using indexes to guess the definition of removePiece
+2023.04.28 03:42:23 INFO  compiling root (12 scala sources)
+2023.04.28 03:42:23 INFO  time: compiled root in 0.46s
+2023.04.28 03:42:25 INFO  compiling root (12 scala sources)
+2023.04.28 03:42:25 INFO  time: compiled root in 0.43s
+2023.04.28 03:43:01 INFO  compiling root (12 scala sources)
+2023.04.28 03:43:01 INFO  time: compiled root in 0.42s
+2023.04.28 03:43:03 INFO  compiling root (12 scala sources)
+2023.04.28 03:43:03 INFO  time: compiled root in 0.55s
+2023.04.28 03:43:08 INFO  compiling root (12 scala sources)
+2023.04.28 03:43:08 INFO  time: compiled root in 0.49s
+Apr. 28, 2023 3:43:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 24701
+Apr. 28, 2023 3:43:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 24702
+2023.04.28 03:43:52 INFO  compiling root (12 scala sources)
+2023.04.28 03:43:52 INFO  time: compiled root in 0.39s
+2023.04.28 03:44:15 INFO  compiling root (12 scala sources)
+2023.04.28 03:44:15 INFO  time: compiled root in 0.41s
+2023.04.28 03:44:31 INFO  compiling root (12 scala sources)
+2023.04.28 03:44:31 INFO  time: compiled root in 0.41s
+2023.04.28 03:44:44 INFO  compiling root (12 scala sources)
+2023.04.28 03:44:44 INFO  time: compiled root in 0.47s
+2023.04.28 03:44:48 INFO  compiling root (12 scala sources)
+2023.04.28 03:44:48 INFO  time: compiled root in 0.4s
+2023.04.28 03:44:51 INFO  compiling root (12 scala sources)
+2023.04.28 03:44:51 INFO  time: compiled root in 0.43s
+2023.04.28 03:45:09 WARN  Using indexes to guess the definition of StoneAt
+2023.04.28 03:45:27 INFO  compiling root (12 scala sources)
+2023.04.28 03:45:27 INFO  time: compiled root in 0.54s
+2023.04.28 03:45:52 INFO  compiling root (12 scala sources)
+2023.04.28 03:45:52 INFO  time: compiled root in 0.53s
+2023.04.28 03:45:56 INFO  compiling root (12 scala sources)
+2023.04.28 03:45:56 INFO  time: compiled root in 0.51s
+2023.04.28 03:46:02 INFO  compiling root (12 scala sources)
+2023.04.28 03:46:02 INFO  time: compiled root in 0.57s
+Apr. 28, 2023 3:46:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 25513
+2023.04.28 03:46:07 INFO  compiling root (12 scala sources)
+Apr. 28, 2023 3:46:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 25531
+2023.04.28 03:46:07 INFO  time: compiled root in 0.61s
+2023.04.28 03:46:09 INFO  compiling root (12 scala sources)
+2023.04.28 03:46:09 WARN  Using indexes to guess the definition of addWhitePiece
+2023.04.28 03:46:09 INFO  time: compiled root in 0.54s
+2023.04.28 03:46:09 WARN  Using indexes to guess the definition of Grid
+Apr. 28, 2023 3:46:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 25595
+2023.04.28 03:46:12 INFO  compiling root (12 scala sources)
+2023.04.28 03:46:12 INFO  time: compiled root in 0.46s
+2023.04.28 03:46:12 INFO  compiling root (12 scala sources)
+2023.04.28 03:46:13 INFO  time: compiled root in 0.41s
+2023.04.28 03:46:27 INFO  compiling root (12 scala sources)
+2023.04.28 03:46:27 INFO  time: compiled root in 0.45s
+2023.04.28 03:46:41 INFO  compiling root (12 scala sources)
+2023.04.28 03:46:41 INFO  time: compiled root in 0.41s
+Apr. 28, 2023 3:46:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 25709
+2023.04.28 03:46:44 INFO  compiling root (12 scala sources)
+2023.04.28 03:46:44 INFO  time: compiled root in 0.48s
+2023.04.28 03:47:05 INFO  compiling root (12 scala sources)
+2023.04.28 03:47:05 INFO  time: compiled root in 0.45s
+2023.04.28 03:47:46 INFO  compiling root (12 scala sources)
+2023.04.28 03:47:46 INFO  time: compiled root in 0.47s
+2023.04.28 03:47:55 INFO  compiling root (12 scala sources)
+2023.04.28 03:47:55 INFO  time: compiled root in 0.46s
+2023.04.28 03:48:01 INFO  compiling root (12 scala sources)
+2023.04.28 03:48:01 INFO  time: compiled root in 0.43s
+2023.04.28 03:48:08 INFO  compiling root (12 scala sources)
+2023.04.28 03:48:08 INFO  time: compiled root in 0.43s
+2023.04.28 03:48:22 INFO  compiling root (12 scala sources)
+2023.04.28 03:48:22 INFO  time: compiled root in 0.42s
+2023.04.28 03:48:33 INFO  compiling root (12 scala sources)
+2023.04.28 03:48:33 INFO  time: compiled root in 0.42s
+Apr. 28, 2023 3:48:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 26173
+2023.04.28 03:48:42 INFO  compiling root (12 scala sources)
+2023.04.28 03:48:42 INFO  time: compiled root in 0.41s
+2023.04.28 03:48:45 INFO  compiling root (12 scala sources)
+2023.04.28 03:48:45 INFO  time: compiled root in 0.44s
+2023.04.28 03:48:52 INFO  compiling root (12 scala sources)
+2023.04.28 03:48:52 INFO  time: compiled root in 0.43s
+2023.04.28 03:49:14 INFO  compiling root (12 scala sources)
+2023.04.28 03:49:14 INFO  time: compiled root in 0.83s
+2023.04.28 03:49:32 INFO  compiling root (12 scala sources)
+2023.04.28 03:49:32 INFO  time: compiled root in 0.78s
+2023.04.28 03:49:50 INFO  compiling root (12 scala sources)
+2023.04.28 03:49:50 INFO  time: compiled root in 0.8s
+2023.04.28 03:49:58 INFO  compiling root (12 scala sources)
+2023.04.28 03:49:58 INFO  time: compiled root in 0.77s
+2023.04.28 03:50:13 INFO  compiling root (12 scala sources)
+2023.04.28 03:50:13 INFO  time: compiled root in 0.65s
+2023.04.28 03:50:43 INFO  compiling root (12 scala sources)
+2023.04.28 03:50:43 INFO  time: compiled root in 0.45s
+2023.04.28 03:50:51 INFO  compiling root (12 scala sources)
+2023.04.28 03:50:51 INFO  time: compiled root in 0.46s
+2023.04.28 03:50:54 INFO  compiling root (12 scala sources)
+2023.04.28 03:50:54 INFO  time: compiled root in 0.44s
+2023.04.28 03:51:06 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:06 INFO  time: compiled root in 0.41s
+2023.04.28 03:51:06 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:06 INFO  time: compiled root in 0.42s
+2023.04.28 03:51:06 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:07 INFO  time: compiled root in 0.34s
+2023.04.28 03:51:07 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:08 INFO  time: compiled root in 0.35s
+2023.04.28 03:51:12 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:12 INFO  time: compiled root in 0.34s
+2023.04.28 03:51:24 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:24 INFO  time: compiled root in 0.33s
+2023.04.28 03:51:26 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:26 INFO  time: compiled root in 0.44s
+2023.04.28 03:51:26 WARN  Using indexes to guess the definition of Start
+2023.04.28 03:51:29 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:29 INFO  time: compiled root in 0.36s
+2023.04.28 03:51:31 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:31 INFO  time: compiled root in 0.4s
+2023.04.28 03:51:37 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:37 INFO  time: compiled root in 0.36s
+2023.04.28 03:51:45 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:45 INFO  time: compiled root in 0.31s
+2023.04.28 03:51:45 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:46 INFO  time: compiled root in 0.4s
+2023.04.28 03:51:50 INFO  compiling root (11 scala sources)
+2023.04.28 03:51:50 INFO  time: compiled root in 0.38s
+2023.04.28 03:51:55 INFO  Shutting down server
+2023.04.28 03:51:55 INFO  shutting down Metals
+2023.04.28 03:51:55 INFO  Shut down connection with build server.
+2023.04.28 03:51:55 INFO  Shut down connection with build server.
+2023.04.28 03:51:55 INFO  Shut down connection with build server.
+2023.04.28 03:51:55 INFO  Exiting server
+2023.04.28 03:52:07 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game' for client Visual Studio Code 1.77.3.
+Apr. 28, 2023 3:52:07 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMATION: Flyway Community Edition 9.16.3 by Redgate
+Apr. 28, 2023 3:52:07 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMATION: See release notes here: https://rd.gt/416ObMi
+Apr. 28, 2023 3:52:07 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMATION: 
+Apr. 28, 2023 3:52:07 AM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMATION: Database: jdbc:h2:file:C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\metals (H2 2.1)
+Apr. 28, 2023 3:52:07 AM org.flywaydb.core.internal.command.DbValidate validate
+INFORMATION: Successfully validated 4 migrations (execution time 00:00.033s)
+Apr. 28, 2023 3:52:07 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMATION: Current version of schema "PUBLIC": 4
+Apr. 28, 2023 3:52:07 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMATION: Schema "PUBLIC" is up to date. No migration necessary.
+2023.04.28 03:52:08 INFO  time: initialize in 1.33s
+2023.04.28 03:52:11 INFO  Attempting to connect to the build server...
+2023.04.28 03:52:11 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.28 03:52:11 INFO  skipping build import with status 'Installed'
+2023.04.28 03:52:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.28 03:52:11 INFO  Attempting to connect to the build server...
+2023.04.28 03:52:11 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.28 03:52:11 INFO  Attempting to connect to the build server...
+2023.04.28 03:52:11 INFO  Bloop uses C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot defined at C:\Users\Robin\.bloop\bloop.json
+2023.04.28 03:52:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.28 03:52:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\project\project\.metals\bsp.trace.json or C:\Users\Robin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.04.28 03:52:11 INFO  time: Connected to build server in 0.37s
+2023.04.28 03:52:11 INFO  Connected to Build server: Bloop v1.5.6
+2023.04.28 03:52:13 INFO  no build target found for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\StartGame.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.28 03:52:13 INFO  time: code lens generation in 2.62s
+2023.04.28 03:52:15 INFO  no build target found for C:\Users\Robin\OneDrive\Desktop\HTWG\Software Engineering\game\src\main\scala\model\StartGame.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.28 03:52:16 INFO  time: code lens generation in 5.62s
+2023.04.28 03:52:20 INFO  time: indexed workspace in 6.54s
+2023.04.28 03:52:24 INFO  compiling root (11 scala sources)
+2023.04.28 03:52:24 INFO  time: compiled root in 0.57s
+2023.04.28 03:52:24 INFO  compiling root (11 scala sources)
+2023.04.28 03:52:26 INFO  time: compiled root in 0.75s
+2023.04.28 03:52:26 INFO  compiling root (11 scala sources)
+2023.04.28 03:52:26 INFO  time: compiled root in 0.4s
+2023.04.28 03:52:27 INFO  compiling root (11 scala sources)
+2023.04.28 03:52:27 INFO  time: compiled root in 0.41s
+2023.04.28 03:52:29 INFO  compiling root (11 scala sources)
+2023.04.28 03:52:29 INFO  time: compiled root in 0.48s

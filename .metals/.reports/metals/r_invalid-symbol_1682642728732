@@ -1,0 +1,3 @@
+Symbol: model/Field#currentPlayer().
+Error message: model/Field#currentPlayer().
+Error: scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: model/Field#currentPlayer().

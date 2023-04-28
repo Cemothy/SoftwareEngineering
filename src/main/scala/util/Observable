@@ -1,4 +1,4 @@
-package de.htwg.se.sudoku.util
+package model
 
 trait Observer {
   def update: Unit

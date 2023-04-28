@@ -1,0 +1,3 @@
+Symbol: model/Field$package.main().
+Error message: model/Field$package.main().
+Error: scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: model/Field$package.main().
