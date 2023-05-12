@@ -23,17 +23,28 @@ case class Grid(var field: Matrix[Stone]) {
     def addWhitePiece(row: Int, col: Int): Unit = {
       set(row,col,Stone.o)
     } 
-  
+    
+    def addWhitePieceBoard(row: Int, col: Int): Unit = {
+        addWhitePiece(size-row,col-1)
+    }
 
     // Methode zum Hinzufügen eines schwarzen Spielsteins
     def addBlackPiece(row: Int, col: Int): Unit = {
       set(row,col,Stone.x)
     }
 
+    def addBlackPieceBoard(row: Int, col: Int): Unit = {
+        addBlackPiece(size-row,col-1)
+    }
+
 
     // Methode zum Entfernen eines Spielsteins
     def removePiece(row: Int, col: Int): Unit  = {
       set(row,col,Stone.empty)
+    }
+
+    def removePieceBoard(row: Int, col: Int): Unit = {
+        removePiece(size-row,col-1)
     }
 
     

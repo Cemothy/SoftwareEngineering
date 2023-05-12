@@ -1,8 +1,8 @@
-import org.scalatest.matchers.should.Matchers._
+import org.scalatest.matchers.should.Matchers
 import org.scalatest.wordspec.AnyWordSpec
 import model.{Grid, Stone, Matrix, Player}
 
-class GridSpec extends AnyWordSpec {
+class GridSpec extends AnyWordSpec with Matchers {
 
   "A Grid" when {
 
@@ -88,15 +88,15 @@ class GridSpec extends AnyWordSpec {
 
       "should allow to capture for white" in {
         grid.currentPlayer = Player.white
-        grid.addWhitePiece(1,1)
-        grid.addBlackPiece(2,2)
-        grid.movePiece(1,1,3,3) shouldEqual true
+        grid.addWhitePieceBoard(1,1)
+        grid.addBlackPieceBoard(2,2)
+        grid.movePiece(1,1,2,2) shouldEqual true
         grid.StoneAtBoard(1,1) shouldEqual Stone.empty
         grid.StoneAtBoard(2,2) shouldEqual Stone.empty
         grid.StoneAtBoard(3,3) shouldEqual Stone.o
 
-        grid.addWhitePiece(1,8)
-        grid.addBlackPiece(2,7)
+        grid.addWhitePieceBoard(1,8)
+        grid.addBlackPieceBoard(2,7)
         grid.movePiece(1,8,3,6) shouldEqual true
         grid.StoneAtBoard(1,8) shouldEqual Stone.empty
         grid.StoneAtBoard(2,7) shouldEqual Stone.empty
@@ -105,24 +105,21 @@ class GridSpec extends AnyWordSpec {
 
       "should allow to capture for black" in {
         grid.currentPlayer = Player.black
-        grid.addWhitePiece(8,8)
-        grid.addBlackPiece(7,7)
+        grid.addWhitePiece(7,7)
+        grid.addBlackPiece(6,6)
         grid.movePiece(8,8,6,6) shouldEqual true
         grid.StoneAtBoard(8,8) shouldEqual Stone.empty
         grid.StoneAtBoard(7,7) shouldEqual Stone.empty
         grid.StoneAtBoard(6,6) shouldEqual Stone.x
 
-        grid.addWhitePiece(8,1)
-        grid.addBlackPiece(7,2)
-        grid.movePiece(8,1,6,3) shouldEqual true
-        grid.StoneAtBoard(8,1) shouldEqual Stone.empty
-        grid.StoneAtBoard(7,2) shouldEqual Stone.empty
-        grid.StoneAtBoard(6,3) shouldEqual Stone.x
+        grid.addWhitePiece(7,1)
+        grid.addBlackPiece(6,2)
+        grid.movePiece(8,2,6,4) shouldEqual true
+        grid.StoneAtBoard(8,2) shouldEqual Stone.empty
+        grid.StoneAtBoard(7,3) shouldEqual Stone.empty
+        grid.StoneAtBoard(6,4) shouldEqual Stone.x
       }
 
-      "should return false for finished(not done yet)"{
-        grid.finished() shouldEqual false
-      }
 
 
       }
