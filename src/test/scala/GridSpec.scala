@@ -34,7 +34,7 @@ class GridSpec extends AnyWordSpec {
         grid.StoneAt(1, 1) shouldEqual Stone.empty
       }
 
-      "allow moving pieces" in {
+      "allow moving pieces for white" in {
         grid.addWhitePiece(grid.size-4, 3)
         grid.removePiece(grid.size-5,4)
         grid.currentPlayer = Player.white
@@ -42,24 +42,93 @@ class GridSpec extends AnyWordSpec {
         grid.StoneAtBoard(5,5) shouldEqual Stone.o
       }
 
-      "not allow illegal moves" in {
+      "allow moving pieces for black" in {
+        grid.addBlackPiece(grid.size-5, 4)
+        grid.removePiece(grid.size-4,3)
+        grid.currentPlayer = Player.black
+        grid.movePiece(5, 5, 4, 4) shouldEqual true
+        grid.StoneAtBoard(4,4) shouldEqual Stone.x
+      }
+
+      "not allow to move a field with no piece" in {
         //no Piece
         grid.addWhitePiece(grid.size-5,4)
         grid.removePiece(grid.size-4,3)
         grid.movePiece(5, 5, 4, 4) shouldEqual false
+      }
+
+      "not allow to move a piece more then one field if its not capturing" in {
         //illegal Move
         grid.addWhitePiece(grid.size-5,4)
         grid.removePiece(grid.size-4,3)
         grid.movePiece(5, 5, 4, 4) shouldEqual false
+      }
+
+      "not allow to move a piece onto a field thats already occupied" in {
         //Already Occupied
         grid.addWhitePiece(grid.size-5,4)
         grid.addWhitePiece(grid.size-6,5)
-        grid.movePiece(5, 5, 6, 6) shouldEqual true
-        
+        grid.movePiece(5, 5, 6, 6) shouldEqual false
+      } 
+
+      "not allow to move to a field thats out of bounds" in {
+        grid.movePiece(8,8,9,9) shouldEqual false
+
+      }
+
+      "not allow to target a field thats out of bound" in {
+        grid.movePiece(0,0,1,1) shouldEqual false
+      }
+
+      "not allow to move the opposite piece" in {
+        grid.currentPlayer = Player.white
+        grid.addBlackPiece(1,1)
+        grid.movePiece(1,1,2,2) shouldEqual false
+      }
+
+      "should allow to capture for white" in {
+        grid.currentPlayer = Player.white
+        grid.addWhitePiece(1,1)
+        grid.addBlackPiece(2,2)
+        grid.movePiece(1,1,3,3) shouldEqual true
+        grid.StoneAtBoard(1,1) shouldEqual Stone.empty
+        grid.StoneAtBoard(2,2) shouldEqual Stone.empty
+        grid.StoneAtBoard(3,3) shouldEqual Stone.o
+
+        grid.addWhitePiece(1,8)
+        grid.addBlackPiece(2,7)
+        grid.movePiece(1,8,3,6) shouldEqual true
+        grid.StoneAtBoard(1,8) shouldEqual Stone.empty
+        grid.StoneAtBoard(2,7) shouldEqual Stone.empty
+        grid.StoneAtBoard(3,6) shouldEqual Stone.o
+      }
+
+      "should allow to capture for black" in {
+        grid.currentPlayer = Player.black
+        grid.addWhitePiece(8,8)
+        grid.addBlackPiece(7,7)
+        grid.movePiece(8,8,6,6) shouldEqual true
+        grid.StoneAtBoard(8,8) shouldEqual Stone.empty
+        grid.StoneAtBoard(7,7) shouldEqual Stone.empty
+        grid.StoneAtBoard(6,6) shouldEqual Stone.x
+
+        grid.addWhitePiece(8,1)
+        grid.addBlackPiece(7,2)
+        grid.movePiece(8,1,6,3) shouldEqual true
+        grid.StoneAtBoard(8,1) shouldEqual Stone.empty
+        grid.StoneAtBoard(7,2) shouldEqual Stone.empty
+        grid.StoneAtBoard(6,3) shouldEqual Stone.x
+      }
+
+      "should return false for finished(not done yet)"{
+        grid.finished() shouldEqual false
+      }
+
+
       }
 
     }
 
   }
 
-}
+
