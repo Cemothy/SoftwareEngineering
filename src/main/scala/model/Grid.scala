@@ -47,8 +47,7 @@ case class Grid(var field: Matrix[Stone]) {
         removePiece(size-row,col-1)
     }
 
-    
-    //Methode für Basic Move, ohn Springen und erlaubt bis jetzt auch noch manche illegale Züge
+    //Methode für Basic Move, ohn Springen und erlaubt bis jetzt auch noch manche illegale Züge(Uses Boardfield)
     def movePiece(row: Int, col: Int, rowDest: Int, colDest: Int): Boolean = {
       print(size)
         var colMov = 0
@@ -85,9 +84,12 @@ case class Grid(var field: Matrix[Stone]) {
             else 
                 colMov = -1 
             if(this.StoneAtBoard(row+1,(col + colMov)).equals(Stone.x))
-                removePiece(size-row,col-1)
-                removePiece(size-row+1,col-1+colMov)
-                addWhitePiece(size-rowDest,colDest-1)
+                removePieceBoard(row,col)
+                //removePiece(size-row,col-1)
+                removePieceBoard(row+1,col+colMov)
+                //removePiece(size-row+1,col-1+colMov)
+                addWhitePieceBoard(rowDest,colDest)
+                //addWhitePiece(size-rowDest,colDest-1)
 
                 print("geschlagen")
                 geschlagen = true
@@ -100,15 +102,21 @@ case class Grid(var field: Matrix[Stone]) {
                 colMov = 1
             else 
                 colMov = -1 
-            if(this.StoneAtBoard(row + 1,(col + colMov)).equals(Stone.o))
-                removePiece(size-row,col-1)
-                removePiece(size-row+1,col-1+colMov)
-                addWhitePiece(size-rowDest,colDest-1)
+            print("black 1 \n")
+            if(this.StoneAtBoard(row - 1,(col + colMov)).equals(Stone.o))
+                print("black 2\n")
+                removePieceBoard(row,col)
+                //removePiece(size-row,col-1)
+                removePieceBoard(row-1,col+colMov)
+                //removePiece(size-row+1,col-1+colMov)
+                addBlackPieceBoard(rowDest,colDest)
+                //addWhitePiece(size-rowDest,colDest-1)
 
-                print("geschlagen")
+                print("geschlagen\n")
                 geschlagen = true
                 //hier muss noch Code für Folgeschläge hin
-        //Schlag regel ? 
+        //Schlag regel ?
+        print("kein schlag\n") 
             //if(Gibts einen Schlag)
         //ist das Ziel eins schräg nebendran ?
         if(geschlagen == false)
