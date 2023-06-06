@@ -23,6 +23,7 @@ class ControllerSpec extends AnyWordSpec {
     }
 
 
+    
     "displaying the board" should {
       "print the current state of the grid" in {
         val boardString = controller.gridToString
