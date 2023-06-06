@@ -1,6 +1,7 @@
 package model
 import model.Stone
 import model.Matrix._
+import model.Move
 import scala.io.StdIn._
 
 
@@ -12,146 +13,59 @@ case class Grid(var field: Matrix[Stone]) {
 
     val size: Int = field.size
     
+    //Returns the Stone at Pos(row,col) with Matrix Positions
     def StoneAt(row: Int, col: Int): Stone = field.cell(row,col)
+
+    //Returns the Stone at Pos(row,col) with Real Position
     def StoneAtBoard(row: Int, col: Int): Stone = field.cell(size-row, col-1)
 
+    //Sets (Matrix Parameters)
     def set(row: Int, col: Int, value: Stone): Unit = {
       field = field.replaceCell(row, col, value)
     }
 
-    // Methode zum Hinzufügen eines weißen Spielsteins
+    // Methode zum Hinzufügen eines weißen Spielsteins (Matrix)
     def addWhitePiece(row: Int, col: Int): Unit = {
       set(row,col,Stone.o)
     } 
     
+    // Methode zum Hinzufügen eines weißen Spielsteins (Real Board)
     def addWhitePieceBoard(row: Int, col: Int): Unit = {
         addWhitePiece(size-row,col-1)
     }
 
-    // Methode zum Hinzufügen eines schwarzen Spielsteins
+    // Methode zum Hinzufügen eines schwarzen Spielsteins (Matrix)
     def addBlackPiece(row: Int, col: Int): Unit = {
       set(row,col,Stone.x)
     }
 
+    // Methode zum Hinzufügen eines schwarzen Spielsteins (Real Board)
     def addBlackPieceBoard(row: Int, col: Int): Unit = {
         addBlackPiece(size-row,col-1)
     }
 
 
-    // Methode zum Entfernen eines Spielsteins
+    // Methode zum Entfernen eines Spielsteins (Matrix)
     def removePiece(row: Int, col: Int): Unit  = {
       set(row,col,Stone.empty)
     }
 
+    // Methode zum Entfernen eines Spielsteins (Real Board)
     def removePieceBoard(row: Int, col: Int): Unit = {
         removePiece(size-row,col-1)
     }
 
-    //Methode für Basic Move, ohn Springen und erlaubt bis jetzt auch noch manche illegale Züge(Uses Boardfield)
-    def movePiece(row: Int, col: Int, rowDest: Int, colDest: Int): Boolean = {
-      print(size)
-        var colMov = 0
-        var geschlagen = false
-        //ist das Feld innerhalb der Boundaries
-        if((row < 1 || row > this.size+1) || (col < 1 || col > this.size+1)) 
-            print("Field is out of bounds!")
-            return false
-        
-        //ist das Zielfeld innerhalb der Boundaries
-        if((rowDest < 1 || rowDest > this.size+1) || (colDest < 1 || colDest > this.size+1)) 
-            print("Destination is out of bounds!")
-            return false
-
-        //ist an der Stelle ein ein Stein der erforderten Farbe
-        if((this.StoneAtBoard(row,col).equals(Stone.empty)))
-            print(StoneAtBoard(row,col))
-            print("No Piece at target Field")
-            return false
-        if((this.currentPlayer.equals(Player.white)))
-            if(!(this.StoneAtBoard(row,col).equals(Stone.o)))
-                print("Not a white Piece")
-                return false
-        if((this.currentPlayer.equals(Player.black)))
-            if(!(this.StoneAtBoard(row,col).equals(Stone.x)))
-                print("Not a black Piece")
-                return false
-        //Wird geschlagen?
-        //Weiß
-        if(this.currentPlayer.equals(Player.white))
-          if((rowDest - row) == 2 && (Math.abs(colDest-col) == 2)) 
-            if(colDest-col > 0)
-                colMov = 1
-            else 
-                colMov = -1 
-            if(this.StoneAtBoard(row+1,(col + colMov)).equals(Stone.x))
-                removePieceBoard(row,col)
-                //removePiece(size-row,col-1)
-                removePieceBoard(row+1,col+colMov)
-                //removePiece(size-row+1,col-1+colMov)
-                addWhitePieceBoard(rowDest,colDest)
-                //addWhitePiece(size-rowDest,colDest-1)
-
-                print("geschlagen")
-                geschlagen = true
-                //hier muss noch Code für Folgeschläge hin
-
-        //Schwarz
-        else if(this.currentPlayer.equals(Player.black))
-          if((rowDest - row) == -2 && (Math.abs(colDest-col) == 2)) 
-            if(colDest-col > 0) 
-                colMov = 1
-            else 
-                colMov = -1 
-            print("black 1 \n")
-            if(this.StoneAtBoard(row - 1,(col + colMov)).equals(Stone.o))
-                print("black 2\n")
-                removePieceBoard(row,col)
-                //removePiece(size-row,col-1)
-                removePieceBoard(row-1,col+colMov)
-                //removePiece(size-row+1,col-1+colMov)
-                addBlackPieceBoard(rowDest,colDest)
-                //addWhitePiece(size-rowDest,colDest-1)
-
-                print("geschlagen\n")
-                geschlagen = true
-                //hier muss noch Code für Folgeschläge hin
-        //Schlag regel ?
-        print("kein schlag\n") 
-            //if(Gibts einen Schlag)
-        //ist das Ziel eins schräg nebendran ?
-        if(geschlagen == false)
-            //weiß
-            if(this.currentPlayer.equals(Player.white))
-                if(!((rowDest-row) == 1 && Math.abs(colDest-col) == 1))
-                    print("illegal Move!")
-                    return false
-                //ein Stein an der Stelle? 
-                if(!(StoneAtBoard(rowDest,colDest).equals(Stone.empty)))
-                    print("Field is blocked")
-                //Spielzug
-                removePiece(size-row,col-1)
-                addWhitePiece(size-rowDest,colDest-1)
-                print("moved!")
-
-            
-            //black
-            if(this.currentPlayer.equals(Player.black))
-                if(!((rowDest-row) == -1) && Math.abs(colDest-col) == 1)
-                    print("illegal Move!")
-                    return false
-                //ein Stein an der Stelle
-                if(!(StoneAtBoard(rowDest,colDest).equals(Stone.empty)))
-                    print("Field is blocked")
-                //Spielzug
-                removePiece(size-row,col-1)
-                addBlackPiece(size-rowDest,colDest-1)
-                print("moved!")
-                
-
-        true
+    def moveWhitePiece(row: Int, col: Int, rowDest: Int, colDest: Int): Boolean = {
+        val number = 1
+        Move.movePiece(this, row, col, rowDest, colDest, Stone.o, number)
     }
+    def moveBlackPiece(row: Int, col: Int, rowDest: Int, colDest: Int): Boolean = {
+        val number = -1
+        Move.movePiece(this, row, col, rowDest, colDest, Stone.x, number)
+    } 
 
-     def finished(): Boolean = {
+    
+    def finished(): Boolean = {
         var result = false
         for(row <- 0 until size){
         for(col <- 0 until size){
@@ -169,31 +83,28 @@ case class Grid(var field: Matrix[Stone]) {
         result
     }
 
-
-
-     def start(): Unit = {
+    
+    def start(): Unit = {
+    var grid : Grid = null
     while (!this.finished()){
       print(this.toString)
       if(this.currentPlayer.equals(Player.white)){
         print("Weiss ist am Zug: \n")
         print("Welchen Stein willst du bewegen: ")
         val Array(row,col) = readLine.split(" ").map(_.toInt)
-        //val row = rowS.toInt
-        //val col = colS.toInt
-        //val Array(row,col) = readLine.split(" ").map(_.toInt)
         print("Wohin: ")
         val Array(rowDest, colDest) = readLine.split(" ").map(_.toInt)
-        if(movePiece(row, col, rowDest, colDest)) {
-          this.currentPlayer = Player.black
-      }
+        if(moveWhitePiece(row,col,rowDest,colDest)){
+            this.currentPlayer = Player.black
+        }
     } else if(this.currentPlayer.equals(Player.black)){
         print("Schwarz ist am Zug: \n")
         print("Welchen Stein willst du bewegen: ")
         val Array(row,col) = readLine.split(" ").map(_.toInt)
         print("Wohin: ")
         val Array(rowDest, colDest) = readLine.split(" ").map(_.toInt)
-        if(movePiece(row, col, rowDest, colDest)){
-          this.currentPlayer = Player.white
+        if(moveBlackPiece(row,col,rowDest,colDest)){
+            this.currentPlayer = Player.white
         }
       }
   }

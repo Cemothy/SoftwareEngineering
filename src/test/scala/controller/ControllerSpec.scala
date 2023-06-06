@@ -30,12 +30,13 @@ class ControllerSpec extends AnyWordSpec {
         println(s"Current Board State:\n$boardString")
       }
     }
-
+    /*
     "moving a piece to a valid position" should {
       "update the grid with the moved piece" in {
         controller.movePiece(3, 4, 2, 4)
         assert(controller.grid.StoneAt(2, 4) == Stone.x)
       }
     }
+    */
   }
 }

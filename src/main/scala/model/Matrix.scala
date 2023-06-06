@@ -13,7 +13,12 @@ case class Matrix[T](board: Vector[Vector[T]]) {
 
     def replaceCell(row: Int, col: Int, cell: T): Matrix[T] = copy(board.updated(row, board(row).updated(col,cell)))
 
-    
+    override def equals(obj: Any): Boolean = {
+        obj match {
+            case other: Matrix[T] => board == other.board
+            case _ => false
+        }
+    }
 
         
     //Checked ob es für den gegebenen Stein noch einen möglichen Zug gibt(funktioniert noch nicht richtig)

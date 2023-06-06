@@ -1,10 +1,81 @@
 package model
 
 
+object Move{
 
-case class Move(var grid: Grid) {
+    def movePiece(grid: Grid, row: Int, col: Int, rowDest: Int, colDest: Int, color: Stone, direction: Int): Boolean = {
+        var exit = false
+        var moved = false
+        var colMov = 0
+        //is Start out of Bounds? 
+        if((row < 1 || row > grid.size+1) || (col < 1 || col > grid.size + 1))
+            print("Field is out of bounds!\n")
+            exit = true
+        
+        //is Target out of Bounds?
+        if((rowDest < 1 || rowDest > grid.size+1) || (colDest < 1 || colDest > grid.size+1)) 
+            print("Destination is out of bounds!\n")
+            exit = true
+        
+        //is at Start a Stone of the right color? 
+        if(!(grid.StoneAtBoard(row,col).equals(color)))
+            print("Wrong or No Piece at target Field\n")
+            exit = true
+
+        //is Target occupied? 
+        if(!(grid.StoneAtBoard(rowDest,colDest).equals(Stone.empty)))
+            print("Field is blocked\n")
+            exit = true
+        
+        //Wird geschlagen?
+        if(exit == false && (rowDest-row) == 2 * direction && (Math.abs(colDest-col) == 2))
+            if(colDest-col > 0) colMov = 1
+            else colMov = -1 
+            if(grid.StoneAtBoard(row + direction,(col + colMov)).equals(color.negate(color)))
+                grid.removePieceBoard(row,col)
+                grid.removePieceBoard(row+1,col+colMov)
+                grid.set(rowDest,colDest,color)
+                print("geschlagen\n")
+                moved = true
+
+        //Falls nicht geschlagen wird
+        if(exit == false && ((rowDest-row) == direction && Math.abs(colDest-col) ==1))
+            grid.removePiece(grid.size-row,col-1)
+            grid.set(grid.size-rowDest,colDest-1,color)
+            print("moved!\n")
+            moved = true
+        return moved      
+    }
+}
 
 
+    /*
+    
+   
+       
+                
+
+
+
+     def finished(): Boolean = {
+        var result = false
+        for(row <- 0 until size){
+        for(col <- 0 until size){
+            if(StoneAt(row,col).equals(Stone.o) && this.currentPlayer.equals(Player.white)){
+            if(field.possibleMove(row,col)) {
+                result = true
+            }
+            } else if(StoneAt(row,col).equals(Stone.x) && this.currentPlayer.equals(Player.black)) {
+            if(field.possibleMove(row,col)) {
+                result = true
+            }
+            }
+        }
+        }
+        result
+    }
+
+    */
     /*
     def movePiece(row: Int, col: Int, rowDest: Int, colDest: Int): Grid = {
         var colMov = 0
@@ -148,5 +219,3 @@ case class Move(var grid: Grid) {
         result
     }
     */
-
-}

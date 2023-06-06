@@ -28,10 +28,12 @@ class Controller(var grid:Grid) extends Observable{
         notifyObservers()
     }
 
+    /*
     def movePiece(row: Int, col: Int, rowDest: Int, colDest: Int): Unit = {
-        grid.movePiece(row,col,rowDest,colDest)
+        Move.movePiece(gird,row,col,rowDest,colDest)
         notifyObservers()
     }
+    */
 
 
 
